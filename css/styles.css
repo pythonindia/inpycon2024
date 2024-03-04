@@ -7,6 +7,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     overflow-x: hidden;
+    background: #f9f5e5;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', arial, sans-serif;
@@ -574,6 +575,7 @@ img {
     display: block;
     height: auto;
     max-width: 100%;
+    padding: 15%;
 }
 .img-rounded {
     border-radius: 3px;
