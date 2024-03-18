@@ -6,10 +6,11 @@ India’s premier conference on using and developing the Python programming lang
 
 - Conference: Coming Soon
 - Workshops: Coming Soon
-- Dev Sprints: COming Soon 
+- Dev Sprints: Coming Soon 
 
 **Venue**
-Coming Soon
+NIMHANS Convention Centre
+Bengaluru
 
 ## License
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE.md)
