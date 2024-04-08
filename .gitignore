@@ -1,20 +1,3 @@
-# Node.js files
-node_modules/
-
-# Build files
 dist/
-build/
-
-# Package manager lock files
+node_modules/
 package-lock.json
-yarn.lock
-
-# Editor files
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-
-# OS generated files
-.DS_Store
-Thumbs.db
