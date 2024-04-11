@@ -1,0 +1,25 @@
+<!-- Keynote speaker -->
+
+<section class="bg-speaker" id="speaker">
+    <div class="container">
+        <div class="row justify-content-center pt-5 pb-0 pb-md-5">
+            <div class="col-md-12 text-center">
+                <h2 class="title-2 text-center mb-5 pt-0 pt-md-5 pb-5" data-aos="fade-up" data-aos-duration="1000">Keynote Speakers</h2>
+            </div>
+            
+            {% for speaker in keynotes %}
+            <div class="col-md-4 mt-5 pb-5 pt-5">
+                <div class="speaker-laybox bg-white text-center">
+                    <img src="{{ speaker.image }}" class="img-fluid w-40" alt="{{ speaker.name }}">
+                    <h3 class="speakerheading-boxed pt-4 text-uppercase">{{ speaker.name }}</h3>
+                    <p class="speakerpara-boxed pt-3">{{ speaker.title }}</p>
+                </div>
+            </div>
+            {% endfor %}
+            
+        </div>
+    </div>
+    <div class="trainbg">
+        <div class="bg-move"></div>
+    </div>
+</section>

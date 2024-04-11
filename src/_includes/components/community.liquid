@@ -1,0 +1,146 @@
+<!-- partners -->
+<section id="community">
+    <div class="container">
+        <div class="row align-items-center p-2 p-md-0">
+            <div class="col-md-12 pt-5 pt-md-0 pb-5">
+                <h2 class="title-2 text-center pb-5" data-aos="fade-up" data-aos-duration="1000">Community partners</h2>
+            </div>
+            {% for partner in partners %}
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-left one">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <div class="plusbox-right two">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/{{ partner.image }}" alt="{{ partner.name }}" class="img-fluid">
+            </div>
+            {% endfor %}
+        </div>
+        <div class="row justify-content-center pt-5 pb-5 mt-md-5">
+            <div class="col-lg-3  col-md-5 col-12 mb-5 mb-md-0 text-center text-md">
+                <div class="ticket-btnlay"><a href="#">BECAME A PARTNER</a> </div>
+            </div>
+            <div class="col-lg-3 col-md-5 col-12 mb-5 mb-md-0 text-center text-md">
+                <div class="ticket-btnlay"><a href="#">BECOME PROSPECTUS</a></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% comment %} <section id="community">
+    <div class="container">
+        <div class="row align-items-center p-2 p-md-0">
+            <div class="col-md-12 pt-5 pt-md-0 pb-5">
+                <h2 class="title-2 text-center pb-5" data-aos="fade-up" data-aos-duration="1000">Community partners</h2>
+            </div>
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-left one">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <div class="plusbox-right two">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/foss-united.png" alt="foss-united" class="img-fluid">
+            </div>
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-right one">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/ocd-india.png" alt="ocd-india" class="img-fluid">
+            </div>
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-right two">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/hackerabad.png" alt="hackerabad" class="img-fluid">
+            </div>
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-right one">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/cloud-native-computing-foundation-hyderabad.png"
+                    alt="cloud native computing foundation hyderabad" class="img-fluid">
+            </div>
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-left one">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <div class="plusbox-right two">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/google-developer-student-club-school-of-data-science-and-forecasting.png"
+                    alt="google developer student club school of data science and forecasting, DAVV" class="img-fluid">
+            </div>
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-right one">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/microsoft-student-community-hyderabad.png" alt="microsoft student community hyderabad"
+                    class="img-fluid">
+            </div>
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-right two">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/she-loves-tech.png" alt="she loves tech" class="img-fluid">
+            </div>
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-right one">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/postman-community-kolkata.png" alt="postman community kolkata" class="img-fluid">
+            </div>
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-left one">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <div class="plusbox-right two">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/student-developers-community.jpg" alt="student developers community" class="img-fluid">
+                <div class="plusbox-bottom-left one">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <div class="plusbox-bottom two">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+            </div>
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-right one">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/tfug-hyderabad.png" alt="TensorFlow User Group Hyderabad" class="img-fluid">
+                <div class="plusbox-bottom two-3">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+            </div>
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-right two">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/wtm.png" alt="Women Techmakers" class="img-fluid">
+                <div class="plusbox-bottom two">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+            </div>
+            <div class="col-md-3 col-6 plus-box">
+                <div class="plusbox-right two-2">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <img src="image/cp4.png" alt="cloud native computing foundation hyderabad" class="img-fluid">
+                <div class="plusbox-bottom one">
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center pt-5 pb-5 mt-md-5">
+            <div class="col-lg-3  col-md-5 col-12 mb-5 mb-md-0 text-center text-md">
+                <div class="ticket-btnlay"><a href="#">BECAME A PARTNER</a> </div>
+            </div>
+            <div class="col-lg-3 col-md-5 col-12 mb-5 mb-md-0 text-center text-md">
+                <div class="ticket-btnlay"><a href="#">BECOME PROSPECTUS</a></div>
+            </div>
+        </div>
+    </div>
+</section> {% endcomment %}
