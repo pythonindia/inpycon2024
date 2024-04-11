@@ -1,0 +1,50 @@
+[
+    {
+      "name": "FOSS United",
+      "image": "foss-united.png"
+    },
+    {
+      "name": "OCD India",
+      "image": "ocd-india.png"
+    },
+    {
+      "name": "Hackerabad",
+      "image": "hackerabad.png"
+    },
+    {
+      "name": "Cloud Native Computing Foundation Hyderabad",
+      "image": "cloud-native-computing-foundation-hyderabad.png"
+    },
+    {
+      "name": "Google Developer Student Club School of Data Science and Forecasting, DAVV",
+      "image": "google-developer-student-club-school-of-data-science-and-forecasting.png"
+    },
+    {
+      "name": "Microsoft Student Community Hyderabad",
+      "image": "microsoft-student-community-hyderabad.png"
+    },
+    {
+      "name": "She Loves Tech",
+      "image": "she-loves-tech.png"
+    },
+    {
+      "name": "Postman Community Kolkata",
+      "image": "postman-community-kolkata.png"
+    },
+    {
+      "name": "Student Developers Community",
+      "image": "student-developers-community.jpg"
+    },
+    {
+      "name": "TensorFlow User Group Hyderabad",
+      "image": "tfug-hyderabad.png"
+    },
+    {
+      "name": "Women Techmakers",
+      "image": "wtm.png"
+    },
+    {
+      "name": "CP4",
+      "image": "cp4.png"
+    }
+  ]
