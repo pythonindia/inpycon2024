@@ -1,27 +1,27 @@
 [
     {
         "name": "CHEUK TING HO",
-        "image": "image/t1.png",
+        "image": "t1.png",
         "title": "Open Source Developer, Community Manager, PSF Board Member"
     },
     {
         "name": "JESSICA GREENE",
-        "image": "image/t3.png",
+        "image": "t3.png",
         "title": "Software Engineer at Ecosia"
     },
     {
         "name": "marcelo trylesinski",
-        "image": "image/t2.png",
+        "image": "t2.png",
         "title": "Software Engineer @Pydantic, Uvicorn & Starlette Maintainer, FastAPI Expert"
     },
     {
         "name": "Rushabh mehta",
-        "image": "image/t4.png",
+        "image": "t4.png",
         "title": "Founder and CEO, Frappe & Director, Foss United"
     },
     {
         "name": "Shailesh kumar",
-        "image": "image/t5.png",
+        "image": "t5.png",
         "title": "Chief Data Scientist, CoE AI/ML Jio"
     }
 ]
