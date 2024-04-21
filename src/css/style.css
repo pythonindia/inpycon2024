@@ -344,11 +344,32 @@ thead th{
     width:fit-content!important;
     text-align: center!important;   
     font-size:15px!important; 
+    transition: 0.2s;
 }
  .ticket-btnlay a:hover{
     background: #b8dfd8 !important;
     color: #000;
 }
+
+/* Volunteer button in footer */
+.ticket-btnlay-vol a
+{
+    padding: 10px 30px;
+    font-weight: 600 !important;
+    background: #ff724b !important;
+    color:#fff;
+    text-decoration: none!Important;
+    border-radius: 15px;
+    width:fit-content!important;
+    text-align: center!important;   
+    font-size:13px!important;
+    transition: 0.3s;
+}
+ .ticket-btnlay-vol a:hover{
+    background: #b8dfd8 !important;
+    color: #000;
+}
+
 .download .ticket-btnlay a{
     padding: 18px 26px!important;
 }
