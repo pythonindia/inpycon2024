@@ -1275,6 +1275,11 @@ path{
       .contact ul li a{
         padding:6px!important;
       }
+
+      .ticket-btnlay-vol a {
+        padding: 10px 14px;
+        font-size: 11px !important;
+      }
 }
 @media(min-width:992px) and (max-width:1200px)
 {
