@@ -32,10 +32,10 @@ All announcements related to the conference are posted to [PyCon India Announce 
 The call for Proposals is now open. Please visit the [CFP page](https://in.pycon.org/cfp/2024/proposals/) to submit your talk/workshop/ proposal.
 
 #### I am a first-time speaker & need some help in getting started. What should I do?
-Check out the [Guide to Speaking](https://in.pycon.org/blog/2023/guide-to-speaking.html) to understand more about the process. For any doubts, feel free to reach out to us!
+Check out the [Speaker best practices](https://github.com/pythonindia/junction/wiki/Speaker-best-practices) and the [PyCon 2023's Guide to Speaking](https://in.pycon.org/blog/2023/guide-to-speaking.html) to understand more about the process. For any doubts, feel free to reach out to us!
 
 #### I want to volunteer for the conference. What should I do?
-Check out the [Volunteer Page](https://in.pycon.org/blog/2023/volunteering-guide-pyconin23.html) to know about the roles and responsibilities. Fill out the [volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSdmlVnxDBENiXs17hQeUtgqOZdcsWI7lmQpXq5m9K-e0eS52Q/viewform) and subscribe to the [InPyCon mailing list](https://mail.python.org/mailman/listinfo/inpycon) for updates.
+You can fill out the [volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSeJ9cKrN9HFX-GSHgYepjYRBzYIMbu4NONCrpw8rcEQKBRv9w/viewform) and subscribe to the [InPyCon mailing list](https://mail.python.org/mailman/listinfo/inpycon) for updates.
 
 #### Will the Internet and WiFi setup be good enough for a large crowd? Should I get a data card?
 We try really hard to arrange good Internet at the venue. Most of the time it is adequate. But the unpredictable amount of usage during the event sometimes causes problems. So it is fine if you don’t carry a data card, but there is no harm in being prepared for the worst.
@@ -59,13 +59,13 @@ Yes. A separate ticket has to be purchased for each workshop. The following is i
 - Access to Kid's engagement (by Volunteers) at the Venue
 
 #### Is there a different ticket for the Devsprints?
-No, you do not need a ticket for Devsprints. Devsprints are open to all participants and is free to attend.
+TBD
 
 #### Is accommodation included in the ticket?
 No, it doesn’t include accommodation.
 
 #### Would there be any spot registration at the venue?
-No, there won’t be any spot registrations available at the conference venue.
+Yes, there might be some limited number of spot registrations available at the conference venue.
 
 #### Can I switch between workshops during the session?
 No. Each track is planned at its full capacity.
