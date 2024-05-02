@@ -4,7 +4,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/js");
   eleventyConfig.addPassthroughCopy("src/image");
-
+  eleventyConfig.addPassthroughCopy("*.pdf");
   return {
     dir: {
       input: "src",
