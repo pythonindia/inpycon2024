@@ -12,12 +12,12 @@ PyCon India is the annual gathering of Pythonistas, run by the Indian Python com
 #### September 20, 2024: Workshops
 Workshops will be 3-hour-long interactive sessions where attendees can learn by doing. Workshops will be held on September 20, 2024 across two morning & evening sessions. We may have up to 3 parallel workshops in each session. The morning session will run from 10:00 AM to 1:00 PM. The evening session will run from 2:00 PM to 5:00 PM.
 
-#### September 21 - September 22, 2024: Talks, Poster sessions, Lightning Talks, Open Spaces, Sponsor Stalls
+#### September 21 - September 22, 2024: Talks, Poster sessions, Lightning Talks, Open Spaces, Sponsor Booths
 1. **Talks:** Talks will be where people do a 30 min talk, on a topic. These talks are selected through a CFP process, before the event. Talks will be held across the morning & evening sessions on September 21, 2024 and September 22, 2024. We may have up to 4 parallel tracks of talks in each session. The morning session will run from 10:00 AM to 1:00 PM. The evening session will run from 2:00 PM to 6:00 PM.
 2. **Poster session:** Poster session is a 1-hour session during which presenters use a graphic poster and a laptop to present their topic.
 3. **Open spaces:** Open spaces are where people have informal presentations and discussions alongside the talk tracks. Open spaces slots can be booked at the venue, on the day of the event.
 4. **Lightning talks:** Lightning talks is a 1-hour session. Lightning talks are rapid 5-minute presentations, presented to the entire conference crowd, a great way to get a message across to the entire audience.
-5. **Sponsor stalls:** Sponsor stalls are where you can meet companies supporting the conference. These companies use Python and are looking for Python developers. You can visit their stalls to get to know more about them, and the openings in their organization.
+5. **Sponsor booths:** Sponsor booths are where you can meet companies supporting the conference. These companies use Python and are looking for Python developers. You can visit their booths to get to know more about them, and the openings in their organization.
 
 #### September 23, 2024: Devsprints
 During the Devsprints, people contribute to open-source projects, guided by mentors. This is a nice way to get started with contributing to Python and other open-source projects.
