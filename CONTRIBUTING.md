@@ -76,23 +76,5 @@ Add any other context or screenshots about the enhancement suggestion here.
 ## Your First Code Contribution
 Unsure where to begin contributing to Pycon India 2024 Website? You can start by looking through these [good-first-issues](https://github.com/pythonindia/inpycon2024/labels/good%20first%20issue).
 
-### Local Development / Setup Instructions
-If you want to contribute to the website, you will need to set up your environment and install the required dependencies. You will need to have this repository cloned on your local machine. Once you have that set up, you can simply run the following command to run the website locally:
-
-- Clone the repository
-```bash
-git clone https://github.com/pythonindia/inpycon2024.git
-```
-
-- Install eleventy/11ty
-```bash
-npm install @11ty/eleventy
-```
-
-- Run the website locally
-```bash
-npx @11ty/eleventy --serve --port=8080
-```
-
 ### Pull Requests
 After you have made your changes, you can open a pull request. Make sure to [link the issue](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue) you are addressing in the pull request description. This helps us keep track of the changes and the discussion around them. If you are adding a new feature, please include relevant tests and make sure that all tests pass before submitting the pull request.
