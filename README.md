@@ -31,3 +31,8 @@ npx @11ty/eleventy --serve --port=8080
 
 ## License
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE.md)
+
+## Contributors
+
+<!-- CONTRIBUTORS_START -->
+<!-- CONTRIBUTORS_END -->
