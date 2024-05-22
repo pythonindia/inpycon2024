@@ -1,8 +1,9 @@
 name: Update Contributors
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
+  push:
+    branches:
+      - main
   workflow_dispatch:  # Allows manual trigger of the workflow
 
 jobs:
@@ -31,5 +32,3 @@ jobs:
         git add README.md
         git commit -m 'Update contributors'
         git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
