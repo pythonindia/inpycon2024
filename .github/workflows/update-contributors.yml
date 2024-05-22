@@ -25,10 +25,14 @@ jobs:
     - name: Update README.md with contributors
       run: python update_contributors.py
 
-    - name: Commit and push changes
+    - name: Check for changes and commit
       run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-        git add README.md
-        git commit -m 'Update contributors'
-        git push
+        if git diff --quiet; then
+          echo "No changes to commit";
+        else
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update contributors'
+          git push
+        fi
