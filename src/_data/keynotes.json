@@ -3,5 +3,10 @@
         "name": "Kovid Goyal",
         "image": "image/kovid.jpg",
         "title": "Creator, Calibre and Kitty"
+    },
+    {
+        "name": "Lorena Mesa",
+        "image": "image/lorena_animated.jpg",
+        "title": "Co-Organizer, PyLadies Chicago Former Chair & Director, Python Software Foundation"
     }
 ]
