@@ -13,7 +13,7 @@ PyCon India is the annual gathering of Pythonistas, run by the Indian Python com
 Workshops will be 3-hour-long interactive sessions where attendees can learn by doing. Workshops will be held on September 20, 2024 across two morning & evening sessions. We may have up to 3 parallel workshops in each session. The morning session will run from 10:00 AM to 1:00 PM. The evening session will run from 2:00 PM to 5:00 PM.
 
 #### September 21 - September 22, 2024: Talks, Poster sessions, Lightning Talks, Open Spaces, Sponsor Booths
-1. **Talks:** Talks will be where people do a 30 min talk, on a topic. These talks are selected through a CFP process, before the event. Talks will be held across the morning & evening sessions on September 21, 2024 and September 22, 2024. We may have up to 4 parallel tracks of talks in each session. The morning session will run from 10:00 AM to 1:00 PM. The evening session will run from 2:00 PM to 6:00 PM.
+1. **Talks:** Talks will be whertwie people do a 30 min talk, on a topic. These talks are selected through a CFP process, before the event. Talks will be held across the morning & evening sessions on September 21, 2024 and September 22, 2024. We may have up to 4 parallel tracks of talks in each session. The morning session will run from 10:00 AM to 1:00 PM. The evening session will run from 2:00 PM to 6:00 PM.
 2. **Poster session:** Poster session is a 1-hour session during which presenters use a graphic poster and a laptop to present their topic.
 3. **Open spaces:** Open spaces are where people have informal presentations and discussions alongside the talk tracks. Open spaces slots can be booked at the venue, on the day of the event.
 4. **Lightning talks:** Lightning talks is a 1-hour session. Lightning talks are rapid 5-minute presentations, presented to the entire conference crowd, a great way to get a message across to the entire audience.
@@ -26,7 +26,7 @@ Devsprints are free to attend.
 ### General FAQ
 
 #### Where can I find updates related to PyCon India 2024?
-All announcements related to the conference are posted to the [PyCon India Announce mailing list](https://mail.python.org/mailman3/lists/inpycon-announce.python.org/). If you would like to volunteer, and contribute to the organization of PyCon India, join the [InPyCon mailing list](https://mail.python.org/mailman/listinfo/inpycon). We also have a presence on social media. All our announcements are posted on our [Twitter](https://twitter.com/pyconindia), [LinkedIn](https://linkedin.com/company/pyconindia), and [Facebook](https://www.facebook.com/PyConIndia/) pages.
+All announcements related to the conference are posted to the [PyCon India Announce mailing list](https://mail.python.org/mailman3/lists/inpycon-announce.python.org/). If you would like to volunteer, and contribute to the organization of PyCon India, join the [InPyCon mailing list](https://mail.python.org/mailman/listinfo/inpycon). We also have a presence on social media. All our announcements are posted on our [X](https://x.com/pyconindia), [LinkedIn](https://linkedin.com/company/pyconindia), and [Facebook](https://www.facebook.com/PyConIndia/) pages.
 
 #### I want to present at the conference. What should I do?
 The call for Proposals is now open. Please visit the [CFP page](https://in.pycon.org/cfp/2024/proposals/) to submit your talk/workshop/ proposal.
