@@ -26,7 +26,7 @@ Devsprints are free to attend.
 ### General FAQ
 
 #### Where can I find updates related to PyCon India 2024?
-All announcements related to the conference are posted to the [PyCon India Announce mailing list](https://mail.python.org/mailman3/lists/inpycon-announce.python.org/). If you would like to volunteer, and contribute to the organization of PyCon India, join the [InPyCon mailing list](https://mail.python.org/mailman/listinfo/inpycon). We also have a presence on social media. All our announcements are posted on our [Twitter](https://twitter.com/pyconindia), [LinkedIn](https://linkedin.com/company/pyconindia), and [Facebook](https://www.facebook.com/PyConIndia/) pages.
+All announcements related to the conference are posted to the [PyCon India Announce mailing list](https://mail.python.org/mailman3/lists/inpycon-announce.python.org/). If you would like to volunteer, and contribute to the organization of PyCon India, join the [InPyCon mailing list](https://mail.python.org/mailman/listinfo/inpycon). We also have a presence on social media. All our announcements are posted on our [X](https://x.com/pyconindia), [LinkedIn](https://linkedin.com/company/pyconindia), and [Facebook](https://www.facebook.com/PyConIndia/) pages.
 
 #### I want to present at the conference. What should I do?
 The call for Proposals is now open. Please visit the [CFP page](https://in.pycon.org/cfp/2024/proposals/) to submit your talk/workshop/ proposal.
