@@ -55,7 +55,6 @@ header
 {
     width: 100%!important;
     padding: 10px 0px;
-    transition: all 0.4s ease-in-out!important;
     z-index: 9999!important;
     position: fixed;
     top: 0px;
@@ -141,7 +140,6 @@ header
   top: 0px;
   z-index: 9999;
   box-shadow: #0000001f 0 1px 3px,#0000003d 0 1px 2px;
-  transition: transform 0.34s ease;
 }
 .navbar-light .navbar-nav .nav-link{
     color: black!important;
@@ -333,6 +331,18 @@ thead th{
 {
     overflow: hidden!important;
 }
+
+ .ticket-btn-v2 a{
+    padding: 18px 40px;
+    font-weight: 600 !important;
+    background: #ff724b !important;
+    color:#fff;
+    text-decoration: none!Important;
+    border-radius: 10px;
+    text-align: center!important;   
+    font-size:15px!important;
+ }
+
  .ticket-btnlay a
 {
     padding: 18px 40px;
