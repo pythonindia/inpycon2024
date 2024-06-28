@@ -45,8 +45,8 @@ npx @11ty/eleventy --serve --port=8080
     <td align="center"><a href="https://github.com/TeeWrath"><img src="https://avatars.githubusercontent.com/u/117584718?v=4" width="100px" alt="Subroto Banerjee"/><br /><sub><b>Subroto Banerjee</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/devom-glitch"><img src="https://avatars.githubusercontent.com/u/50795140?v=4" width="100px" alt="Priyanshu"/><br /><sub><b>Priyanshu</b></sub></a></td>
     <td align="center"><a href="https://github.com/apps/github-actions"><img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100px" alt="github-actions[bot]"/><br /><sub><b>github-actions[bot]</b></sub></a></td>
+    <td align="center"><a href="https://github.com/priyanshu-247"><img src="https://avatars.githubusercontent.com/u/50795140?v=4" width="100px" alt="Priyanshu"/><br /><sub><b>Priyanshu</b></sub></a></td>
     <td align="center"><a href="https://github.com/abhishekmishragithub"><img src="https://avatars.githubusercontent.com/u/38150419?v=4" width="100px" alt="Abhishek"/><br /><sub><b>Abhishek</b></sub></a></td>
     <td align="center"><a href="https://github.com/Schefflera-Arboricola"><img src="https://avatars.githubusercontent.com/u/91629733?v=4" width="100px" alt="Aditi Juneja"/><br /><sub><b>Aditi Juneja</b></sub></a></td>
     <td align="center"><a href="https://github.com/kybrdbnd"><img src="https://avatars.githubusercontent.com/u/10006381?v=4" width="100px" alt="Pranav Puri"/><br /><sub><b>Pranav Puri</b></sub></a></td>
