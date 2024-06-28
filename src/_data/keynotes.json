@@ -6,7 +6,12 @@
     },
     {
         "name": "Lorena Mesa",
-        "image": "image/lorena_animated.jpg",
+        "image": "image/lorena_updated.jpeg",
         "title": "Co-Organizer, PyLadies Chicago Former Chair & Director, Python Software Foundation"
+    },
+    {
+        "name": "James Powell",
+        "image": "image/james.jpg",
+        "title": "Trainer & Consultant, Data Science, Quant Finance, V.P., Co. Chair @ NumFocus"
     }
 ]
