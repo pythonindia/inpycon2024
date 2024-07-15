@@ -47,9 +47,6 @@ Tickets for PyCon India 2024 are available on Konfhub, our Ticketing and Finance
 #### Cancellation Policy
 In the unfortunate event where people cannot attend the Conference they can cancel their ticket by sending an email to tickets@in.pycon.org. Ticketing team will process the Cancellation and the amount will be refunded to the original payment method. Cancellations requests will be accepted till 15th August 2024, 23.59 IST.
 
-#### Refund Policy
-In case you already know someone whom you want to Transfer your ticket you can put a Transfer request by sending an email to tickets@in.pycon.org. Please not that you need to take care of collecting the ticket price from the person whom you are transferring the ticket. PyCon India team is not responsible for managing the transfer of the ticket price. We only facilitate the ticket transfer. Keep the person in CC whom you want to transfer your ticket and mention the following details of the person to whom ticket is to be transferred
-
 #### I am a speaker/volunteer at the conference. Do I need to buy a ticket?
 Yes. At PyCon India, everybody buys tickets. Even the event organizers buy tickets. Your ticket helps keep the event affordable for all.
 
