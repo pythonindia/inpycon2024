@@ -34,11 +34,9 @@ Like the rest of this policy, we may review this stance and consider adding addi
 ### RAPID COVID-19 TESTS ARE ENCOURAGED
 We encourage PyCon India attendees to use at-home/antigen/rapid tests before they arrive and while they are at PyCon India. We will be providing free additional rapid tests as supplies permit to anyone who needs them in the staff office.
 
-### ATTEND ONLINE
-We are going to continue investing in making PyCon India Online (#PyConOX) an excellent option for folks who don’t feel comfortable attending a masked event, or find travel to Pittsburgh inconvenient, or want to hang with the awesome PyConOX volunteer team, or who would prefer online for any reason at all.
 
 ### EASY REFUNDS
-We expect people to stay home if they may be contagious. If you are feeling sick or exhibiting symptoms of COVID-19, or test positive for COVID-19, prior to the start of the conference, or on any day of the conference, please contact us at pycon-reg@python.org, and we will exchange your ticket type for an online ticket or grant you a refund. Onsite attendees will be able to watch talks online while they recover, wait for the results of a Covid test or sort out any kind of unexpected allergy or “weird cold.”
+We expect people to stay home if they may be contagious. If you are feeling sick or exhibiting symptoms of COVID-19, or test positive for COVID-19, prior to the start of the conference, or on any day of the conference, please contact us at [pycon-reg@python.org](https://mail.python.org/mailman/listinfo/inpycon), and we will exchange your ticket type for an online ticket or grant you a refund. Onsite attendees will be able to watch talks online while they recover, wait for the results of a Covid test or sort out any kind of unexpected allergy or “weird cold.”
 
 ### NO ROLL BACK
 We promise not to downgrade our Health & Safety policy between now and the event to allow community members to make decisions about attending with confidence that this policy won’t be weakened between when they buy a ticket or submit a talk and when the conference takes place. If there is a development that recommends an additional precaution then we will add it, but we will not be subtracting anything or softening our mask policy.
