@@ -21,7 +21,6 @@ Workshops will be 3-hour-long interactive sessions where attendees can learn by 
 
 #### September 23, 2024: Devsprints
 During the Devsprints, people contribute to open-source projects, guided by mentors. This is a nice way to get started with contributing to Python and other open-source projects.
-Devsprints are free to attend.
 
 ### General FAQ
 
@@ -41,6 +40,16 @@ You can fill out the [volunteer form](https://docs.google.com/forms/d/e/1FAIpQLS
 We try really hard to arrange good Internet at the venue. Most of the time it is adequate. However, the unpredictable amount of usage during the event sometimes causes problems. So it is fine if you don’t carry a data card, but there is no harm in being prepared for the worst.
 
 ### Ticketing FAQ
+
+#### Ticketing
+Tickets for PyCon India 2024 are available on Konfhub, our Ticketing and Finance Partner. Get your tickets here.
+
+#### Cancellation Policy
+In the unfortunate event where people cannot attend the Conference they can cancel their ticket by sending an email to tickets@in.pycon.org. Cancellation is subject to Terms and Conditions mentioned below. Ticketing team will process the Cancellation and the amount will be refunded to the original payment method. Cancellations requests will be accepted till 14th August 2024, 23.59 IST.
+
+**Terms and Conditions:**
+- Due to compliance reasons we won't be able to process cancellations for participants claiming GST in their purchases. They can transfer their ticket to someone once Transfer window opens.
+- Cancellation will incur a small cancellation fee equivalent to 4% of ticket charges incurred as a part of platform fees.
 
 #### I am a speaker/volunteer at the conference. Do I need to buy a ticket?
 Yes. At PyCon India, everybody buys tickets. Even the event organizers buy tickets. Your ticket helps keep the event affordable for all.
