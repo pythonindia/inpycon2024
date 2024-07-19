@@ -1,30 +1,6 @@
 {
     "platinum": [
-      { "name": "neo4j", "image": "p1.png", "url": "#" },
-      { "name": "happyfox", "image": "p2.png", "url": "#" }
-    ],
-    "gold": [
-      { "name": "innovaccer", "image": "innovaccer.png", "url": "#" },
-      { "name": "corteva", "image": "corteva.png", "url": "#" },
-      { "name": "lindex", "image": "lindex.png", "url": "#" },
-      { "name": "toyota", "image": "toyota.png", "url": "#" },
-      { "name": "zeomega", "image": "zeomega.png", "url": "#" },
-      { "name": "google", "image": "google.png", "url": "#" },
-      { "name": "rezoomex", "image": "rezoomex.png", "url": "#" }
-    ],
-    "silver": [
-      { "name": "zoho", "image": "zoho.png", "url": "#" },
-      { "name": "frappe", "image": "frappe.png", "url": "#" },
-      { "name": "certa", "image": "certa.png", "url": "#" },
-      { "name": "seneca", "image": "seneca.png", "url": "#" },
-      { "name": "avoma", "image": "avoma.png", "url": "#" },
-      { "name": "bloomberg", "image": "bloomberg.png", "url": "#" },
-      { "name": "innovaccer", "image": "innovaccer.png", "url": "#" }
-    ],
-    "other sponsor": [
-      { "name": "T-shirt Sponsor", "image": "google (1).png", "url": "#" },
-      { "name": "ID card Sponsor", "image": "google (1).png", "url": "#" },
-      { "name": "Billboard Sponsor", "image": "google (1).png", "url": "#" }
+      { "name": "HappyFox", "image": "sponsors/happyfox.png", "url": "https://happyfox.com" }
     ]
   }
   
