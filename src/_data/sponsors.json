@@ -1,7 +1,7 @@
 {
     "platinum": [
       { "name": "HappyFox", "image": "sponsors/happyfox.png", "url": "https://happyfox.com" },
-      { "name": "Abnormal", "image": "sponsors/abnormal.png", "url": "https://abnormalsecurity.com/" }
+      { "name": "Abnormal Security", "image": "sponsors/abnormal.png", "url": "https://abnormalsecurity.com/" }
     ]
   }
   
