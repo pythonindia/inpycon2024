@@ -649,6 +649,7 @@ color: #180404;
     background:#fff url("../image/key-bg-2.png")no-repeat!important;
     background-position: bottom center!important;
     min-height: 208px!Important;
+    height: 380px;
 }
 .speaker-laybox:hover
 {
@@ -660,8 +661,10 @@ color: #180404;
     background-color: #ffbeac!important;
 }
 .speaker-laybox img{
+    height: 340px;
     margin-top:-29%!important;
     border-radius:10px!important;
+    object-fit: cover;
 }
 .speakerheading-boxed{
     font-size: 15px;
