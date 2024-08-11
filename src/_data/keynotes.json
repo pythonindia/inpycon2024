@@ -1,12 +1,17 @@
 [
     {
         "name": "Kovid Goyal",
-        "image": "image/kovid.jpg",
+        "image": "image/keynotes/kovid.jpg",
         "title": "Creator, Calibre and Kitty"
     },
     {
+        "name": "Usha Rengaraju",
+        "image": "image/keynotes/usha.jpeg",
+        "title": "Chief of Research <br /> Exa Protocol, Autism Advocate"
+    },
+    {
         "name": "James Powell",
-        "image": "image/james.jpg",
+        "image": "image/keynotes/james.jpg",
         "title": "Don't Use This Code <br /> NumFOCUS/PyData"
     }
 ]
