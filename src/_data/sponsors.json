@@ -4,7 +4,8 @@
       { "name": "Abnormal Security", "image": "sponsors/abnormal.png", "url": "https://abnormalsecurity.com/" }
     ],
     "silver": [
-      { "name": "ZeOmega", "image": "sponsors/zeomega.png", "url": "https://www.zeomega.com/" }
+      { "name": "ZeOmega", "image": "sponsors/zeomega.png", "url": "https://www.zeomega.com/" },
+      { "name": "IndeeTV", "image": "sponsors/indeetv.png", "url": "https://indee.tv/" }
     ]
   }
   
