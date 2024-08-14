@@ -6,6 +6,9 @@
     "silver": [
       { "name": "ZeOmega", "image": "sponsors/zeomega.png", "url": "https://www.zeomega.com/" },
       { "name": "IndeeTV", "image": "sponsors/indeetv.png", "url": "https://indee.tv/" }
+    ],
+    "gold": [
+      { "name": "TuneAI", "image": "sponsors/tuneai.png", "url": "http://www.tunehq.ai/" }
     ]
   }
   
