@@ -1,0 +1,282 @@
+[
+  {
+    "id": "sep21",
+    "title": "SEP 21ST | Saturday",
+    "description": "CONFERENCE DAY 1",
+    "type": "conference",
+    "schedule": [
+      {
+        "start_time": "07:30",
+        "end_time": "09:00",
+        "track_1": "Registrations / Breakfast",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "09:00",
+        "end_time": "09:15",
+        "track_1": "Opening Address",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "09:30",
+        "end_time": "10:30",
+        "track_1": "Keynote 1",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "10:30",
+        "end_time": "11:00",
+        "track_1": "Tea Break",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "11:00",
+        "end_time": "11:30",
+        "track_1": "Unveiling the Private: Federated Learning and Model Compression for Secure AI at the Edge",
+        "track_2": "Live Coding: Building a Unit Testing Library like Pytest",
+        "track_3": "How I learnt the Art of Balancing - Integrating Hobbies for work-life Harmony!"
+      },
+      {
+        "start_time": "11:40",
+        "end_time": "12:10",
+        "track_1": "Sync vs. Async in Python: Tools, Benchmarks, and ASGI/WSGI Explained",
+        "track_2": "Concurrency and parallel execution in Python and how the GIL affects it",
+        "track_3": "Leveraging Python and Quantum Principles for Enhanced Network Operations and Design"
+      },
+      {
+        "start_time": "12:20",
+        "end_time": "12:50",
+        "track_1": "Practical Guide to Celery in Production",
+        "track_2": "Enhancing Knee X-ray Diagnostics with AI",
+        "track_3": "(Re)Learning Python with 10,000 Novices"
+      },
+      {
+        "start_time": "12:50",
+        "end_time": "14:00",
+        "track_1": "Lunch",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "14:00",
+        "end_time": "14:40",
+        "track_1": "Lightning Talks",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "14:45",
+        "end_time": "15:15",
+        "track_1": "Finding actor look-alikes with multi-modal LLMs",
+        "track_2": "Why Knowing Cython Helps in Understanding Python: A Deep Dive into Cython & PVM",
+        "track_3": "Build Your Own Live Streaming Device Behind Your Home Router"
+      },
+      {
+        "start_time": "15:25",
+        "end_time": "15:55",
+        "track_1": "Panel 1",
+        "track_2": "Managing custom, reproducible Python virtual environments for PySpark and Jupyter Notebooks @ Uber",
+        "track_3": "Python in the browser: my journey towards enhancing the Scientific Python ecosystem's interoperability with Pyodide"
+      },
+      {
+        "start_time": "15:55",
+        "end_time": "16:20",
+        "track_1": "Hi Tea",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "16:20",
+        "end_time": "16:50",
+        "track_1": "Supercharge your Python code with the match statement",
+        "track_2": "Sponsored 1",
+        "track_3": "Finetuning with LLMs - The Idea Behind Parameter Efficient Fine-Tuning and Analyzing LoRA through its Implementation on an MLP"
+      },
+      {
+        "start_time": "17:00",
+        "end_time": "18:00",
+        "track_1": "Keynote 2",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "18:00",
+        "end_time": "18:15",
+        "track_1": "Closing Address",
+        "track_2": "",
+        "track_3": ""
+      }
+    ]
+  },
+  {
+    "id": "sep22",
+    "title": "SEP 22ND | Sunday",
+    "description": "CONFERENCE DAY 2",
+    "type": "conference",
+    "schedule": [
+      {
+        "start_time": "08:00",
+        "end_time": "09:00",
+        "track_1": "Registrations / Breakfast",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "09:00",
+        "end_time": "09:15",
+        "track_1": "Opening Address",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "09:30",
+        "end_time": "10:30",
+        "track_1": "Keynote 3",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "10:30",
+        "end_time": "11:00",
+        "track_1": "Tea Break",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "11:00",
+        "end_time": "11:30",
+        "track_1": "Faster Applications: Harnessing Python with C/Zig libraries and my story of building fastest LLM tokenizer",
+        "track_2": "Revolutionizing LLM Serving: PagedAttention and vLLM for Unmatched Throughput, Efficiency and Seamless integration with popular Hugging Face models",
+        "track_3": "Exploring Game Development: Crafting a Car Game Using Python"
+      },
+      {
+        "start_time": "11:40",
+        "end_time": "12:10",
+        "track_1": "simplify huge python projects with AST (abstract syntax tree)",
+        "track_2": "Python and the Sun: Transforming Space Science with Open-Source",
+        "track_3": "Unlocking the Parallel Universe: Subinterpreters and Free-Threading in Python 3.13"
+      },
+      {
+        "start_time": "12:20",
+        "end_time": "12:50",
+        "track_1": "Practical tips for building AI applications using LLMs - Best practices and trade-offs",
+        "track_2": "Sponsored 2",
+        "track_3": "Python Packaging Demystified"
+      },
+      {
+        "start_time": "12:50",
+        "end_time": "14:00",
+        "track_1": "Lunch",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "14:00",
+        "end_time": "14:40",
+        "track_1": "Lightning Talks",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "14:45",
+        "end_time": "15:15",
+        "track_1": "",
+        "track_2": "Transforming Automotive Electronics Testing with Python and Robot Framework",
+        "track_3": "Data platform for Social Impact"
+      },
+      {
+        "start_time": "15:25",
+        "end_time": "15:55",
+        "track_1": "Panel 2",
+        "track_2": "Sponsored 3",
+        "track_3": "Unlock Your Team's Superpower - It's Not in Your Toolbox, It's in Your Head!"
+      },
+      {
+        "start_time": "15:55",
+        "end_time": "16:20",
+        "track_1": "Hi Tea",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "16:20",
+        "end_time": "16:50",
+        "track_1": "Asynchronous Programming for Scalable Machine Learning Pipelines in Python",
+        "track_2": "Database Change Management - 1000s of tables across multiple environments and 1 Alembic to rule them all",
+        "track_3": "Enhancements made in SciPy at Quansight Labs"
+      },
+      {
+        "start_time": "17:00",
+        "end_time": "18:00",
+        "track_1": "Keynote 4",
+        "track_2": "",
+        "track_3": ""
+      },
+      {
+        "start_time": "18:00",
+        "end_time": "18:15",
+        "track_1": "Closing Address",
+        "track_2": "",
+        "track_3": ""
+      }
+    ]
+  },
+  {
+    "id": "sep20",
+    "title": "September 20",
+    "description": "Workshop",
+    "type": "workshop",
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "10:00",
+          "track_1": "Breakfast",
+          "track_2": "",
+          "track_3": ""
+        },
+        {
+          "start": "10:00",
+          "end": "13:00",
+          "track_1": {
+            "session": "Chat with Tables: Developing Q&A system on Tabular data using Code Generative LLMs (AI and Machine Learning)",
+            "speaker": "Abhijeet Kumar"
+          },
+          "track_2": {
+            "session": "Creating Low Cost Sensor dataloggers with Python and Microcontrollers (Hardware)",
+            "speaker": "Jithin"
+          },
+          "track_3": {
+            "session": "A Crash Course in CPython Internals (Core Python)",
+            "speaker": "Abhinav Upadhyay"
+          }
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "track_1": "Lunch",
+          "track_2": "",
+          "track_3": ""
+        },
+        {
+          "start": "14:00",
+          "end": "17:00",
+          "track_1": {
+            "session": "Introduction to data-driven AI applications and multi-modal search (AI and Machine Learning)",
+            "speaker": "Anthony Shaw"
+          },
+          "track_2": {
+            "session": "Hands-on exercises to experience how compiler technology can be useful to speedup data processing in python (Platform Engg.)",
+            "speaker": "Sourav Saha"
+          },
+          "track_3": {
+            "session": "From Zero to Backend Hero: Creating Full-Featured Apps with FastAPI (Web Applications)",
+            "speaker": "Vivek Keshore"
+          }
+        }
+      ]    
+  }
+]
