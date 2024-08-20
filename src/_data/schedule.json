@@ -232,15 +232,15 @@
     "type": "workshop",
       "schedule": [
         {
-          "start": "08:30",
-          "end": "10:00",
+          "start_time": "08:30",
+          "end_time": "10:00",
           "track_1": "Breakfast",
           "track_2": "",
           "track_3": ""
         },
         {
-          "start": "10:00",
-          "end": "13:00",
+          "start_time": "10:00",
+          "end_time": "13:00",
           "track_1": {
             "session": "Chat with Tables: Developing Q&A system on Tabular data using Code Generative LLMs (AI and Machine Learning)",
             "speaker": "Abhijeet Kumar"
@@ -255,15 +255,15 @@
           }
         },
         {
-          "start": "13:00",
-          "end": "14:00",
+          "start_time": "13:00",
+          "end_time": "14:00",
           "track_1": "Lunch",
           "track_2": "",
           "track_3": ""
         },
         {
-          "start": "14:00",
-          "end": "17:00",
+          "start_time": "14:00",
+          "end_time": "17:00",
           "track_1": {
             "session": "Introduction to data-driven AI applications and multi-modal search (AI and Machine Learning)",
             "speaker": "Anthony Shaw"

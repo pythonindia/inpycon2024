@@ -1,67 +1,79 @@
 <section class="schedule pb-0 pb-md-5 pt-2" id="schedule">
-    <div class="container pt-5">
-        <div class="row pt-5 pb-5 justify-content-center">
-            <div class="col-md-12">
-                <h2 class="title-1 text-center mb-5" data-aos="fade-up" data-aos-duration="1000">Schedule</h2>
-                <div class="tab-box">
-                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-                        {% for day in schedule %}
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link {% if forloop.first %}active{% endif %}" 
-                                        id="pills-{{ day.id }}-tab" 
-                                        data-bs-toggle="pill"
-                                        data-bs-target="#pills-{{ day.id }}" 
-                                        type="button" 
-                                        role="tab" 
-                                        aria-controls="pills-{{ day.id }}"
-                                        aria-selected="{% if forloop.first %}true{% else %}false{% endif %}">
-                                    <h3>{{ day.title | upcase }}</h3>
-                                    <p class="tpb-para">{{ day.description }}</p>
-                                </button>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                    <div class="tab-content" id="pills-tabContent">
-                        {% for day in schedule %}
-                            <div class="tab-pane fade {% if forloop.first %}show active{% endif %}" 
-                                id="pills-{{ day.id }}" 
-                                role="tabpanel" 
-                                aria-labelledby="pills-{{ day.id }}-tab">
-                                <!-- Schedule Table for the Day -->
-                                <div class="tab-con pt-5 mt-3">
-                                    <table class="table table-bordered">
-                                        <thead>
-                                            <tr class="text-center">
-                                                <th scope="col">TIME</th>
-                                                <th scope="col">HALL A</th>
-                                                <th scope="col">HALL B</th>
-                                                <th scope="col">HALL C</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            {% for event in day.schedule %}
-                                                {% if event.type === "workshop" %}
-                                                {% else %}
-                                                    <tr>
-                                                        <th scope="row">{{ event.start_time }} - {{ event.end_time }}</th>
-                                                    {% if event.track_2 == "" and event.track_3 == "" %}
-                                                        <td colspan="3">{{ event.track_1 }}</td>
-                                                    {% else %}
-                                                        <td>{{ event.track_1 }}</td>
-                                                        <td>{{ event.track_2 }}</td>
-                                                        <td>{{ event.track_3 }}</td>
-                                                    {% endif %}
-                                                    </tr>
-                                                {% endif %}
-                                            {% endfor %}
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-                        {% endfor %}
-                    </div>
+  <div class="container pt-5">
+    <div class="row pt-5 pb-5 justify-content-center">
+      <div class="col-md-12">
+        <h2
+          class="title-1 text-center mb-5"
+          data-aos="fade-up"
+          data-aos-duration="1000">Schedule</h2>
+        <div class="tab-box">
+          <ul
+            class="nav nav-pills mb-3"
+            id="pills-tab"
+            role="tablist">
+            {% for day in schedule %}
+              <li class="nav-item" role="presentation">
+                <button
+                  class="nav-link {% if forloop.first %}active{% endif %}"
+                  id="pills-{{ day.id }}-tab"
+                  data-bs-toggle="pill"
+                  data-bs-target="#pills-{{ day.id }}"
+                  type="button"
+                  role="tab"
+                  aria-controls="pills-{{ day.id }}"
+                  aria-selected="{% if forloop.first %}true{% else %}false{% endif %}">
+                  <h3>{{ day.title | upcase }}</h3>
+                  <p class="tpb-para">{{ day.description }}</p>
+                </button>
+              </li>
+            {% endfor %}
+          </ul>
+          <div class="tab-content" id="pills-tabContent">
+            {% for day in schedule %}
+              <div
+                class="tab-pane fade {% if forloop.first %}show active{% endif %}"
+                id="pills-{{ day.id }}"
+                role="tabpanel"
+                aria-labelledby="pills-{{ day.id }}-tab">
+                <!-- Schedule Table for the Day -->
+                <div class="tab-con pt-5 mt-3">
+                  <table class="table table-bordered">
+                    <thead>
+                      <tr class="text-center">
+                        <th scope="col">TIME</th>
+                        <th scope="col">HALL A</th>
+                        <th scope="col">HALL B</th>
+                        <th scope="col">HALL C</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% assign eventType = day.type %}
+                      {% for event in day.schedule %}
+                        <tr>
+                          <th scope="row">{{ event.start_time }} - {{ event.end_time }}</th>
+                          {% if event.track_2 == "" and event.track_3 == "" %}
+                            <td colspan="3">{{ event.track_1 }}</td>
+                          {% else %}
+                            {% if eventType == "workshop" %}
+                              <td>{{ event.track_1.session }}</td>
+                              <td>{{ event.track_2.session }}</td>
+                              <td>{{ event.track_3.session }}</td>
+                            {% else %}
+                              <td>{{ event.track_1 }}</td>
+                              <td>{{ event.track_2 }}</td>
+                              <td>{{ event.track_3 }}</td>
+                            {% endif %}
+                          {% endif %}
+                        </tr>
+                      {% endfor %}
+                    </tbody>
+                  </table>
                 </div>
-            </div>
+              </div>
+            {% endfor %}
+          </div>
         </div>
+      </div>
     </div>
+  </div>
 </section>
