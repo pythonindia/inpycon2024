@@ -286,7 +286,11 @@ thead th {
   background: rgb(255, 255, 255);
 }
 .table {
-  border: 1px solid black !important;
+  border: 2px solid #ff724b !important;
+  margin-bottom: 0;
+}
+.table-hover tbody tr:hover td {
+  background: #e9fffb;
 }
 .schedule::before {
   position: absolute;
