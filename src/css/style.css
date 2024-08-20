@@ -300,7 +300,7 @@ thead th {
   left: 0;
   right: 0;
   background-color: white !important;
-  background-image: url("../image/Mask Group 28.svg") !important;
+  /* background-image: url("../image/Mask Group 28.svg") !important; */
   background-repeat: repeat-x !important;
 }
 .list-group-horizontal {
