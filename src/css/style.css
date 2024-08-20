@@ -3,6 +3,7 @@ body {
   font-family: "Inter", sans-serif !important;
   overflow-x: hidden !important;
 }
+
 /* leaf */
 .falling-leaves {
   position: absolute;
@@ -65,7 +66,7 @@ a:focus {
   outline: none !important;
 }
 #pills-tab .nav-item button:focus {
-  border: none !important;
+  border: 2px solid #ee6945;
   outline: none !important;
 }
 .marquee-bg .container-fluid {
