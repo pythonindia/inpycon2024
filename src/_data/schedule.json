@@ -1,7 +1,61 @@
 [
   {
+    "id": "sep20",
+    "title": "September 20 | Friday",
+    "description": "Workshop",
+    "type": "workshop",
+      "schedule": [
+        {
+          "start_time": "08:30",
+          "end_time": "10:00",
+          "track_1": "Breakfast",
+          "track_2": "",
+          "track_3": ""
+        },
+        {
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "track_1": {
+            "session": "Chat with Tables: Developing Q&A system on Tabular data using Code Generative LLMs (AI and Machine Learning)",
+            "speaker": "Abhijeet Kumar"
+          },
+          "track_2": {
+            "session": "Creating Low Cost Sensor dataloggers with Python and Microcontrollers (Hardware)",
+            "speaker": "Jithin"
+          },
+          "track_3": {
+            "session": "Python-Powered Algorithmic Trading: From Theory to Practice (Other)",
+            "speaker": "Mohit Khandelwal"
+          }
+        },
+        {
+          "start_time": "13:00",
+          "end_time": "14:00",
+          "track_1": "Lunch",
+          "track_2": "",
+          "track_3": ""
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "17:00",
+          "track_1": {
+            "session": "TBD",
+            "speaker": "-"
+          },
+          "track_2": {
+            "session": "Hands-on exercises to experience how compiler technology can be useful to speedup data processing in python (Platform Engg.)",
+            "speaker": "Sourav Saha"
+          },
+          "track_3": {
+            "session": "From Zero to Backend Hero: Creating Full-Featured Apps with FastAPI (Web Applications)",
+            "speaker": "Vivek Keshore"
+          }
+        }
+      ]    
+  },
+  {
     "id": "sep21",
-    "title": "SEP 21ST | Saturday",
+    "title": "September 21ST | Saturday",
     "description": "CONFERENCE DAY 1",
     "type": "conference",
     "schedule": [
@@ -114,7 +168,7 @@
   },
   {
     "id": "sep22",
-    "title": "SEP 22ND | Sunday",
+    "title": "September 22ND | Sunday",
     "description": "CONFERENCE DAY 2",
     "type": "conference",
     "schedule": [
@@ -224,59 +278,5 @@
         "track_3": ""
       }
     ]
-  },
-  {
-    "id": "sep20",
-    "title": "September 20",
-    "description": "Workshop",
-    "type": "workshop",
-      "schedule": [
-        {
-          "start_time": "08:30",
-          "end_time": "10:00",
-          "track_1": "Breakfast",
-          "track_2": "",
-          "track_3": ""
-        },
-        {
-          "start_time": "10:00",
-          "end_time": "13:00",
-          "track_1": {
-            "session": "Chat with Tables: Developing Q&A system on Tabular data using Code Generative LLMs (AI and Machine Learning)",
-            "speaker": "Abhijeet Kumar"
-          },
-          "track_2": {
-            "session": "Creating Low Cost Sensor dataloggers with Python and Microcontrollers (Hardware)",
-            "speaker": "Jithin"
-          },
-          "track_3": {
-            "session": "Python-Powered Algorithmic Trading: From Theory to Practice (Other)",
-            "speaker": "Mohit Khandelwal"
-          }
-        },
-        {
-          "start_time": "13:00",
-          "end_time": "14:00",
-          "track_1": "Lunch",
-          "track_2": "",
-          "track_3": ""
-        },
-        {
-          "start_time": "14:00",
-          "end_time": "17:00",
-          "track_1": {
-            "session": "TBD",
-            "speaker": "-"
-          },
-          "track_2": {
-            "session": "Hands-on exercises to experience how compiler technology can be useful to speedup data processing in python (Platform Engg.)",
-            "speaker": "Sourav Saha"
-          },
-          "track_3": {
-            "session": "From Zero to Backend Hero: Creating Full-Featured Apps with FastAPI (Web Applications)",
-            "speaker": "Vivek Keshore"
-          }
-        }
-      ]    
-  }
+  }  
 ]
