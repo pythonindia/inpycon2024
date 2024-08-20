@@ -3,12 +3,12 @@
       { "name": "HappyFox", "image": "sponsors/happyfox.png", "url": "https://happyfox.com" },
       { "name": "Abnormal Security", "image": "sponsors/abnormal.png", "url": "https://abnormalsecurity.com/" }
     ],
+    "gold": [
+      { "name": "TuneAI", "image": "sponsors/tuneai.png", "url": "http://www.tunehq.ai/" }
+    ],
     "silver": [
       { "name": "ZeOmega", "image": "sponsors/zeomega.png", "url": "https://www.zeomega.com/" },
       { "name": "IndeeTV", "image": "sponsors/indeetv.png", "url": "https://indee.tv/" }
-    ],
-    "gold": [
-      { "name": "TuneAI", "image": "sponsors/tuneai.png", "url": "http://www.tunehq.ai/" }
     ]
   }
   
