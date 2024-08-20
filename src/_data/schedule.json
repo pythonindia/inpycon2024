@@ -22,7 +22,7 @@
       {
         "start_time": "09:30",
         "end_time": "10:30",
-        "track_1": "Keynote 1",
+        "track_1": "Keynote: KOVID GOYAL",
         "track_2": "",
         "track_3": ""
       },
@@ -43,7 +43,7 @@
       {
         "start_time": "11:40",
         "end_time": "12:10",
-        "track_1": "Sync vs. Async in Python: Tools, Benchmarks, and ASGI/WSGI Explained",
+        "track_1": "TUIs Simplified: The Transformation of TUIs into User-Friendly Tools",
         "track_2": "Concurrency and parallel execution in Python and how the GIL affects it",
         "track_3": "Leveraging Python and Quantum Principles for Enhanced Network Operations and Design"
       },
@@ -78,7 +78,7 @@
       {
         "start_time": "15:25",
         "end_time": "15:55",
-        "track_1": "Panel 1",
+        "track_1": "Panel Discussion",
         "track_2": "Managing custom, reproducible Python virtual environments for PySpark and Jupyter Notebooks @ Uber",
         "track_3": "Python in the browser: my journey towards enhancing the Scientific Python ecosystem's interoperability with Pyodide"
       },
@@ -93,13 +93,13 @@
         "start_time": "16:20",
         "end_time": "16:50",
         "track_1": "Supercharge your Python code with the match statement",
-        "track_2": "Sponsored 1",
+        "track_2": "TBD",
         "track_3": "Finetuning with LLMs - The Idea Behind Parameter Efficient Fine-Tuning and Analyzing LoRA through its Implementation on an MLP"
       },
       {
         "start_time": "17:00",
         "end_time": "18:00",
-        "track_1": "Keynote 2",
+        "track_1": "Keynote: USHA RENGARAJU",
         "track_2": "",
         "track_3": ""
       },
@@ -135,7 +135,7 @@
       {
         "start_time": "09:30",
         "end_time": "10:30",
-        "track_1": "Keynote 3",
+        "track_1": "Keynote: TBD",
         "track_2": "",
         "track_3": ""
       },
@@ -151,20 +151,20 @@
         "end_time": "11:30",
         "track_1": "Faster Applications: Harnessing Python with C/Zig libraries and my story of building fastest LLM tokenizer",
         "track_2": "Revolutionizing LLM Serving: PagedAttention and vLLM for Unmatched Throughput, Efficiency and Seamless integration with popular Hugging Face models",
-        "track_3": "Exploring Game Development: Crafting a Car Game Using Python"
+        "track_3": "Deep Dive into Contextual Logging for Modern Python Applications"
       },
       {
         "start_time": "11:40",
         "end_time": "12:10",
-        "track_1": "simplify huge python projects with AST (abstract syntax tree)",
+        "track_1": "QuickGrpc - grpc 101 tailored towards rest devs and showcase of quickgrpc framework",
         "track_2": "Python and the Sun: Transforming Space Science with Open-Source",
-        "track_3": "Unlocking the Parallel Universe: Subinterpreters and Free-Threading in Python 3.13"
+        "track_3": "Unleashing the Power of Python: Exploring Python's New JIT Compiler"
       },
       {
         "start_time": "12:20",
         "end_time": "12:50",
-        "track_1": "Practical tips for building AI applications using LLMs - Best practices and trade-offs",
-        "track_2": "Sponsored 2",
+        "track_1": "Beyond the Bot: Overcoming Pitfalls in Building Customer-Facing Chatbots",
+        "track_2": "TBD",
         "track_3": "Python Packaging Demystified"
       },
       {
@@ -184,16 +184,16 @@
       {
         "start_time": "14:45",
         "end_time": "15:15",
-        "track_1": "",
+        "track_1": "TBD",
         "track_2": "Transforming Automotive Electronics Testing with Python and Robot Framework",
         "track_3": "Data platform for Social Impact"
       },
       {
         "start_time": "15:25",
         "end_time": "15:55",
-        "track_1": "Panel 2",
-        "track_2": "Sponsored 3",
-        "track_3": "Unlock Your Team's Superpower - It's Not in Your Toolbox, It's in Your Head!"
+        "track_1": "Panel Discussion",
+        "track_2": "TBD",
+        "track_3": "Beyond Single Models: The Secret Sauce of Predictive Success"
       },
       {
         "start_time": "15:55",
@@ -212,7 +212,7 @@
       {
         "start_time": "17:00",
         "end_time": "18:00",
-        "track_1": "Keynote 4",
+        "track_1": "Keynote: JAMES POWELL",
         "track_2": "",
         "track_3": ""
       },
@@ -250,8 +250,8 @@
             "speaker": "Jithin"
           },
           "track_3": {
-            "session": "A Crash Course in CPython Internals (Core Python)",
-            "speaker": "Abhinav Upadhyay"
+            "session": "Python-Powered Algorithmic Trading: From Theory to Practice (Other)",
+            "speaker": "Mohit Khandelwal"
           }
         },
         {
@@ -265,8 +265,8 @@
           "start_time": "14:00",
           "end_time": "17:00",
           "track_1": {
-            "session": "Introduction to data-driven AI applications and multi-modal search (AI and Machine Learning)",
-            "speaker": "Anthony Shaw"
+            "session": "TBD",
+            "speaker": "-"
           },
           "track_2": {
             "session": "Hands-on exercises to experience how compiler technology can be useful to speedup data processing in python (Platform Engg.)",
