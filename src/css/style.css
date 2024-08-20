@@ -284,11 +284,6 @@ thead th {
 .schedule {
   position: relative;
   background: rgb(255, 255, 255);
-  background: linear-gradient(
-    0deg,
-    rgba(255, 255, 255, 1),
-    rgba(255, 114, 75, 1) 100px
-  );
 }
 .table {
   border: 1px solid black !important;
@@ -562,7 +557,7 @@ thead th {
   font-weight: 700;
 }
 .title-1 {
-  color: #fff !important;
+  color: #ff724b !important;
   font-size: 6rem;
   font-weight: 700;
 }
