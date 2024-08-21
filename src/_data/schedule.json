@@ -39,8 +39,8 @@
           "start_time": "14:00",
           "end_time": "17:00",
           "track_1": {
-            "session": "TBD",
-            "speaker": "-"
+            "session": "Introduction to data-driven AI applications and multi-modal search (AI and Machine Learning)",
+            "speaker": "Ramya Oruganti"
           },
           "track_2": {
             "session": "Hands-on exercises to experience how compiler technology can be useful to speedup data processing in python (Platform Engg.)",
