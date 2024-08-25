@@ -126,7 +126,7 @@ a:focus {
 }
 header {
   backdrop-filter: saturate(180%) blur(20px) !important;
-  background: #eff9f7 !important;
+  background: #fff !important;
   position: sticky;
   top: 0px;
   z-index: 9999;
@@ -181,7 +181,7 @@ header .navbar-expand-lg .navbar-nav .nav-link {
   z-index: 9999 !important;
 }
 .banner-sec {
-  background: #eff9f7 url("../image/Group 5881.svg");
+  background: #fff url("../image/Group 5881.svg");
   background-repeat: repeat-x;
   background-size: auto !important;
   background-position: bottom center !important;

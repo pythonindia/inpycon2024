@@ -1,0 +1,12 @@
+.announcement {
+  position: relative;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  padding: 0.5rem;
+}
+
+.announcement p {
+  margin: 0;
+}
