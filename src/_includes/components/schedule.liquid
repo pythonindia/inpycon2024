@@ -14,14 +14,14 @@
             {% for day in schedule %}
               <li class="nav-item" role="presentation">
                 <button
-                  class="nav-link {% if forloop.first %}active{% endif %}"
+                  class="nav-link {% if day.id == 'sep21' %}active{% endif %}"
                   id="pills-{{ day.id }}-tab"
                   data-bs-toggle="pill"
                   data-bs-target="#pills-{{ day.id }}"
                   type="button"
                   role="tab"
                   aria-controls="pills-{{ day.id }}"
-                  aria-selected="{% if forloop.first %}true{% else %}false{% endif %}">
+                  aria-selected="{% if day.id == 'sep21' %}true{% else %}false{% endif %}">
                   <h3>{{ day.title | upcase }}</h3>
                   <p class="tpb-para">{{ day.description }}</p>
                 </button>
@@ -31,7 +31,7 @@
           <div class="tab-content" id="pills-tabContent">
             {% for day in schedule %}
               <div
-                class="tab-pane fade {% if forloop.first %}show active{% endif %}"
+                class="tab-pane fade {% if day.id == 'sep21' %}show active{% endif %}"
                 id="pills-{{ day.id }}"
                 role="tabpanel"
                 aria-labelledby="pills-{{ day.id }}-tab">
@@ -41,9 +41,9 @@
                     <thead>
                       <tr class="text-center">
                         <th scope="col">TIME</th>
-                        <th scope="col">HALL A</th>
-                        <th scope="col">HALL B</th>
-                        <th scope="col">HALL C</th>
+                        <th scope="col">Track 1</th>
+                        <th scope="col">Track 2</th>
+                        <th scope="col">Track 3</th>
                       </tr>
                     </thead>
                     <tbody>
