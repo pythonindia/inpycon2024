@@ -9,7 +9,8 @@
     ],
     "silver": [
       { "name": "ZeOmega", "image": "sponsors/zeomega.png", "url": "https://www.zeomega.com/" },
-      { "name": "IndeeTV", "image": "sponsors/indeetv.png", "url": "https://indee.tv/" }
+      { "name": "IndeeTV", "image": "sponsors/indeetv.png", "url": "https://indee.tv/" },
+      { "name": "E2E", "image": "sponsors/e2e.png", "url": "https://www.e2enetworks.com/" }
     ]
   }
   
