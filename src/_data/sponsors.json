@@ -10,8 +10,7 @@
     "silver": [
       { "name": "ZeOmega", "image": "sponsors/zeomega.png", "url": "https://www.zeomega.com/" },
       { "name": "IndeeTV", "image": "sponsors/indeetv.png", "url": "https://indee.tv/" },
-      { "name": "E2E", "image": "sponsors/e2e.png", "url": "https://www.e2enetworks.com/" },
-      { "name": "Bloomberg", "image": "sponsors/bloomberg.png", "url": "https://www.bloomberg.com/company/values/tech-at-bloomberg/" }
+      { "name": "E2E", "image": "sponsors/e2e.png", "url": "https://www.e2enetworks.com/" }
     ]
   }
   
