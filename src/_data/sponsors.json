@@ -6,7 +6,8 @@
     ],
     "gold": [
       { "name": "TuneAI", "image": "sponsors/tuneai.png", "url": "http://www.tunehq.ai/" },
-      { "name": "ManageEngine Site24x7", "image": "sponsors/manageengine.png", "url": "https://www.site24x7.com/" }
+      { "name": "ManageEngine Site24x7", "image": "sponsors/manageengine.png", "url": "https://www.site24x7.com/" },
+      { "name": "PSF", "image": "sponsors/psf.png", "url": "https://www.python.org/psf-landing/"}
     ],
     "silver": [
       { "name": "ZeOmega", "image": "sponsors/zeomega.png", "url": "https://www.zeomega.com/" },
