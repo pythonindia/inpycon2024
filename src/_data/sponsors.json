@@ -5,16 +5,19 @@
       { "name": "Choreo by WSO2", "image": "sponsors/choreo.png", "url": "https://choreo.dev/"}
     ],
     "gold": [
-      { "name": "TuneAI", "image": "sponsors/tuneai.png", "url": "http://www.tunehq.ai/" }
+      { "name": "TuneAI", "image": "sponsors/tuneai.png", "url": "http://www.tunehq.ai/" },
+      { "name": "ManageEngine Site24x7", "image": "sponsors/manageengine.png", "url": "https://www.site24x7.com/" },
+      { "name": "PSF", "image": "sponsors/psf.png", "url": "https://www.python.org/psf-landing/"}
     ],
     "silver": [
       { "name": "ZeOmega", "image": "sponsors/zeomega.png", "url": "https://www.zeomega.com/" },
       { "name": "IndeeTV", "image": "sponsors/indeetv.png", "url": "https://indee.tv/" },
       { "name": "E2E", "image": "sponsors/e2e.png", "url": "https://www.e2enetworks.com/" },
-      { "name": "Bloomberg", "image": "sponsors/bloomberg.png", "url": "https://www.bloomberg.com/company/values/tech-at-bloomberg/" }
+      { "name": "Bloomberg", "image": "sponsors/bloomberg.png", "url": "https://www.bloomberg.com/company/values/tech-at-bloomberg/" },
+      { "name": "FireDucks", "image": "sponsors/fireducks.png", "url": "https://fireducks-dev.github.io/" }
     ],
     "associate": [
       { "name": "Reckonsys", "image": "sponsors/reckonsys.png", "url": "https://www.reckonsys.com/" }
     ]
-  }
+}
   

@@ -51,6 +51,27 @@ In the unfortunate event where people cannot attend the Conference they can canc
 - Due to compliance reasons we won't be able to process cancellations for participants claiming GST in their purchases. Please reach out to tickets@in.pycon.org for further assistance.
 - Cancellation will incur a small cancellation fee equivalent to 4% of ticket charges incurred as a part of platform fees.
 
+#### Transfer Policy
+In case you already know someone whom you want to Transfer your ticket you can put a Transfer request by sending an email to tickets@in.pycon.org. Please note that you need to take care of collecting the ticket price from the person whom you are transferring the ticket. PyCon India team is not responsible for managing the transfer of the ticket price. We only facilitate the ticket transfer. Keep the person in CC whom you want to transfer your ticket and mention the following details of the person to whom ticket is to be transferred
+
+Name
+
+Email
+
+Contact Number
+
+Designation
+
+Years of Experience
+
+Organisation
+
+City
+
+T shirt size
+
+Our Ticketing Team will take care of the Transfer. Transfer requests will be accepted till 11th September 2024, 23.59 IST.
+
 #### I am a speaker/volunteer at the conference. Do I need to buy a ticket?
 Yes. At PyCon India, everybody buys tickets. Even the event organizers buy tickets. Your ticket helps keep the event affordable for all.
 

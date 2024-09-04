@@ -55,6 +55,7 @@ npx @11ty/eleventy --serve --port=8080
   <tr>
     <td align="center"><a href="https://github.com/kybrdbnd"><img src="https://avatars.githubusercontent.com/u/10006381?v=4" width="100px" alt="Pranav Puri"/><br /><sub><b>Pranav Puri</b></sub></a></td>
     <td align="center"><a href="https://github.com/wavicles"><img src="https://avatars.githubusercontent.com/u/7612306?v=4" width="100px" alt="Praveen (Gnovi)"/><br /><sub><b>Praveen (Gnovi)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/soumendrak"><img src="https://avatars.githubusercontent.com/u/10120538?v=4" width="100px" alt="Soumendra kumar sahoo"/><br /><sub><b>Soumendra kumar sahoo</b></sub></a></td>
   </tr>
 </table>
 <!-- CONTRIBUTORS_END -->
