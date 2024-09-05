@@ -13,5 +13,10 @@
         "name": "James Powell",
         "image": "image/keynotes/james.jpg",
         "title": "Don't Use This Code <br /> NumFOCUS/PyData"
+    },
+    {
+        "name": "Mars Lee",
+        "image": "image/keynotes/mars.png",
+        "title": "Technical Instructor <br /> PyData"
     }
 ]
