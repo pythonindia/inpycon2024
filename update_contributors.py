@@ -33,8 +33,6 @@ def update_readme(contributors):
     contributors = [contributor for contributor in contributors if contributor['type'] != 'Bot']
 
     for i, contributor in enumerate(contributors):
-        if contributor['type'] == 'Bot':
-            continue
         contributor_details = get_contributor_details(contributor['login'])
         name = contributor_details['name'] or contributor_details['login']
         avatar_url = contributor_details['avatar_url']
