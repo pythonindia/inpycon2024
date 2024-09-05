@@ -15,6 +15,9 @@
       { "name": "E2E", "image": "sponsors/e2e.png", "url": "https://www.e2enetworks.com/" },
       { "name": "Bloomberg", "image": "sponsors/bloomberg.png", "url": "https://www.bloomberg.com/company/values/tech-at-bloomberg/" },
       { "name": "FireDucks", "image": "sponsors/fireducks.png", "url": "https://fireducks-dev.github.io/" }
+    ],
+    "associate": [
+      { "name": "Reckonsys", "image": "sponsors/reckonsys.png", "url": "https://www.reckonsys.com/" }
     ]
-  }
+}
   
