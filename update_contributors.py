@@ -28,9 +28,11 @@ def update_readme(contributors):
 
     rows_per_column = 6
     new_contributors_section = "<table>\n  <tr>"
+
+    # filter contributors who are bots
+    contributors = [contributor for contributor in contributors if contributor['type'] != 'Bot']
+
     for i, contributor in enumerate(contributors):
-        if contributor['type'] == 'Bot':
-            continue
         contributor_details = get_contributor_details(contributor['login'])
         name = contributor_details['name'] or contributor_details['login']
         avatar_url = contributor_details['avatar_url']
