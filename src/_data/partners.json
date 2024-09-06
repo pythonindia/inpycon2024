@@ -1,42 +1,62 @@
 [
   {
     "name": "BangPypers",
-    "url": "https://bangalore.pythonindia.org/",
+    "link": "https://bangalore.pythonindia.org/",
     "image": "partners/bangpypers.png"
   },
   {
     "name": "HydPy",
-    "url": "https://www.hydpy.org/",
+    "link": "https://www.hydpy.org/",
     "image": "partners/hydpy.png"
   },
   {
     "name": "PythonPune",
-    "url": "https://pythonpune.in/",
+    "link": "https://pythonpune.in/",
     "image": "partners/PythonPune_banner.svg"
   },
   {
     "name": "PyLadies India",
-    "url": "https://x.com/pyladiesi",
+    "link": "https://x.com/pyladiesi",
     "image": "partners/pyladies.jpg"
   },
   {
     "name": "ChennaiPy",
-    "url": "https://chennaipy.org",
+    "link": "https://chennaipy.org",
     "image": "partners/chennaipy.png"
   },
   {
     "name": "PyDelhi",
-    "url": "https://pydelhi.org/",
+    "link": "https://pydelhi.org/",
     "image": "partners/pydelhi.jpeg"
   },
   {
     "name": "MUMPY",
-    "url": "https://mumbai.pythonindia.org/",
+    "link": "https://mumbai.pythonindia.org/",
     "image": "partners/logo_mumpy.png"
   },
   {
     "name": "Djangogirls Bangalore",
-    "url": "https://x.com/DjangoGirlsBLR",
+    "link": "https://x.com/DjangoGirlsBLR",
     "image": "partners/djangogirlsblr.png"
+  },
+  {
+    "name": "PyLadies Bengaluru",
+    "link": "https://x.com/pyladiesblr",
+    "image": "partners/pyladiesblr.jpg"
+  },
+  {
+    "name": "PyLadies Chennai",
+    "link": "https://x.com/pyladieschennai",
+    "image": "partners/pyladieschennai.jpg"
+  },
+  {
+    "name": "PyLadies Hyderabad",
+    "link": "https://x.com/pyladieshyd",
+    "image": "partners/pyladieshyd.jpg"
+  },
+  {
+    "name": "BelPy",
+    "link": "https://belpy.in",
+    "image": "partners/belpy.png"
   }
 ]

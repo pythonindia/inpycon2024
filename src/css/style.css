@@ -701,6 +701,7 @@ thead th {
   display: flex;
   align-items: center !important;
   justify-content: center;
+  
 }
 .tick-btn {
   padding: 20px 50px;
@@ -1284,4 +1285,12 @@ path {
   .bg-reg {
     background-size: cover !important;
   }
+}
+
+.img-fluid {
+  transition: all 0.5s ease-in-out;
+}
+
+.img-fluid:hover {
+  transform: scale(1.25);
 }
