@@ -1,50 +1,62 @@
 [
-    {
-      "name": "FOSS United",
-      "image": "foss-united.png"
-    },
-    {
-      "name": "OCD India",
-      "image": "ocd-india.png"
-    },
-    {
-      "name": "Hackerabad",
-      "image": "hackerabad.png"
-    },
-    {
-      "name": "Cloud Native Computing Foundation Hyderabad",
-      "image": "cloud-native-computing-foundation-hyderabad.png"
-    },
-    {
-      "name": "Google Developer Student Club School of Data Science and Forecasting, DAVV",
-      "image": "google-developer-student-club-school-of-data-science-and-forecasting.png"
-    },
-    {
-      "name": "Microsoft Student Community Hyderabad",
-      "image": "microsoft-student-community-hyderabad.png"
-    },
-    {
-      "name": "She Loves Tech",
-      "image": "she-loves-tech.png"
-    },
-    {
-      "name": "Postman Community Kolkata",
-      "image": "postman-community-kolkata.png"
-    },
-    {
-      "name": "Student Developers Community",
-      "image": "student-developers-community.jpg"
-    },
-    {
-      "name": "TensorFlow User Group Hyderabad",
-      "image": "tfug-hyderabad.png"
-    },
-    {
-      "name": "Women Techmakers",
-      "image": "wtm.png"
-    },
-    {
-      "name": "CP4",
-      "image": "cp4.png"
-    }
-  ]
+  {
+    "name": "BangPypers",
+    "link": "https://bangalore.pythonindia.org/",
+    "image": "partners/bangpypers.png"
+  },
+  {
+    "name": "HydPy",
+    "link": "https://www.hydpy.org/",
+    "image": "partners/hydpy.png"
+  },
+  {
+    "name": "PythonPune",
+    "link": "https://pythonpune.in/",
+    "image": "partners/PythonPune_banner.svg"
+  },
+  {
+    "name": "PyLadies India",
+    "link": "https://x.com/pyladiesi",
+    "image": "partners/pyladies.jpg"
+  },
+  {
+    "name": "ChennaiPy",
+    "link": "https://chennaipy.org",
+    "image": "partners/chennaipy.png"
+  },
+  {
+    "name": "PyDelhi",
+    "link": "https://pydelhi.org/",
+    "image": "partners/pydelhi.jpeg"
+  },
+  {
+    "name": "MUMPY",
+    "link": "https://mumbai.pythonindia.org/",
+    "image": "partners/logo_mumpy.png"
+  },
+  {
+    "name": "Djangogirls Bangalore",
+    "link": "https://x.com/DjangoGirlsBLR",
+    "image": "partners/djangogirlsblr.png"
+  },
+  {
+    "name": "PyLadies Bengaluru",
+    "link": "https://x.com/pyladiesblr",
+    "image": "partners/pyladiesblr.jpg"
+  },
+  {
+    "name": "PyLadies Chennai",
+    "link": "https://x.com/pyladieschennai",
+    "image": "partners/pyladieschennai.jpg"
+  },
+  {
+    "name": "PyLadies Hyderabad",
+    "link": "https://x.com/pyladieshyd",
+    "image": "partners/pyladieshyd.jpg"
+  },
+  {
+    "name": "BelPy",
+    "link": "https://belpy.in",
+    "image": "partners/belpy.png"
+  }
+]
