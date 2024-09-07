@@ -73,9 +73,9 @@ Lalbagh is one of Bengaluru’s major attractions. A sprawling garden situated i
 
 Bannerghatta Biological Park, also known as the Bannerghatta Zoo, is a zoological garden located in the city of Bengaluru. It was initially a small zoo and picnic corner within Bannerghatta National Park (BNP) which was started in 1974. The bifurcation of the Biological Park and the National Park took place in 2002. The Bannerghatta Biological Park covers a total area of 731.88 hectares and includes a zoo, safari park, butterfly park and rescue centre
 
-**Mahatma Gandhi (MG) Road**
-
-M. G. Road is also one of the busiest roads in the city and is lined on one side with retail stores, food outlets, restaurants and many more. It has many office buildings, shops and theatres. It is also a home to many buildings and banks. 
+**Commercial Street**
+Commercial Street is a street in Bangalore, the state capital of Karnataka, India. One of the oldest and busiest shopping areas of the city, The street is famous for its trade in clothes, footwear, jewellery, electronics and food joints. Commercial Street lies in the heart of the city in the Central Business District area in Tasker Town, close to M G Road, another popular shopping area, and Russell Market in Shivajinagar. 
+ 
 
 **ISKCON Temple Bangalore**
 
