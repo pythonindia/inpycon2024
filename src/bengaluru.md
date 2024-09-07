@@ -28,6 +28,7 @@ The conference will be held at NIMHANS Convention Center, Bengaluru. Here are th
 - **From Red Line**: Disembark at LalBagh. From the metro station, you can either walk or take a short taxi ride to reach NIMHANS Convention Centre.
 
 For a list of stations on the Bengaluru Metro Green line, you can refer to [Wikipedia](https://en.wikipedia.org/wiki/Green_Line_(Namma_Metro)).
+
 For a list of stations on the Bengaluru Metro Red line, you can refer to [Wikipedia](https://en.wikipedia.org/wiki/Red_Line_(Namma_Metro)).
 
 
@@ -85,3 +86,16 @@ Sri Radha Krishna-Chandra Temple (Kannada: ಶ್ರೀ ರಾಧಾ ಕೃಷ�
 
 Bangalore Palace is a 19th century royal palace located in Bangalore, Karnataka, India, built in an area that was owned by the Rev. John Garrett, the first principal of the Central High School in Bangalore, now famous as Central College. The palace was commissioned for the Maharaja of Mysore, Chamarajendra Wadiyar X, and currently belongs to the current head of the Wadiyar dynasty, Yaduveer Krishnadatta Chamaraja Wadiyar.
 
+Places to eat (Recommendation)
+--------
+
+| Places | What to eat |
+| :----: | :---------: |
+| MTR- Mavalli Tiffin Rooms | Traditional South Indian |
+| Lakeview Milk Bar | Dessert |
+| Thom's Bakery | Cakes & Pasteries |
+| Rameshwaram | South Indian |
+| Meghana's Food | Biryani |
+| Amintri | Cheesecakes |
+| The Hole in the Wall | English breakfast |
+| Milano | Ice Cream |
