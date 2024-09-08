@@ -63,8 +63,8 @@ If you're attending the PyConIndia 2024 conference and looking for accommodation
 | OYO 4606 Hotel Maple Green Suites | 5.8 Km | 3.6 |
 <br/><br/>
 
-Places to must Visit
-------
+Places to must visit
+-----
 
 **Lalbagh Botanical Garden**
 
@@ -89,13 +89,34 @@ Bangalore Palace is a 19th century royal palace located in Bangalore, Karnataka,
 Places to eat (Recommendation)
 --------
 
-| Places | What to eat |
-| :----: | :---------: |
-| MTR- Mavalli Tiffin Rooms | Traditional South Indian |
-| Lakeview Milk Bar | Dessert |
-| Thom's Bakery | Cakes & Pasteries |
-| Rameshwaram | South Indian |
-| Meghana's Food | Biryani |
-| Amintri | Cheesecakes |
-| The Hole in the Wall | English breakfast |
-| Milano | Ice Cream |
+**MTR- Mavalli Tiffin Rooms**
+
+Mavalli Tiffin Rooms, known more popularly as MTR, was established in 1924 and is one of Bangalore's oldest and most well known restaurants serve traditional South Indian food.
+
+**Lakeview Milk Bar**
+
+Known for it's ice creams and cakes, this is a very old place located in the MG Road. Walking distance from MG Road metro station this place is open until late night around 1am. It's popular for its Faloodas and cake ice cream combos. You also do get snacks like sandwich, omelette etc.
+
+**Thom's Bakery**
+
+Best bakery in the city been there for last 75years.
+
+**Rameshwaram**
+
+One of the best venues in Bangalore to eat a typical South Indian breakfast. Crispy dosas, fluffy idlis, vadas, and uttapams are just a few delicacies.
+
+**Meghana's Food**
+
+Good place to enjoy some Andhra food. They are specialised in some very good Andhra biriyani which is a must try.
+
+**Amintiti**
+
+Aminitiri, with its lovely Teal interiors and crockery, offers pasta, sandwiches, pancakes, French toasts, egg based dishes, coffee, tea, salad etc.
+
+**The Hole in the Wall**
+
+Where every visit feels like a secret getaway!!⭐️ Hole In The Wall Café, Koramangala gives an intimate vibe with rustic decor and soft lighting.
+
+**Milano**
+
+A wonderful ambience to chill out on a busy day. They offer a variety of delicious and mouth watering dishes be it icecream, pizza and a lot of dairy stuff.
