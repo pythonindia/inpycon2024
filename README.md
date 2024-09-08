@@ -46,11 +46,11 @@ npx @11ty/eleventy --serve --port=8080
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/TeeWrath"><img src="https://avatars.githubusercontent.com/u/117584718?v=4" width="100px" alt="Subroto Banerjee"/><br /><sub><b>Subroto Banerjee</b></sub></a></td>
+    <td align="center"><a href="https://github.com/kybrdbnd"><img src="https://avatars.githubusercontent.com/u/10006381?v=4" width="100px" alt="Pranav Puri"/><br /><sub><b>Pranav Puri</b></sub></a></td>
     <td align="center"><a href="https://github.com/priyanshu-247"><img src="https://avatars.githubusercontent.com/u/50795140?v=4" width="100px" alt="Priyanshu"/><br /><sub><b>Priyanshu</b></sub></a></td>
     <td align="center"><a href="https://github.com/abhishekmishragithub"><img src="https://avatars.githubusercontent.com/u/38150419?v=4" width="100px" alt="Abhishek"/><br /><sub><b>Abhishek</b></sub></a></td>
     <td align="center"><a href="https://github.com/Schefflera-Arboricola"><img src="https://avatars.githubusercontent.com/u/91629733?v=4" width="100px" alt="Aditi Juneja"/><br /><sub><b>Aditi Juneja</b></sub></a></td>
     <td align="center"><a href="https://github.com/bhavin192"><img src="https://avatars.githubusercontent.com/u/5154532?v=4" width="100px" alt="Bhavin Gandhi"/><br /><sub><b>Bhavin Gandhi</b></sub></a></td>
-    <td align="center"><a href="https://github.com/kybrdbnd"><img src="https://avatars.githubusercontent.com/u/10006381?v=4" width="100px" alt="Pranav Puri"/><br /><sub><b>Pranav Puri</b></sub></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/wavicles"><img src="https://avatars.githubusercontent.com/u/7612306?v=4" width="100px" alt="Praveen (Gnovi)"/><br /><sub><b>Praveen (Gnovi)</b></sub></a></td>
