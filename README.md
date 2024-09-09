@@ -39,8 +39,8 @@ npx @11ty/eleventy --serve --port=8080
   <tr>
     <td align="center"><a href="https://github.com/bhansa"><img src="https://avatars.githubusercontent.com/u/9723884?v=4" width="100px" alt="Bharat Saraswat"/><br /><sub><b>Bharat Saraswat</b></sub></a></td>
     <td align="center"><a href="https://github.com/vamc-k"><img src="https://avatars.githubusercontent.com/u/11007620?v=4" width="100px" alt="Vamsi Krishna Kolli"/><br /><sub><b>Vamsi Krishna Kolli</b></sub></a></td>
-    <td align="center"><a href="https://github.com/anistark"><img src="https://avatars.githubusercontent.com/u/5357586?v=4" width="100px" alt="Ani"/><br /><sub><b>Ani</b></sub></a></td>
     <td align="center"><a href="https://github.com/ananyo2012"><img src="https://avatars.githubusercontent.com/u/10486343?v=4" width="100px" alt="Ananya Maiti"/><br /><sub><b>Ananya Maiti</b></sub></a></td>
+    <td align="center"><a href="https://github.com/anistark"><img src="https://avatars.githubusercontent.com/u/5357586?v=4" width="100px" alt="Ani"/><br /><sub><b>Ani</b></sub></a></td>
     <td align="center"><a href="https://github.com/ayushjain01"><img src="https://avatars.githubusercontent.com/u/67141217?v=4" width="100px" alt="Ayush Jain"/><br /><sub><b>Ayush Jain</b></sub></a></td>
     <td align="center"><a href="https://github.com/Techiezy"><img src="https://avatars.githubusercontent.com/u/37692230?v=4" width="100px" alt="Techiezy"/><br /><sub><b>Techiezy</b></sub></a></td>
   </tr>
