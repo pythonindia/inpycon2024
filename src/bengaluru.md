@@ -8,7 +8,7 @@ Bengaluru is the capital and largest city of the southern Indian state of Karnat
 Getting to Bengaluru
 ----------
 
-**By Plane - Bengaluru International Airport**
+**By Plane - Kempegowda International Airport Bengaluru**
 
 If you're arriving by air, the Bengaluru International Airport serves as your gateway to Bengaluru. Various Indian airlines operate flights to this airport, including Air India, Air India Express, Indigo Airlines, Akasa Air, and SpiceJet.
 
@@ -23,7 +23,7 @@ Going to the Conference Venue - NIMHANS Convention Center
 
 The conference will be held at NIMHANS Convention Center, Bengaluru. Here are the different ways to reach the venue:
 
-**Via Bengaluru Metro**
+**Via Namma Metro**
 - **From Green Line**: Disembark at South End Circle. From the metro station, you can either walk or take a short taxi ride to reach NIMHANS Convention Centre.
 - **From Red Line**: Disembark at LalBagh. From the metro station, you can either walk or take a short taxi ride to reach NIMHANS Convention Centre.
 
@@ -38,12 +38,6 @@ For a list of stations on the Bengaluru Metro Red line, you can refer to [Wikipe
 
 We're excited to welcome you to PyCon India 2024 and hope you have a fantastic experience in Bengaluru! If you have any further inquiries or need assistance, feel free to contact us at [contact@in.pycon.org](mailto:contact@in.pycon.org).
 
-
-DevSprints - Google Office, Bengaluru
-------
-**What is DevSprint?**
-
-During Devsprints, mentors/contributors of OSS projects guide participants through the end-to-end process of OSS contribution, right from setting up build environments, to developing and testing code, to submitting patches for bugs. If you are stuck, mentors are all available to help you figure out issues and get you back up and running! From past experiences, we’ve seen a lot of people start off contributing to OSS through Devsprints and later go on to become regular contributors to various projects across the web.
 
 Accommodation
 -------
@@ -101,7 +95,7 @@ Known for it's ice creams and cakes, this is a very old place located in the MG 
 
 Best bakery in the city been there for last 75years.
 
-**Rameshwaram**
+**Rameshwaram Cafe**
 
 One of the best venues in Bangalore to eat a typical South Indian breakfast. Crispy dosas, fluffy idlis, vadas, and uttapams are just a few delicacies.
 
@@ -109,7 +103,7 @@ One of the best venues in Bangalore to eat a typical South Indian breakfast. Cri
 
 Good place to enjoy some Andhra food. They are specialised in some very good Andhra biriyani which is a must try.
 
-**Amintiti**
+**Amintiri**
 
 Aminitiri, with its lovely Teal interiors and crockery, offers pasta, sandwiches, pancakes, French toasts, egg based dishes, coffee, tea, salad etc.
 
