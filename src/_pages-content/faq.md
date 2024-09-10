@@ -4,14 +4,10 @@ layout: content.liquid
 permalink: /faq/
 ---
 
-<a class="anchor" id="pycon"></a>
-
-### [What is PyCon India?](#pycon)
+### What is PyCon India?
 PyCon India is the annual gathering of Pythonistas, run by the Indian Python community, to foster the adoption of the Python programming language. PyCon India 2024, will take place in Bengaluru, between 20 Sept - 23 Sept. This will be the 15th edition of the conference.
 
-<a class="anchor" id="conference"></a>
-
-### [The conference days will be divided into the following events:](#conference)
+### The conference days will be divided into the following events:
 
 #### September 20, 2024: Workshops
 Workshops will be 3-hour-long interactive sessions where attendees can learn by doing. Workshops will be held on September 20, 2024 across two morning & evening sessions. We may have up to 3 parallel workshops in each session. The morning session will run from 10:00 AM to 1:00 PM. The evening session will run from 2:00 PM to 5:00 PM.
@@ -26,58 +22,37 @@ Workshops will be 3-hour-long interactive sessions where attendees can learn by 
 #### September 23, 2024: Devsprints
 During the Devsprints, people contribute to open-source projects, guided by mentors. This is a nice way to get started with contributing to Python and other open-source projects.
 
-<a class="anchor" id="general"></a>
 
-[General FAQ](#general)
---------
+### General FAQ
 
-<a class="anchor" id="general_updates"></a>
-
-#### [Where can I find updates related to PyCon India 2024?](#general_updates)
+#### Where can I find updates related to PyCon India 2024?
 All announcements related to the conference are posted to the [PyCon India Announce mailing list](https://mail.python.org/mailman3/lists/inpycon-announce.python.org/). If you would like to volunteer, and contribute to the organization of PyCon India, join the [InPyCon mailing list](https://mail.python.org/mailman/listinfo/inpycon). We also have a presence on social media. All our announcements are posted on our [X](https://x.com/pyconindia), [LinkedIn](https://linkedin.com/company/pyconindia), and [Facebook](https://www.facebook.com/PyConIndia/) pages.
 
-<a class="anchor" id="general_present"></a>
-
-#### [I want to present at the conference. What should I do?](#general_present)
+#### I want to present at the conference. What should I do?
 The call for Proposals is now open. Please visit the [CFP page](https://in.pycon.org/cfp/2024/proposals/) to submit your talk/workshop/ proposal.
 
-<a class="anchor" id="general_first_time"></a>
-
-#### [I am a first-time speaker & need some help in getting started. What should I do?](#general_first_time)
+#### I am a first-time speaker & need some help in getting started. What should I do?
 Check out the [Speaker best practices](https://github.com/pythonindia/junction/wiki/Speaker-best-practices) to understand more about the process. For any doubts, feel free to reach out to us!
 
-<a class="anchor" id="general_volunteer"></a>
-
-#### [I want to volunteer for the conference. What should I do?](#general_volunteer)
+#### I want to volunteer for the conference. What should I do?
 You can fill out the [volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSeJ9cKrN9HFX-GSHgYepjYRBzYIMbu4NONCrpw8rcEQKBRv9w/viewform) and subscribe to the [InPyCon mailing list](https://mail.python.org/mailman/listinfo/inpycon) for updates.
 
-<a class="anchor" id="general_internet"></a>
-
-#### [Will the Internet and WiFi setup be good enough for a large crowd? Should I get a data card?](#general_internet)
+#### Will the Internet and WiFi setup be good enough for a large crowd? Should I get a data card?
 We try really hard to arrange good Internet at the venue. Most of the time it is adequate. However, the unpredictable amount of usage during the event sometimes causes problems. So it is fine if you don’t carry a data card, but there is no harm in being prepared for the worst.
 
-<a class="anchor" id="ticketing"></a>
+### Ticketing FAQ
 
-[Ticketing FAQ](#ticketing)
----------
-
-<a class="anchor" id="ticketing_konfhub"></a>
-
-#### [Ticketing](#ticketing_konfhub)
+#### Ticketing
 Tickets for PyCon India 2024 are available on Konfhub, our Ticketing and Finance Partner. Get your tickets here.
 
-<a class="anchor" id="ticketing_cancellation"></a>
-
-#### [Cancellation Policy](#ticketing_cancellation)
+#### Cancellation Policy
 In the unfortunate event where people cannot attend the Conference they can cancel their ticket by sending an email to tickets@in.pycon.org. This will enable us to open tickets for others interested in attending the conference. Cancellation is subject to Terms and Conditions mentioned below. Ticketing team will process the Cancellation and the amount will be refunded to the original payment method. Cancellations requests will be accepted till 25th August 2024, 23.59 IST.
 
 **Terms and Conditions:**
 - Due to compliance reasons we won't be able to process cancellations for participants claiming GST in their purchases. Please reach out to tickets@in.pycon.org for further assistance.
 - Cancellation will incur a small cancellation fee equivalent to 4% of ticket charges incurred as a part of platform fees.
 
-<a class="anchor" id="ticketing_transfer_policy"></a>
-
-#### [Transfer Policy](#ticketing_transfer_policy)
+#### Transfer Policy
 In case you already know someone whom you want to Transfer your ticket you can put a Transfer request by sending an email to tickets@in.pycon.org. Please note that you need to take care of collecting the ticket price from the person whom you are transferring the ticket. PyCon India team is not responsible for managing the transfer of the ticket price. We only facilitate the ticket transfer. Keep the person in CC whom you want to transfer your ticket and mention the following details of the person to whom ticket is to be transferred
 
 Name
@@ -98,52 +73,35 @@ T shirt size
 
 Our Ticketing Team will take care of the Transfer. Transfer requests will be accepted till 11th September 2024, 23.59 IST.
 
-<a class="anchor" id="ticketing_speaker"></a>
-
-#### [I am a speaker/volunteer at the conference. Do I need to buy a ticket?](#ticketing_speaker)
+#### I am a speaker/volunteer at the conference. Do I need to buy a ticket?
 Yes. At PyCon India, everybody buys tickets. Even the event organizers buy tickets. Your ticket helps keep the event affordable for all.
 
-<a class="anchor" id="ticketing_conference"></a>
-
-#### [What does the Conference (September 21-22, 2024) ticket include?](#ticketing_conference)
+#### What does the Conference (September 21-22, 2024) ticket include?
 - A full conference pass for two days that includes access to all keynotes, talks, poster sessions, lightning talks, and open spaces.
 - Lunch
 - High-Tea and Snacks
 - PyCon India T-shirt and goodies
 
-<a class="anchor" id="ticketing_workshop"></a>
-
-#### [Is there a different ticket for the Workshops?](#ticketing_workshop)
+#### Is there a different ticket for the Workshops?
 Yes. A separate ticket has to be purchased for each workshop. The following is included as part of the workshop ticket:
 - Access to the specific workshop
 - Lunch
 - High-Tea and Snacks
 - Access to Kid's engagement (by Volunteers) at the Venue
 
-<a class="anchor" id="ticketing_devsprints"></a>
-
-#### [Is there a different ticket for the Devsprints?](#ticketing_devsprints)
+#### Is there a different ticket for the Devsprints?
 TBD
 
-<a class="anchor" id="ticketing_accomodation"></a>
-
-#### [Is accommodation included in the ticket?](#ticketing_accomodation)
+#### Is accommodation included in the ticket?
 No, it doesn’t include accommodation.
 
-<a class="anchor" id="ticketing_registration"></a>
-
-#### [Would there be any spot registration at the venue?](#ticketing_registration)
+#### Would there be any spot registration at the venue?
 Yes, there will be a limited number of spot registrations on a first-come-first basis available at the conference venue. But the goodies are subject to availability.
 
-<a class="anchor" id="ticketing_session"></a>
-
-#### [Can I switch between workshops during the session?](#ticketing_session)
+#### Can I switch between workshops during the session?
 No. Each track is planned at its full capacity.
 
-<a class="anchor" id="contact-us"></a>
-
-[Contact Us](#contact-us)
---------
+### Contact Us
 
 - For general queries: [contact@in.pycon.org](mailto:contact@in.pycon.org)
 - For ticket queries: [tickets@in.pycon.org](mailto:tickets@in.pycon.org)

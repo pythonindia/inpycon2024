@@ -1293,30 +1293,3 @@ path {
 .img-fluid:hover {
   transform: scale(1.25);
 }
-
-a:link {
-  text-decoration: none;
-  color: #000;
-}
-
-a:visited {
-  text-decoration: none;
-  color: #000;
-}
-
-a:hover {
-  text-decoration: none;
-  color: #000;
-}
-
-a:active {
-  text-decoration: none;
-  color: #000;
-}
-
-a.anchor {
-  display: block;
-  position: relative;
-  top: -250px;
-  visibility: hidden;
-}
