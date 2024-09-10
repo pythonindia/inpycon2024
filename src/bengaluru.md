@@ -105,7 +105,7 @@ Good place to enjoy some Andhra food. They are specialised in some very good And
 
 **Amintiri**
 
-Aminitiri, with its lovely Teal interiors and crockery, offers pasta, sandwiches, pancakes, French toasts, egg based dishes, coffee, tea, salad etc.
+Amintiri, with its lovely Teal interiors and crockery, offers pasta, sandwiches, pancakes, French toasts, egg based dishes, coffee, tea, salad etc.
 
 **The Hole in the Wall**
 
