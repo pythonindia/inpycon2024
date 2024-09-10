@@ -19,6 +19,6 @@
     ],
     "associate": [
       { "name": "Reckonsys", "image": "sponsors/reckonsys.png", "url": "https://www.reckonsys.com/" },
-      { "name": "RedHat", "image": "sponsors/redhat.png", "url": "https://redhat.com/" }
+      { "name": "Red Hat", "image": "sponsors/redhat.png", "url": "https://redhat.com/" }
     ]
 }
