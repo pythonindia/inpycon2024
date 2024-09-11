@@ -22,7 +22,8 @@ Workshops will be 3-hour-long interactive sessions where attendees can learn by 
 #### September 23, 2024: Devsprints
 During the Devsprints, people contribute to open-source projects, guided by mentors. This is a nice way to get started with contributing to Python and other open-source projects.
 
-<h3 id="general">General FAQ</h3>
+
+### General FAQ
 
 #### Where can I find updates related to PyCon India 2024?
 All announcements related to the conference are posted to the [PyCon India Announce mailing list](https://mail.python.org/mailman3/lists/inpycon-announce.python.org/). If you would like to volunteer, and contribute to the organization of PyCon India, join the [InPyCon mailing list](https://mail.python.org/mailman/listinfo/inpycon). We also have a presence on social media. All our announcements are posted on our [X](https://x.com/pyconindia), [LinkedIn](https://linkedin.com/company/pyconindia), and [Facebook](https://www.facebook.com/PyConIndia/) pages.
@@ -39,7 +40,7 @@ You can fill out the [volunteer form](https://docs.google.com/forms/d/e/1FAIpQLS
 #### Will the Internet and WiFi setup be good enough for a large crowd? Should I get a data card?
 We try really hard to arrange good Internet at the venue. Most of the time it is adequate. However, the unpredictable amount of usage during the event sometimes causes problems. So it is fine if you don’t carry a data card, but there is no harm in being prepared for the worst.
 
-<h3 id="ticketing">Ticketing FAQ</h3>
+### Ticketing FAQ
 
 #### Ticketing
 Tickets for PyCon India 2024 are available on Konfhub, our Ticketing and Finance Partner. Get your tickets here.
@@ -100,7 +101,7 @@ Yes, there will be a limited number of spot registrations on a first-come-first 
 #### Can I switch between workshops during the session?
 No. Each track is planned at its full capacity.
 
-<h3 id="contact-us">Contact Us</h3>
+### Contact Us
 
 - For general queries: [contact@in.pycon.org](mailto:contact@in.pycon.org)
 - For ticket queries: [tickets@in.pycon.org](mailto:tickets@in.pycon.org)
