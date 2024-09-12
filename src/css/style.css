@@ -1293,3 +1293,89 @@ path {
 .img-fluid:hover {
   transform: scale(1.25);
 }
+
+/* Team */
+
+.team-card {
+  position: relative;
+  width: 256px;
+  height: 256px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.team-card:before {
+  content: "";
+  position: absolute;
+  left: 180%;
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.2);
+  transform: skewX(45deg);
+  transition: 0.8s;
+}
+.team-card:hover:before {
+  left: -180%;
+  transition-delay: 0.8s;
+}
+.team-card img {
+  width: 256px;
+  height: auto;
+  filter: grayscale(100%);
+  transition: 1s;
+  object-fit: cover;
+}
+.team-card:hover img {
+  filter: grayscale(0);
+  transform: scale(1.2);
+}
+.team-card h2 {
+  position: absolute;
+  background: #fff9;
+  width: 100%;
+  margin: 0 0 0 -12px;
+  text-align: center;
+  color: #272727;
+  bottom: 0;
+  line-height: 40px;
+  transition: 0.5s;
+  transform: perspective(300px) rotateX(90deg);
+  transform-origin: bottom;
+}
+.team-card:hover h2 {
+  transform: perspective(300px) rotateX(0deg);
+}
+ul {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+ul li {
+  background: #fff9;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+  transform: perspective(1000px) rotateY(90deg);
+  transition: 0.5s;
+  transform-origin: left;
+}
+.team-card ul li .fa {
+  color: #272727;
+}
+.team-card:hover ul li {
+  transform: rotateX(0deg);
+}
+.team-card ul li:nth-child(1) {
+  transition-delay: 0.2s;
+}
+.team-card ul li:nth-child(2) {
+  transition-delay: 0.4s;
+}
+.team-card ul li:nth-child(3) {
+  transition-delay: 0.6s;
+}
