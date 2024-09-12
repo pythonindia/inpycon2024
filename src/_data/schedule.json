@@ -4,54 +4,74 @@
     "title": "September 20 | Friday",
     "description": "Workshop",
     "type": "workshop",
-      "schedule": [
-        {
-          "start_time": "08:30",
-          "end_time": "10:00",
-          "track_1": "Breakfast",
-          "track_2": "",
-          "track_3": ""
-        },
-        {
-          "start_time": "10:00",
-          "end_time": "13:00",
-          "track_1": {
-            "session": "Chat with Tables: Developing Q&A system on Tabular data using Code Generative LLMs (AI and Machine Learning)",
-            "speaker": "Abhijeet Kumar"
-          },
-          "track_2": {
-            "session": "Creating Low Cost Sensor dataloggers with Python and Microcontrollers (Hardware)",
-            "speaker": "Jithin"
-          },
-          "track_3": {
-            "session": "Python-Powered Algorithmic Trading: From Theory to Practice (Other)",
-            "speaker": "Mohit Khandelwal"
+    "schedule": [
+      {
+        "start_time": "08:30",
+        "end_time": "10:00",
+        "tracks": [
+          {
+            "title": "Breakfast"
           }
-        },
-        {
-          "start_time": "13:00",
-          "end_time": "14:00",
-          "track_1": "Lunch",
-          "track_2": "",
-          "track_3": ""
-        },
-        {
-          "start_time": "14:00",
-          "end_time": "17:00",
-          "track_1": {
-            "session": "Introduction to data-driven AI applications and multi-modal search (AI and Machine Learning)",
-            "speaker": "Ramya Oruganti"
+        ]
+      },
+      {
+        "start_time": "10:00",
+        "end_time": "13:00",
+        "tracks": [
+          {
+            "title": {
+              "session": "Chat with Tables: Developing Q&A system on Tabular data using Code Generative LLMs (AI and Machine Learning)",
+              "speaker": "Abhijeet Kumar"
+            }
           },
-          "track_2": {
-            "session": "Hands-on exercises to experience how compiler technology can be useful to speedup data processing in python (Platform Engg.)",
-            "speaker": "Sourav Saha"
+          {
+            "title": {
+              "session": "Creating Low Cost Sensor dataloggers with Python and Microcontrollers (Hardware)",
+              "speaker": "Jithin"
+            }
           },
-          "track_3": {
-            "session": "From Zero to Backend Hero: Creating Full-Featured Apps with FastAPI (Web Applications)",
-            "speaker": "Vivek Keshore"
+          {
+            "title": {
+              "session": "Python-Powered Algorithmic Trading: From Theory to Practice (Other)",
+              "speaker": "Mohit Khandelwal"
+            }
           }
-        }
-      ]    
+        ]
+      },
+      {
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "tracks": [
+          {
+            "title": "Lunch"
+          }
+        ]
+      },
+      {
+        "start_time": "14:00",
+        "end_time": "17:00",
+        "tracks": [
+          {
+            "title": {
+              "session": "Introduction to data-driven AI applications and multi-modal search (AI and Machine Learning)",
+              "speaker": "Ramya Oruganti"
+            }
+          },
+          {
+            "title": {
+              "session": "Hands-on exercises to experience how compiler technology can be useful to speedup data processing in python (Platform Engg.)",
+              "speaker": "Sourav Saha"
+            }
+          },
+          {
+            "title": {
+              "session": "From Zero to Backend Hero: Creating Full-Featured Apps with FastAPI (Web Applications)",
+              "speaker": "Vivek Keshore"
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "sep21",
@@ -62,152 +82,251 @@
       {
         "start_time": "07:30",
         "end_time": "09:00",
-        "track_1": "Registrations / Breakfast",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Registrations / Breakfast"
+          }
+        ]
       },
       {
         "start_time": "09:00",
         "end_time": "09:15",
-        "track_1": "Opening Address",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Opening Address"
+          }
+        ]
       },
       {
         "start_time": "09:30",
         "end_time": "10:30",
-        "track_1": "Keynote: Kovid Goyal",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Keynote: Kovid Goyal"
+          }
+        ]
       },
       {
         "start_time": "10:30",
         "end_time": "11:00",
-        "track_1": "Tea Break",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Tea Break"
+          }
+        ]
       },
       {
         "start_time": "11:00",
         "end_time": "11:30",
-        "track_1": "Unveiling the Private: Federated Learning and Model Compression for Secure AI at the Edge",
-        "track_2": "Live Coding: Building a Unit Testing Library like Pytest",
-        "track_3": "How I learnt the Art of Balancing - Integrating Hobbies for work-life Harmony!",
         "os": "",
         "bof1": "",
-        "hallway1": "Poster Presentation"
+        "hallway1": "Poster Presentation",
+        "tracks": [
+          {
+            "title": "Unveiling the Private: Federated Learning and Model Compression for Secure AI at the Edge",
+            "link": "https://in.pycon.org//cfp/2024/proposals/unveiling-the-private-federated-learning-and-model-compression-for-secure-ai-at-the-edge~bYEVp/"
+          },
+          {
+            "title": "Live Coding: Building a Unit Testing Library like Pytest",
+            "link": "https://in.pycon.org//cfp/2024/proposals/live-coding-building-a-unit-testing-library-like-pytest~en5Gl/"
+          },
+          {
+            "title": "How I learnt the Art of Balancing - Integrating Hobbies for work-life Harmony!",
+            "link": "https://in.pycon.org//cfp/2024/proposals/how-i-learnt-the-art-of-balancing-integrating-hobbies-for-work-life-harmony~bW6QJ/"
+          }
+        ]
+      },
+      {
+        "start_time": "11:00",
+        "end_time": "11:30",
+        "tracks": [
+          {
+            "title": "Poster Presentation"
+          }
+        ]
       },
       {
         "start_time": "11:40",
         "end_time": "12:10",
-        "track_1": "TUIs Simplified: The Transformation of TUIs into User-Friendly Tools",
-        "track_2": "Concurrency and parallel execution in Python and how the GIL affects it",
-        "track_3": "Leveraging Python and Quantum Principles for Enhanced Network Operations and Design",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "TUIs Simplified: The Transformation of TUIs into User-Friendly Tools",
+            "link": "https://in.pycon.org//cfp/2024/proposals/tuis-simplified-the-transformation-of-tuis-into-user-friendly-tools~dwp2m/"
+          },
+          {
+            "title": "Concurrency and parallel execution in Python and how the GIL affects it",
+            "link": "https://in.pycon.org//cfp/2024/proposals/concurrency-and-parallel-execution-in-python-and-how-the-gil-affects-it~bkR6X/"
+          },
+          {
+            "title": "Leveraging Python and Quantum Principles for Enhanced Network Operations and Design",
+            "link": "https://in.pycon.org//cfp/2024/proposals/leveraging-python-and-quantum-principles-for-enhanced-network-operations-and-design~aM8E3/"
+          }
+        ]
       },
       {
         "start_time": "12:20",
         "end_time": "12:50",
-        "track_1": "Practical Guide to Celery in Production",
-        "track_2": "Enhancing Knee X-ray Diagnostics with AI",
-        "track_3": "(Re)Learning Python with 10,000 Novices",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Practical Guide to Celery in Production",
+            "link": "https://in.pycon.org//cfp/2024/proposals/practical-guide-to-celery-in-production~aADMO/"
+          },
+          {
+            "title": "Enhancing Knee X-ray Diagnostics with AI",
+            "link": "https://in.pycon.org//cfp/2024/proposals/enhancing-knee-x-ray-diagnostics-with-ai~bkROx/"
+          },
+          {
+            "title": "(Re)Learning Python with 10,000 Novices",
+            "link": "https://in.pycon.org//cfp/2024/proposals/relearning-python-with-10000-novices~dG6zQ/"
+          }
+        ]
       },
       {
         "start_time": "12:50",
         "end_time": "14:00",
-        "track_1": "Lunch",
-        "track_2": "",
-        "track_3": "",
         "os": "PyLadies Lunch",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Lunch"
+          }
+        ]
       },
       {
         "start_time": "14:00",
         "end_time": "14:40",
-        "track_1": "Lightning Talks",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Lightning Talks"
+          }
+        ]
       },
       {
         "start_time": "14:45",
         "end_time": "15:15",
-        "track_1": "Finding actor look-alikes with multi-modal LLMs",
-        "track_2": "TBD",
-        "track_3": "Build Your Own Live Streaming Device Behind Your Home Router",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Finding actor look-alikes with multi-modal LLMs",
+            "link": "https://in.pycon.org//cfp/2024/proposals/finding-actor-look-alikes-with-multi-modal-llms~azpn8/"
+          },
+          {
+            "title": "TBD"
+          },
+          {
+            "title": "Build Your Own Live Streaming Device Behind Your Home Router",
+            "link": "https://in.pycon.org//cfp/2024/proposals/build-your-own-live-streaming-device-behind-your-home-router~bYEl0/"
+          }
+        ]
       },
       {
         "start_time": "15:25",
         "end_time": "15:55",
-        "track_1": "Panel Discussion",
-        "track_2": "Managing custom, reproducible Python virtual environments for PySpark and Jupyter Notebooks @ Uber",
-        "track_3": "Python in the browser: my journey towards enhancing the Scientific Python ecosystem's interoperability with Pyodide",
         "os": "Everything Django",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Panel Discussion"
+          },
+          {
+            "title": "Managing custom, reproducible Python virtual environments for PySpark and Jupyter Notebooks @ Uber",
+            "link": "https://in.pycon.org//cfp/2024/proposals/managing-custom-reproducible-python-virtual-environments-for-pyspark-and-jupyter-notebooks-uber~dwpkR/"
+          },
+          {
+            "title": "Python in the browser: my journey towards enhancing the Scientific Python ecosystem's interoperability with Pyodide",
+            "link": "https://in.pycon.org//cfp/2024/proposals/python-in-the-browser-my-journey-towards-enhancing-the-scientific-python-ecosystems-interoperability-with-pyodide~bo26z/"
+          }
+        ]
+      },
+      {
+        "start_time": "15:25",
+        "end_time": "15:55",
+        "tracks": [
+          {
+            "title": "Open Space - Everything Django"
+          }
+        ]
       },
       {
         "start_time": "15:55",
         "end_time": "16:20",
-        "track_1": "High Tea",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "High Tea"
+          }
+        ]
       },
       {
         "start_time": "16:20",
         "end_time": "16:50",
-        "track_1": "Supercharge your Python code with the match statement",
-        "track_2": "TBD",
-        "track_3": "Finetuning with LLMs - The Idea Behind Parameter Efficient Fine-Tuning and Analyzing LoRA through its Implementation on an MLP",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Supercharge your Python code with the match statement",
+            "link": "https://in.pycon.org//cfp/2024/proposals/supercharge-your-python-code-with-the-match-statement~egJ6l/"
+          },
+          {
+            "title": "TBD"
+          },
+          {
+            "title": "Finetuning with LLMs - The Idea Behind Parameter Efficient Fine-Tuning and Analyzing LoRA through its Implementation on an MLP",
+            "link": "https://in.pycon.org//cfp/2024/proposals/finetuning-with-llms-the-idea-behind-parameter-efficient-fine-tuning-and-analyzing-lora-through-its-implementation-on-an-mlp~av2mV/"
+          }
+        ]
       },
       {
         "start_time": "17:00",
         "end_time": "18:00",
-        "track_1": "Keynote: Usha Rengaraju",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Keynote: Usha Rengaraju"
+          }
+        ]
       },
       {
         "start_time": "18:00",
         "end_time": "18:15",
-        "track_1": "Closing Address",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Closing Address"
+          }
+        ]
       }
     ]
   },
@@ -220,153 +339,242 @@
       {
         "start_time": "08:00",
         "end_time": "09:00",
-        "track_1": "Registrations / Breakfast",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Registrations / Breakfast"
+          }
+        ]
       },
       {
         "start_time": "09:00",
         "end_time": "09:15",
-        "track_1": "Opening Address",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Opening Address"
+          }
+        ]
       },
       {
         "start_time": "09:30",
         "end_time": "10:30",
-        "track_1": "Keynote: TBD",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Keynote: TBD"
+          }
+        ]
       },
       {
         "start_time": "10:30",
         "end_time": "11:00",
-        "track_1": "Tea Break",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Tea Break"
+          }
+        ]
       },
       {
         "start_time": "11:00",
         "end_time": "11:30",
-        "track_1": "Faster Applications: Harnessing Python with C/Zig libraries and my story of building fastest LLM tokenizer",
-        "track_2": "Revolutionizing LLM Serving: PagedAttention and vLLM for Unmatched Throughput, Efficiency and Seamless integration with popular Hugging Face models",
-        "track_3": "Deep Dive into Contextual Logging for Modern Python Applications",
         "os": "",
         "bof1": "",
-        "hallway1": "Poster Presentation"
+        "hallway1": "Poster Presentation",
+        "tracks": [
+          {
+            "title": "Faster Applications: Harnessing Python with C/Zig libraries and my story of building fastest LLM tokenizer",
+            "link": "https://in.pycon.org//cfp/2024/proposals/faster-applications-harnessing-python-with-czig-libraries-and-my-story-of-building-fastest-llm-tokenizer~epY96/"
+          },
+          {
+            "title": "Revolutionizing LLM Serving: PagedAttention and vLLM for Unmatched Throughput, Efficiency and Seamless integration with popular Hugging Face models",
+            "link": "https://in.pycon.org//cfp/2024/proposals/revolutionizing-llm-serving-pagedattention-and-vllm-for-unmatched-throughput-efficiency-and-seamless-integration-with-popular-hugging-face-models~axkVr/"
+          },
+          {
+            "title": "Deep Dive into Contextual Logging for Modern Python Applications",
+            "link": "https://in.pycon.org//cfp/2024/proposals/deep-dive-into-contextual-logging-for-modern-python-applications~e1wEo/"
+          }
+        ]
+      },
+      {
+        "start_time": "11:00",
+        "end_time": "11:30",
+        "tracks": [
+          {
+            "title": "Poster Presentation"
+          }
+        ]
       },
       {
         "start_time": "11:40",
         "end_time": "12:10",
-        "track_1": "QuickGrpc - grpc 101 tailored towards rest devs and showcase of quickgrpc framework",
-        "track_2": "Python and the Sun: Transforming Space Science with Open-Source",
-        "track_3": "Unleashing the Power of Python: Exploring Python's New JIT Compiler",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "QuickGrpc - grpc 101 tailored towards rest devs and showcase of quickgrpc framework",
+            "link": "https://in.pycon.org//cfp/2024/proposals/quickgrpc-grpc-101-tailored-towards-rest-devs-and-showcase-of-quickgrpc-framework~dR6Pq/"
+          },
+          {
+            "title": "Python and the Sun: Transforming Space Science with Open-Source",
+            "link": "https://in.pycon.org//cfp/2024/proposals/python-and-the-sun-transforming-space-science-with-open-source~e9rG4/"
+          },
+          {
+            "title": "Unleashing the Power of Python: Exploring Python's New JIT Compiler",
+            "link": "https://in.pycon.org//cfp/2024/proposals/unleashing-the-power-of-python-exploring-pythons-new-jit-compiler~egJ8l/"
+          }
+        ]
       },
       {
         "start_time": "12:20",
         "end_time": "12:50",
-        "track_1": "Beyond the Bot: Overcoming Pitfalls in Building Customer-Facing Chatbots",
-        "track_2": "TBD",
-        "track_3": "Python Packaging Demystified",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Beyond the Bot: Overcoming Pitfalls in Building Customer-Facing Chatbots",
+            "link": "https://in.pycon.org/cfp/2024/proposals/beyond-the-bot-overcoming-pitfalls-in-building-customer-facing-chatbots~e1wQ3/"
+          },
+          {
+            "title": "TBD"
+          },
+          {
+            "title": "Python Packaging Demystified",
+            "link": "https://in.pycon.org//cfp/2024/proposals/python-packaging-demystified~axk7J/"
+          }
+        ]
       },
       {
         "start_time": "12:50",
         "end_time": "14:00",
-        "track_1": "Lunch",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Lunch"
+          }
+        ]
       },
       {
         "start_time": "14:00",
         "end_time": "14:40",
-        "track_1": "Lightning Talks",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Lightning Talks"
+          }
+        ]
       },
       {
         "start_time": "14:45",
         "end_time": "15:15",
-        "track_1": "Panel Discussion",
-        "track_2": "Transforming Automotive Electronics Testing with Python and Robot Framework",
-        "track_3": "Data platform for Social Impact",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Panel Discussion"
+          },
+          {
+            "title": "Transforming Automotive Electronics Testing with Python and Robot Framework",
+            "link": "https://in.pycon.org//cfp/2024/proposals/transforming-automotive-electronics-testing-with-python-and-robot-framework~e73YG/"
+          },
+          {
+            "title": "Data platform for Social Impact",
+            "link": ""
+          }
+        ]
       },
       {
         "start_time": "15:25",
         "end_time": "15:55",
-        "track_1": "Panel Discussion",
-        "track_2": "Why Knowing Cython Helps in Understanding Python: A Deep Dive into Cython & PVM",
-        "track_3": "Beyond Single Models: The Secret Sauce of Predictive Success",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Panel Discussion"
+          },
+          {
+            "title": "Why Knowing Cython Helps in Understanding Python: A Deep Dive into Cython & PVM"
+          },
+          {
+            "title": "Beyond Single Models: The Secret Sauce of Predictive Success",
+            "link": "https://in.pycon.org//cfp/2024/proposals/beyond-single-models-the-secret-sauce-of-predictive-success~egJkY/"
+          }
+        ]
       },
       {
         "start_time": "15:55",
         "end_time": "16:20",
-        "track_1": "High Tea",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "High Tea"
+          }
+        ]
       },
       {
         "start_time": "16:20",
         "end_time": "16:50",
-        "track_1": "Asynchronous Programming for Scalable Machine Learning Pipelines in Python",
-        "track_2": "Database Change Management - 1000s of tables across multiple environments and 1 Alembic to rule them all",
-        "track_3": "Enhancements made in SciPy at Quansight Labs",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Asynchronous Programming for Scalable Machine Learning Pipelines in Python",
+            "link": "https://in.pycon.org//cfp/2024/proposals/asynchronous-programming-for-scalable-machine-learning-pipelines-in-python~b82Xo/"
+          },
+          {
+            "title": "Database Change Management - 1000s of tables across multiple environments and 1 Alembic to rule them all",
+            "link": "https://in.pycon.org//cfp/2024/proposals/database-change-management-1000s-of-tables-across-multiple-environments-and-1-alembic-to-rule-them-all~epYZN/"
+          },
+          {
+            "title": "Enhancements made in SciPy at Quansight Labs",
+            "link": "https://in.pycon.org//cfp/2024/proposals/enhancements-made-in-scipy-at-quansight-labs~bo27z/"
+          }
+        ]
       },
       {
         "start_time": "17:00",
         "end_time": "18:00",
-        "track_1": "Keynote: James Powell",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Keynote: James Powell"
+          }
+        ]
       },
       {
         "start_time": "18:00",
         "end_time": "18:15",
-        "track_1": "Closing Address",
-        "track_2": "",
-        "track_3": "",
         "os": "",
         "bof1": "",
-        "hallway1": ""
+        "hallway1": "",
+        "tracks": [
+          {
+            "title": "Closing Address"
+          }
+        ]
       }
     ]
-  }  
+  }
 ]
