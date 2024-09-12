@@ -26,6 +26,12 @@ npm install @11ty/eleventy
 npx @11ty/eleventy --serve --port=8080
 ```
 
+## Production Deployment
+
+```sh
+sudo npm run build-prod
+```
+
 **Venue**
 [NIMHANS Convention Centre, Bengaluru](https://maps.app.goo.gl/RPE8hmDoyFh7pmyY7)
 
