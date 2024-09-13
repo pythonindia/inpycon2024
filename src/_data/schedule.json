@@ -168,8 +168,7 @@
             "link": "https://in.pycon.org//cfp/2024/proposals/tuis-simplified-the-transformation-of-tuis-into-user-friendly-tools~dwp2m/"
           },
           {
-            "title": "Concurrency and parallel execution in Python and how the GIL affects it",
-            "link": "https://in.pycon.org//cfp/2024/proposals/concurrency-and-parallel-execution-in-python-and-how-the-gil-affects-it~bkR6X/"
+            "title": "AI deployments - No Regressions. No Regrets."
           },
           {
             "title": "Leveraging Python and Quantum Principles for Enhanced Network Operations and Design",
@@ -234,7 +233,8 @@
             "link": "https://in.pycon.org//cfp/2024/proposals/finding-actor-look-alikes-with-multi-modal-llms~azpn8/"
           },
           {
-            "title": "AI deployments - No Regressions. No Regrets."
+            "title": "Concurrency and parallel execution in Python and how the GIL affects it",
+            "link": "https://in.pycon.org//cfp/2024/proposals/concurrency-and-parallel-execution-in-python-and-how-the-gil-affects-it~bkR6X/"
           },
           {
             "title": "Build Your Own Live Streaming Device Behind Your Home Router",
@@ -295,7 +295,7 @@
             "title": "How HappyFox uses Python and LLMs to develop enterprise software at scale"
           },
           {
-            "title": "Finetuning with LLMs - The Idea Behind Parameter Efficient Fine-Tuning and Analyzing LoRA through its Implementation on an MLP",
+            "title": "Big Models, Small Tweaks: Exploring the LoRA way of Fine-Tuning",
             "link": "https://in.pycon.org//cfp/2024/proposals/finetuning-with-llms-the-idea-behind-parameter-efficient-fine-tuning-and-analyzing-lora-through-its-implementation-on-an-mlp~av2mV/"
           }
         ]
@@ -503,7 +503,7 @@
         "hallway1": "",
         "tracks": [
           {
-            "title": "Community Panel"
+            "title": "Panel Discussion on Python Local User Groups in India: Keeping the Lights On"
           },
           {
             "title": "Why Knowing Cython Helps in Understanding Python: A Deep Dive into Cython & PVM"

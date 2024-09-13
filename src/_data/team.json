@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Kumar Aniruhda",
+    "image": "https://anirudha.dev/images/half-clear.png",
+    "intro": "Chair",
+    "x": "https://x.com/kranirudha",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/kranirudha/",
+    "mastodon": "https://fosstodon.org/@ani",
+    "instagram": "https://www.instagram.com/anistark"
+  },
+  {
+    "name": "Nabarun Pal",
+    "image": "https://nabarun.dev/images/logo.png",
+    "intro": "Co-Chair",
+    "x": "https://x.com/theonlynabarun",
+    "website": "https://nabarun.dev",
+    "linkedin": "https://linkedin.com/in/palnabarun",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Koti Vellanki",
+    "image": "https://avatars.githubusercontent.com/u/38071840?v=4",
+    "intro": "Co-Chair",
+    "x": "https://x.com/ikotivellanki",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/vellankikoti/",
+    "mastodon": "https://mastodon.social/@Koti",
+    "instagram": "https://www.instagram.com/vellankikoti/"
+  },
+  {
+    "name": "Dr. Muralidharan Murugesan",
+    "image": "/image/ZadraSol.webp",
+    "intro": "CFP WG Co-Lead",
+    "x": "",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/muralidharan-m-07170411/",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Praveen Patil",
+    "image": "/image/ZadraSol.webp",
+    "intro": "CFP WG Co-Lead",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Akashnil Roy",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Communication WG Lead",
+    "x": "https://x.com/akashnil64",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/akashnil-roy-97746211a/",
+    "mastodon": "",
+    "instagram": "https://www.instagram.com/royakashnil"
+  },
+  {
+    "name": "Bhavin Gandhi",
+    "image": "https://media.licdn.com/dms/image/v2/D4E03AQEckXyM4QF9fA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1674227513963?e=1731542400&v=beta&t=Q57vmQohe_9qxqm5xo8SrunZntONNU_UwmoNrTlwvPM",
+    "intro": "Mentorship & Review WG Lead",
+    "x": "https://x.com/_bhavin192",
+    "website": "https://geeksocket.in",
+    "linkedin": "https://www.linkedin.com/in/bhavin192 ",
+    "mastodon": "https://toots.dgplug.org/@bhavin192/",
+    "instagram": ""
+  },
+  {
+    "name": "Bharat Saraswat",
+    "image": "https://avatars.githubusercontent.com/u/9723884?v=4",
+    "intro": "Technology WG Lead",
+    "x": "https://twitter.com/bsaraswat45",
+    "website": "https://bharatsaraswat.com",
+    "linkedin": "https://www.linkedin.com/in/bharatsaraswat/",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Abhishek Mishra",
+    "image": "https://raw.githubusercontent.com/abhishekmishragithub/Jekyll-site/master/assets/img/abhishek_mishra_001_adv-fotor.png",
+    "intro": "Sponsorship WG Lead",
+    "x": "https://x.com/stalwartcoder",
+    "website": "https://abhishekmishra.dev/about",
+    "linkedin": "https://linkedin.com/in/stalwartcoder",
+    "mastodon": "",
+    "instagram": "https://instagram.com/stalwartcoder"
+  },
+  {
+    "name": "Ananyo Maiti",
+    "image": "https://avatars.githubusercontent.com/u/10486343?v=4",
+    "intro": "Platform WG Lead",
+    "x": "https://x.com/MaitiAnanyo",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/maitiananyo/",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Bibhas Debnath",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Logistics WG Lead",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Aravind Sekar",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Design WG Lead",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Pratik Anurag",
+    "image": "https://avatars.githubusercontent.com/u/57359354?v=4",
+    "x": "https://x.com/pratikanurag067/",
+    "intro": "Volunteer Management WG Lead",
+    "website": "",
+    "linkedin": "https://in.linkedin.com/in/pratik-anurag",
+    "mastodon": "",
+    "instagram": "https://www.instagram.com/garunakitarp/"
+  },
+  {
+    "name": "Nikhil Maan",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Content WG Lead",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Rayan Das",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Finance WG Lead",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Kalyan",
+    "image": "https://i.imgur.com/i9PEzp6.jpeg",
+    "intro": "Review Team",
+    "x": "https://x.com/itskpflow",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/kalyan-prasad-3a647b22/",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Sayan Chowdhury",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Vamsi",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Technology Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Ritesh",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Sponsorship Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Suman Ghosh",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Sponsorship Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Arka Saha",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Platform Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Shailaja",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Diversity Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Bowrna",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Diversity Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Arjun",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Design Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Haris",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Content Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Saptak",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Pranav Puri",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Logistics Team",
+    "x": "twitter.com/kybrdbnd",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/kybrdbnd/",
+    "mastodon": "",
+    "instagram": "instagram.com/kybrdbnd"
+  },
+  {
+    "name": "Farhaan",
+    "image": "/image/ZadraSol.webp",
+    "intro": "DevSprint Lead",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Arockiaraj Rayappan",
+    "image": "/image/ZadraSol.webp",
+    "intro": "CFP Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Benison Abraham",
+    "image": "/image/ZadraSol.webp",
+    "intro": "CFP Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Mayur Patil",
+    "image": "/image/ZadraSol.webp",
+    "intro": "CFP Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Pavan",
+    "image": "/image/ZadraSol.webp",
+    "intro": "CFP Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Lavanya Jain",
+    "image": "/image/ZadraSol.webp",
+    "intro": "CFP Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Akshay",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Mentorship Shadow Lead",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Mayank Khanduja",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Mentorship Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Riya",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Communication Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Akshit",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Communication Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Ashok",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Communication Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Chandan",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Code of Conduct Committee",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Samarpita",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Logistics Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Shilpi",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Code of Conduct Committee",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Shabnam",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Design Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Ashish Kumar Mishra",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Volunteer Management Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Anshuman",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Surbhi Kathuria",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Felix Stephen Anthuvan",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Tushar Sadhwani",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Paritosh Mishra",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Mahendra Yadav",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Alagu Prakalya",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Cvam",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Nilesh Kumar Patel",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  }
+]
