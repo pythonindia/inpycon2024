@@ -295,7 +295,7 @@
             "title": "How HappyFox uses Python and LLMs to develop enterprise software at scale"
           },
           {
-            "title": "Finetuning with LLMs - The Idea Behind Parameter Efficient Fine-Tuning and Analyzing LoRA through its Implementation on an MLP",
+            "title": "Big Models, Small Tweaks: Exploring the LoRA way of Fine-Tuning",
             "link": "https://in.pycon.org//cfp/2024/proposals/finetuning-with-llms-the-idea-behind-parameter-efficient-fine-tuning-and-analyzing-lora-through-its-implementation-on-an-mlp~av2mV/"
           }
         ]
