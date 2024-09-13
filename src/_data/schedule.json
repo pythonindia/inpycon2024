@@ -168,8 +168,7 @@
             "link": "https://in.pycon.org//cfp/2024/proposals/tuis-simplified-the-transformation-of-tuis-into-user-friendly-tools~dwp2m/"
           },
           {
-            "title": "Concurrency and parallel execution in Python and how the GIL affects it",
-            "link": "https://in.pycon.org//cfp/2024/proposals/concurrency-and-parallel-execution-in-python-and-how-the-gil-affects-it~bkR6X/"
+            "title": "AI deployments - No Regressions. No Regrets."
           },
           {
             "title": "Leveraging Python and Quantum Principles for Enhanced Network Operations and Design",
@@ -234,7 +233,8 @@
             "link": "https://in.pycon.org//cfp/2024/proposals/finding-actor-look-alikes-with-multi-modal-llms~azpn8/"
           },
           {
-            "title": "AI deployments - No Regressions. No Regrets."
+            "title": "Concurrency and parallel execution in Python and how the GIL affects it",
+            "link": "https://in.pycon.org//cfp/2024/proposals/concurrency-and-parallel-execution-in-python-and-how-the-gil-affects-it~bkR6X/"
           },
           {
             "title": "Build Your Own Live Streaming Device Behind Your Home Router",
