@@ -1,7 +1,7 @@
 [
   {
     "id": "sep20",
-    "title": "September 20 | Friday",
+    "title": "September 20th | Friday",
     "description": "Workshop",
     "type": "workshop",
     "schedule": [
@@ -20,25 +20,19 @@
         "end_time": "13:00",
         "tracks": [
           {
-            "title": {
-              "session": "Chat with Tables: Developing Q&A system on Tabular data using Code Generative LLMs (AI and Machine Learning)",
               "link": "https://in.pycon.org/cfp/2024/proposals/chat-with-tables-developing-qa-system-on-tabular-data-using-code-generative-llms~e31wM/",
-              "speaker": "Abhijeet Kumar"
-            }
+            "speaker": "Abhijeet Kumar",
+            "title": "Chat with Tables: Developing Q&A system on Tabular data using Code Generative LLMs (AI and Machine Learning)"
           },
           {
-            "title": {
-              "session": "Creating Low Cost Sensor dataloggers with Python and Microcontrollers (Hardware)",
               "link": "https://in.pycon.org/cfp/2024/proposals/creating-low-cost-sensor-dataloggers-with-python-and-microcontrollers~e1wYj/",
-              "speaker": "Jithin"
-            }
+            "speaker": "Jithin",
+            "title": "Creating Low Cost Sensor dataloggers with Python and Microcontrollers (Hardware)"
           },
           {
-            "title": {
-              "session": "Python-Powered Algorithmic Trading: From Theory to Practice (Other)",
               "link": "https://in.pycon.org/cfp/2024/proposals/python-powered-algorithmic-trading-from-theory-to-practice~dNk5L/",
-              "speaker": "Mohit Khandelwal"
-            }
+            "speaker": "Mohit Khandelwal",
+            "title": "Python-Powered Algorithmic Trading: From Theory to Practice (Other)"
           }
         ]
       },
@@ -57,25 +51,19 @@
         "end_time": "17:00",
         "tracks": [
           {
-            "title": {
-              "session": "Introduction to data-driven AI applications and multi-modal search (AI and Machine Learning)",
               "link": "https://in.pycon.org/cfp/2024/proposals/introduction-to-data-driven-ai-applications-and-multi-modal-search~axk8n/",
-              "speaker": "Ramya Oruganti"
-            }
+            "speaker": "Ramya Oruganti",
+            "title": "Introduction to data-driven AI applications and multi-modal search (AI and Machine Learning)"
           },
           {
-            "title": {
-              "session": "Hands-on exercises to experience how compiler technology can be useful to speedup data processing in python (Platform Engg.)",
               "link": "https://in.pycon.org/cfp/2024/proposals/hands-on-exercises-to-experience-how-compiler-technology-can-be-useful-to-speedup-data-processing-in-python~aOYLG/",
-              "speaker": "Sourav Saha"
-            }
+            "speaker": "Sourav Saha",
+            "title": "Hands-on exercises to experience how compiler technology can be useful to speedup data processing in python (Platform Engg.)"
           },
           {
-            "title": {
-              "session": "From Zero to Backend Hero: Creating Full-Featured Apps with FastAPI (Web Applications)",
               "link": "https://in.pycon.org/cfp/2024/proposals/from-zero-to-backend-hero-creating-full-featured-apps-with-fastapi~aADQz/",
-              "speaker": "Vivek Keshore"
-            }
+            "speaker": "Vivek Keshore",
+            "title": "From Zero to Backend Hero: Creating Full-Featured Apps with FastAPI (Web Applications)"
           }
         ]
       }
@@ -83,7 +71,7 @@
   },
   {
     "id": "sep21",
-    "title": "September 21ST | Saturday",
+    "title": "September 21st | Saturday",
     "description": "CONFERENCE DAY 1",
     "type": "conference",
     "schedule": [
@@ -328,7 +316,7 @@
   },
   {
     "id": "sep22",
-    "title": "September 22ND | Sunday",
+    "title": "September 22nd | Sunday",
     "description": "CONFERENCE DAY 2",
     "type": "conference",
     "schedule": [
