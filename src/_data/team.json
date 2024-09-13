@@ -1,12 +1,146 @@
 [
   {
-    "name": "Nabarun Pal",
-    "x": "https://x.com/theonlynabarun/",
-    "image": "team/nabarun.png"
+    "name": "Kumar Aniruhda",
+    "image": "https://anirudha.dev/images/half-clear.png",
+    "x": "https://x.com/kranirudha",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/kranirudha/",
+    "mastodon": "https://fosstodon.org/@ani",
+    "instagram": "https://www.instagram.com/anistark"
   },
   {
-    "name": "Kumar Aniruhda",
-    "x": "https://x.com/kranirudha/",
-    "image": "team/ani.png"
+    "name": "Nabarun Pal",
+    "image": "https://nabarun.dev/images/logo.png",
+    "x": "https://x.com/theonlynabarun",
+    "website": "https://nabarun.dev",
+    "linkedin": "https://linkedin.com/in/palnabarun",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Koti Vellanki",
+    "image": "https://avatars.githubusercontent.com/u/38071840?v=4",
+    "x": "https://x.com/ikotivellanki",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/vellankikoti/",
+    "mastodon": "https://mastodon.social/@Koti",
+    "instagram": "https://www.instagram.com/vellankikoti/"
+  },
+  {
+    "name": "Dr. Muralidharan Murugesan",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "x": "",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/muralidharan-m-07170411/",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Praveen Patil",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Akashnil Roy",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Bhavin Gandhi",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Bharat Saraswat",
+    "image": "https://avatars.githubusercontent.com/u/9723884?v=4",
+    "x": "https://twitter.com/bsaraswat45",
+    "website": "https://bharatsaraswat.com",
+    "linkedin": "https://www.linkedin.com/in/bharatsaraswat/",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Rayan Das",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Abhishek Mishra",
+    "image": "https://raw.githubusercontent.com/abhishekmishragithub/Jekyll-site/master/assets/img/abhishek_mishra_001_adv-fotor.png",
+    "x": "https://x.com/stalwartcoder",
+    "website": "https://abhishekmishra.dev/about",
+    "linkedin": "https://linkedin.com/in/stalwartcoder",
+    "mastodon": "",
+    "instagram": "https://instagram.com/stalwartcoder"
+  },
+  {
+    "name": "Ananyo Maiti",
+    "image": "https://avatars.githubusercontent.com/u/10486343?v=4",
+    "x": "https://x.com/MaitiAnanyo",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/maitiananyo/",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Bibhas Debnath",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Aravind Sekar",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Pratik Anurag",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Kalyan",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Nikhil Maan",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
   }
 ]
