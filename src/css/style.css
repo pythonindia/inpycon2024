@@ -1297,6 +1297,7 @@ path {
 /* Team */
 
 .team .row {
+  margin-top: 20px;
   display: flex;
   flex-wrap: wrap;
   padding: 2em 1em;
@@ -1333,6 +1334,7 @@ path {
 .team .card img {
   width: 100%;
   border-radius: 50%;
+  filter: grayscale(100%);
 }
 .team .card h3 {
   font-weight: 500;
@@ -1356,11 +1358,16 @@ path {
   font-size: 1.4em;
 }
 .team .card:hover {
-  background: linear-gradient(#ee6945, #fc8260);
-  color: #ffffff;
+  /* background: linear-gradient(#ee6945, #fc8260); */
+  color: #3c758c;
+  scale: 1.1;
+  border-color: #ee6945;
+}
+.team .card:hover img {
+  filter: none;
 }
 .team .card:hover .img-container {
-  transform: scale(1.15);
+  transform: scale(1.5);
 }
 @media screen and (min-width: 768px) {
   .team section {

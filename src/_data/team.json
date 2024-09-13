@@ -2,6 +2,7 @@
   {
     "name": "Kumar Aniruhda",
     "image": "https://anirudha.dev/images/half-clear.png",
+    "intro": "Chair",
     "x": "https://x.com/kranirudha",
     "website": "",
     "linkedin": "https://www.linkedin.com/in/kranirudha/",
@@ -11,6 +12,7 @@
   {
     "name": "Nabarun Pal",
     "image": "https://nabarun.dev/images/logo.png",
+    "intro": "Co-Chair",
     "x": "https://x.com/theonlynabarun",
     "website": "https://nabarun.dev",
     "linkedin": "https://linkedin.com/in/palnabarun",
@@ -20,6 +22,7 @@
   {
     "name": "Koti Vellanki",
     "image": "https://avatars.githubusercontent.com/u/38071840?v=4",
+    "intro": "Co-Chair",
     "x": "https://x.com/ikotivellanki",
     "website": "",
     "linkedin": "https://www.linkedin.com/in/vellankikoti/",
@@ -29,6 +32,7 @@
   {
     "name": "Dr. Muralidharan Murugesan",
     "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "CFP WG Co-Lead",
     "x": "",
     "website": "",
     "linkedin": "https://www.linkedin.com/in/muralidharan-m-07170411/",
@@ -38,6 +42,7 @@
   {
     "name": "Praveen Patil",
     "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "CFP WG Co-Lead",
     "x": "",
     "website": "",
     "linkedin": "",
@@ -47,6 +52,7 @@
   {
     "name": "Akashnil Roy",
     "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Communication WG Lead",
     "x": "",
     "website": "",
     "linkedin": "",
@@ -55,7 +61,8 @@
   },
   {
     "name": "Bhavin Gandhi",
-    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "image": "https://media.licdn.com/dms/image/v2/D4E03AQEckXyM4QF9fA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1674227513963?e=1731542400&v=beta&t=Q57vmQohe_9qxqm5xo8SrunZntONNU_UwmoNrTlwvPM",
+    "intro": "Mentorship & Review WG Lead",
     "x": "",
     "website": "",
     "linkedin": "",
@@ -65,6 +72,7 @@
   {
     "name": "Bharat Saraswat",
     "image": "https://avatars.githubusercontent.com/u/9723884?v=4",
+    "intro": "Technology WG Lead",
     "x": "https://twitter.com/bsaraswat45",
     "website": "https://bharatsaraswat.com",
     "linkedin": "https://www.linkedin.com/in/bharatsaraswat/",
@@ -72,17 +80,9 @@
     "instagram": ""
   },
   {
-    "name": "Rayan Das",
-    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
-    "x": "",
-    "website": "",
-    "linkedin": "",
-    "mastodon": "",
-    "instagram": ""
-  },
-  {
     "name": "Abhishek Mishra",
     "image": "https://raw.githubusercontent.com/abhishekmishragithub/Jekyll-site/master/assets/img/abhishek_mishra_001_adv-fotor.png",
+    "intro": "Sponsorship WG Lead",
     "x": "https://x.com/stalwartcoder",
     "website": "https://abhishekmishra.dev/about",
     "linkedin": "https://linkedin.com/in/stalwartcoder",
@@ -92,6 +92,7 @@
   {
     "name": "Ananyo Maiti",
     "image": "https://avatars.githubusercontent.com/u/10486343?v=4",
+    "intro": "Platform WG Lead",
     "x": "https://x.com/MaitiAnanyo",
     "website": "",
     "linkedin": "https://www.linkedin.com/in/maitiananyo/",
@@ -101,6 +102,7 @@
   {
     "name": "Bibhas Debnath",
     "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Logistics WG Lead",
     "x": "",
     "website": "",
     "linkedin": "",
@@ -110,6 +112,7 @@
   {
     "name": "Aravind Sekar",
     "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Design WG Lead",
     "x": "",
     "website": "",
     "linkedin": "",
@@ -118,7 +121,28 @@
   },
   {
     "name": "Pratik Anurag",
+    "image": "https://avatars.githubusercontent.com/u/57359354?v=4",
+    "x": "https://x.com/pratikanurag067/",
+    "intro": "Volunteer Management WG Lead",
+    "website": "",
+    "linkedin": "https://in.linkedin.com/in/pratik-anurag",
+    "mastodon": "",
+    "instagram": "https://www.instagram.com/garunakitarp/"
+  },
+  {
+    "name": "Nikhil Maan",
     "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Content WG Lead",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Rayan Das",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Finance WG Lead",
     "x": "",
     "website": "",
     "linkedin": "",
@@ -128,6 +152,7 @@
   {
     "name": "Kalyan",
     "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Review Team",
     "x": "",
     "website": "",
     "linkedin": "",
@@ -135,8 +160,359 @@
     "instagram": ""
   },
   {
-    "name": "Nikhil Maan",
+    "name": "Sayan Chowdhury",
     "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Vamsi",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Technology Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Ritesh",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Sponsorship Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Suman Ghosh",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Sponsorship Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Arka Saha",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Platform Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Shailaja",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Diversity Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Bowrna",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Diversity Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Arjun",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Design Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Haris",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Content Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Saptak",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Pranav Puri",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Logistics Team",
+    "x": "twitter.com/kybrdbnd",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/kybrdbnd/",
+    "mastodon": "",
+    "instagram": "instagram.com/kybrdbnd"
+  },
+  {
+    "name": "Farhaan",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "DevSprint Lead",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Arockiaraj Rayappan",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "CFP Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Benison Abraham",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "CFP Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Mayur Patil",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "CFP Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Pavan",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "CFP Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Lavanya Jain",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "CFP Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Akshay",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Mentorship Shadow Lead",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Mayank Khanduja",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Mentorship Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Riya",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Communication Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Akshit",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Communication Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Ashok",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Communication Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Chandan",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Code of Conduct Committee",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Samarpita",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Logistics Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Shilpi",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Code of Conduct Committee",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Shabnam",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Design Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Ashish Kumar Mishra",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Volunteer Management Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Anshuman",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Surbhi Kathuria",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Felix Stephen Anthuvan",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Tushar Sadhwani",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Paritosh Mishra",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Mahendra Yadav",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Alagu Prakalya",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Cvam",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Nilesh Kumar Patel",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/624/706/small/3d-rendering-person-icon-3d-render-blue-user-sign-icon-png.png",
+    "intro": "Event Ops",
     "x": "",
     "website": "",
     "linkedin": "",
