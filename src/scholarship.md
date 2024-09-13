@@ -15,4 +15,4 @@ Please fill [this form](https://forms.gle/kHgrdxC8Xpm2MyfJ8) with all relevant d
 The deadline to apply for the scholarship is 10th Sept, 23:59 IST.
 
 ## Notification
-Selected applicants will be informed by 12th Sept.
+Selected applicants will be informed by 13th Sept.

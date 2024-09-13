@@ -1,4 +1,4 @@
-<section class="schedule pb-0 pb-md-5 pt-2" id="schedule">
+<section class="schedule pb-0 pb-md-5 pt-2" id="schedule"></section>
   <div class="container pt-5">
     <div class="row pt-5 pb-5 justify-content-center">
       <div class="col-md-12">
@@ -45,28 +45,33 @@
                         <th scope="col">Track 2</th>
                         <th scope="col">Track 3</th>
                         <th scope="col">Open Space</th>
-                        <th scope="col">Hallway</th>
                       </tr>
                     </thead>
                     <tbody>
                       {% assign eventType = day.type %}
-                      {% for event in day.schedule %}
+                      {% for session in day.schedule %}
                         <tr>
-                          <th scope="row">{{ event.start_time }} - {{ event.end_time }}</th>
-                          {% if event.track_2 == "" and event.track_3 == "" %}
-                            <td colspan="3">{{ event.track_1 }}</td>
+                          <th scope="row">{{ session.start_time }} - {{ session.end_time }}</th>
+                          {% if session.tracks.length == 1 %}
+                            <td colspan="3">{{ session.tracks[0].title }}</td>
                           {% else %}
-                            {% if eventType == "workshop" %}
-                              <td>{{ event.track_1.session }}</td>
-                              <td>{{ event.track_2.session }}</td>
-                              <td>{{ event.track_3.session }}</td>
-                            {% else %}
-                              <td>{{ event.track_1 }}</td>
-                              <td>{{ event.track_2 }}</td>
-                              <td>{{ event.track_3 }}</td>
-                              <td>{{ event.os }}</td>
-                              <td>{{ event.hallway1 }}</td>
-                            {% endif %}
+                            {% for track in session.tracks %}
+                              {% if eventType == "workshop" %}
+                                <td>{{ track.title.session }}</td>
+                                {% else %}
+                                {% if track.link %}
+                                <td>
+                                  <a href={{ track.link }} title="{{track.link}}" target="_blank" rel="noopener noreferrer"> 
+                                    {{ track.title }}
+                                  </a>
+                                  </td>
+                                {% else %}
+                                <td>
+                                    {{ track.title }}
+                                  </td>
+                                {% endif %}
+                              {% endif %}
+                            {% endfor %}
                           {% endif %}
                         </tr>
                       {% endfor %}
