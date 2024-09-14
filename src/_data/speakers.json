@@ -1,0 +1,376 @@
+[
+    {
+      "name": "Preethi Srinivasan",
+      "talkTitle": "Finetuning with LLMs - The Idea Behind Parameter Efficient Fine-Tuning and Analyzing LoRA through its Implementation on an MLP",
+      "talkType": "Talk",
+      "title": "DL Enthusiast | MS (by Research) from IIT Mandi",
+      "socials": [
+        "https://www.linkedin.com/in/preethi-srinivasan-3a221915/"
+      ]
+    },
+    {
+      "name": "Shruti Dhavalikar",
+      "talkTitle": "Finetuning with LLMs - The Idea Behind Parameter Efficient Fine-Tuning and Analyzing LoRA through its Implementation on an MLP",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/shruti-dhavalikar-83514615a/"
+      ]
+    },
+    {
+      "name": "Gagandeep Singh",
+      "talkTitle": "Enhancements made in SciPy at Quansight Labs",
+      "talkType": "Talk",
+      "title": "SWE II at Quansight Labs | GSoC Fellow & Compiler Dev",
+      "socials": [
+        "https://www.linkedin.com/in/czgdp1807/\nhttps://x.com/czgdp1807\nhttps://www.instagram.com/singh.gagandeep.1807/"
+      ]
+    },
+    {
+      "name": "Ishan Koradia",
+      "talkTitle": "Data platform for Social Impact",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/ishan-koradia/"
+      ]
+    },
+    {
+      "name": "Devi A S L",
+      "talkTitle": "Data platform for Social Impact",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/asldevi"
+      ]
+    },
+    {
+      "name": "Agriya Khetarpal",
+      "talkTitle": "Python in the browser: my journey towards enhancing the Scientific Python ecosystem's interoperability with Pyodide",
+      "talkType": "Talk",
+      "title": "Software Engineer at Quansight | Packaging scientific Python libraries",
+      "socials": [
+        "LinkedIn:",
+        "https://linkedin.com/in/agriyakhetarpal\nTwitter:",
+        "https://twitter.com/agriyakhetarpal"
+      ]
+    },
+    {
+      "name": "Anand S",
+      "talkTitle": "Finding actor look-alikes with multi-modal LLMs",
+      "talkType": "Talk",
+      "title": "LLM Psychologist at Straive | Calvin & Hobbes Fan",
+      "socials": [
+        "https://www.linkedin.com/in/sanand0\nhttps://twitter.com/sanand0"
+      ]
+    },
+    {
+      "name": "Gautam Jajoo",
+      "talkTitle": "Unveiling the Private: Federated Learning and Model Compression for Secure AI at the Edge",
+      "talkType": "Talk",
+      "title": "Researching @Microsoft Research | AI & Open Source Enthusiast",
+      "socials": [
+        "https://gautamjajoo.github.io/\nhttps://www.linkedin.com/in/gautamjajoo/\nhttps://x.com/gautam_jajoo"
+      ]
+    },
+    {
+      "name": "Mahesh Mahadevan",
+      "talkTitle": "Practical Guide to Celery in Production",
+      "talkType": "Talk",
+      "title": "DevOps & Engineering Lead at Avoma | Innovating in SaaS & Intelligence",
+      "socials": [
+        "https://www.linkedin.com/in/mahesh-m-8439b13b/"
+      ]
+    },
+    {
+      "name": "Sayan Pal",
+      "talkTitle": "Managing Python Environments for Jupyter Notebooks @ Uber",
+      "talkType": "Talk",
+      "title": "Senior Software Engineer | Backend & Data Platform",
+      "socials": [
+        "https://www.linkedin.com/in/isayanpal\nhttps://x.com/_sayan_pal\nhttps://www.instagram.com/_sayan_pal/"
+      ]
+    },
+    {
+      "name": "Sasidhar Donaparthi",
+      "talkTitle": "Python Packaging Demystified",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "X",
+        "-",
+        "@sdonapar\nLinkedin",
+        "-",
+        "https://www.linkedin.com/in/sasidonaparthi/\ninstagram",
+        "-",
+        "https://www.instagram.com/sdonapar/"
+      ]
+    },
+    {
+      "name": "Mrinal Raj",
+      "talkTitle": "Build Your Own Live Streaming Device Behind Your Home Router",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "LinkedIn:",
+        "https://www.linkedin.com/in/mrinal-raj/\n\nDGplug",
+        "blogs:",
+        "https://blogs.dgplug.org/mrinalraj/\n\nTwitter:",
+        "https://x.com/reach_mrinal"
+      ]
+    },
+    {
+      "name": "Simran Jain",
+      "talkTitle": "Concurrency and parallel execution in Python and how the GIL affects it",
+      "talkType": "Talk",
+      "title": "Software Engineer at Bloomberg | Software Design enthusiast",
+      "socials": [
+        "http://www.linkedin.com/in/simran-jain-5205baa9"
+      ]
+    },
+    {
+      "name": "Animesh Dutta",
+      "talkTitle": "Asynchronous Programming for Scalable Machine Learning Pipelines in Python",
+      "talkType": "Talk",
+      "title": "Senior Software Engineer | ML Frameworks & System Efficiency",
+      "socials": [
+        "https://www.linkedin.com/in/animesh145"
+      ]
+    },
+    {
+      "name": "Kunal Bhattacharya",
+      "talkTitle": "Database Change Management - 1000s of tables across multiple environments and 1 Alembic to rule them all",
+      "talkType": "Talk",
+      "title": "Bringing technology closer to humans, one code block at a time!",
+      "socials": [
+        "https://www.linkedin.com/in/kunaljubce\nhttps://x.com/kunaljubce"
+      ]
+    },
+    {
+      "name": "Nivetha V",
+      "talkTitle": "Leveraging Python and Quantum Principles for Enhanced Network Operations and Design",
+      "talkType": "Talk",
+      "title": "Network Automation Engineer at Adyen | Tech Aficionado",
+      "socials": [
+        "https://www.linkedin.com/in/nivetha-venkatramanan-862b236b\nhttps://www.instagram.com/nivethavenkatramanan/"
+      ]
+    },
+    {
+      "name": "Saikumar Dandla",
+      "talkTitle": "Revolutionizing LLM Serving: PagedAttention and vLLM for Unmatched Throughput, Efficiency and Seamless integration with popular Hugging Face models",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/saidsp19/"
+      ]
+    },
+    {
+      "name": "Siddharta Govindaraj",
+      "talkTitle": "Supercharge your Python code with the match statement",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://in.linkedin.com/in/siddharta\nhttps://mobile.twitter.com/playfulpython"
+      ]
+    },
+    {
+      "name": "Akshit Tyagi",
+      "talkTitle": "Python and the Sun: Transforming Space Science with Open-Source",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/akshit-tyagi-7407b4177/\nhttps://x.com/flynnzler\nhttps://www.instagram.com/akshit_tyagi42/"
+      ]
+    },
+    {
+      "name": "Jaidev Deshpande",
+      "talkTitle": "(Re)Learning Python with 10,000 Novices",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://linkedin.com/in/jaidevd\nhttps://x.com/jaidevd\nhttps://instagram.com/jaidevd"
+      ]
+    },
+    {
+      "name": "Kavya Mohan",
+      "talkTitle": "Enhancing Knee X-ray Diagnostics with AI",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://www.instagram.com/__kavya.m?igsh=OGN5cXh5MXZqd2Jh\nhttps://www.linkedin.com/in/kavya-mohan-22833a1aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      ]
+    },
+    {
+      "name": "Naveen K",
+      "talkTitle": "Enhancing Knee X-ray Diagnostics with AI",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/naveen-kumarasamy/"
+      ]
+    },
+    {
+      "name": "Akhil Teja",
+      "talkTitle": "Faster Applications: Harnessing Python with C/Zig libraries and my story of building fastest LLM tokenizer",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://x.com/akhildevelops"
+      ]
+    },
+    {
+      "name": "Yashasvi Misra",
+      "talkTitle": "Beyond Single Models: The Secret Sauce of Predictive Success",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "Linkedin:",
+        "https://www.linkedin.com/in/misrayashasvi/\nTwitter:",
+        "https://twitter.com/MisraYashasvi"
+      ]
+    },
+    {
+      "name": "Shravani Thirunagari",
+      "talkTitle": "How I learnt the Art of Balancing - Integrating Hobbies for work-life Harmony!",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://x.com/iamshravani\nhttps://www.linkedin.com/in/shravani-thirunagari/"
+      ]
+    },
+    {
+      "name": "Bhavani Ravi",
+      "talkTitle": "Live Coding: Building a Unit Testing Library like Pytest",
+      "talkType": "Talk",
+      "title": "Independent Software Consultant | Founder TheLearningDev",
+      "socials": [
+        "https://x.com/BhavaniRavi_\nhttps://linkedin.com/in/bhavanicodes\nhttps://instagram.com/bhavanicodes"
+      ]
+    },
+    {
+      "name": "Abhik Sarkar",
+      "talkTitle": "Why Knowing Cython Helps in Understanding Python: A Deep Dive into Cython",
+      "talkType": "Talk",
+      "title": "Head of ML at Cloudastructure | Expert in Computer Vision & Optimization",
+      "socials": [
+        "https://www.linkedin.com/in/abhiksark/\nhttps://x.com/abhiksark\nhttps://www.instagram.com/abhiksark/"
+      ]
+    },
+    {
+      "name": "Vijay Kumar B",
+      "talkTitle": "Transforming Automotive Electronics Testing with Python and Robot Framework",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/bravegnu/\nhttps://x.com/bravegnu/"
+      ]
+    },
+    {
+      "name": "Tapan Avasthi",
+      "talkTitle": "Deep dive into Contextual Logging for Modern Python Applications",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/tapanavasthi/"
+      ]
+    },
+    {
+      "name": "Milan Shet",
+      "talkTitle": "Unleashing the Power of Python: Exploring Python's New JIT Compiler",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "LinkedIn:",
+        "https://www.linkedin.com/in/milan-shet",
+        "",
+        "",
+        "",
+        "",
+        "\nInstagram:",
+        "https://www.instagram.com/milshetlensed?igsh=MWR5YzlzcTQ0OHRxNA=="
+      ]
+    },
+    {
+      "name": "Niloth",
+      "talkTitle": "TUIs Simplified: The Transformation of TUIs into User-Friendly Tools",
+      "talkType": "Talk",
+      "title": "Pythonista | BITSian | Zulip Developer",
+      "socials": [
+        "NA"
+      ]
+    },
+    {
+      "name": "Ashutosh Pednekar",
+      "talkTitle": "QuickGrpc - grpc 101 tailored towards rest devs and showcase of quickgrpc framework",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "ashupednekar"
+      ]
+    },
+    {
+      "name": "Chaitanya Chinni",
+      "talkTitle": "Beyond the Bot: Overcoming Pitfalls in Building Customer-Facing Chatbots",
+      "talkType": "Talk",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/chinnichaitanya/"
+      ]
+    },
+    {
+      "name": "Ramya Oruganti",
+      "talkTitle": "Introduction to data-driven AI applications and multi-modal search",
+      "talkType": "Workshop",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/ramya-oruganti-b786452b/\nhttps://x.com/ramyaoncloud"
+      ]
+    },
+    {
+      "name": "Abhijeet Kumar",
+      "talkTitle": "Chat with Tables: Developing Q&A system on Tabular data using Code Generative LLMs",
+      "talkType": "Workshop",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/abhijeet-kumar-1aa8b0138"
+      ]
+    },
+    {
+      "name": "Jithin",
+      "talkTitle": "Creating Low Cost Sensor dataloggers with Python and Microcontrollers",
+      "talkType": "Workshop",
+      "title": "",
+      "socials": [
+        "https://x.com/jithinbp_\nhttps://www.instagram.com/jithin_bp/"
+      ]
+    },
+    {
+      "name": "Mohit Khandelwal",
+      "talkTitle": "Python-Powered Algorithmic Trading: From Theory to Practice",
+      "talkType": "Workshop",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/mohitkh7/;",
+        "https://twitter.com/mohitkh7;",
+        "https://www.instagram.com/_mohitkh7_/"
+      ]
+    },
+    {
+      "name": "Sourav Saha",
+      "talkTitle": "Hands-on exercises to experience how compiler technology can be useful to speedup data processing in python",
+      "talkType": "Workshop",
+      "title": "",
+      "socials": [
+        "http://linkedin.com/in/sourav-ソウラブ-saha-サハ-a5750259\nhttps://x.com/souravsaha97589"
+      ]
+    },
+    {
+      "name": "Vivek Keshore",
+      "talkTitle": "From Zero to Backend Hero: Creating Full-Featured Apps with FastAPI",
+      "talkType": "Workshop",
+      "title": "",
+      "socials": [
+        "https://www.linkedin.com/in/vivek-keshore/\nhttps://x.com/VivekKeshore"
+      ]
+    }
+  ]

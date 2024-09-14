@@ -1,0 +1,10 @@
+---
+pagination:
+  data: speakers
+  size: 1
+  alias: speaker
+permalink: /speakers/{{ speaker.name | slugify | url }}/
+layout: base.liquid
+---
+
+{%  include "components/speaker-page-component.liquid" %}

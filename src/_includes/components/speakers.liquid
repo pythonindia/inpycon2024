@@ -1,0 +1,28 @@
+<!-- speakers page -->
+
+<section class="bg-speaker" id="speakers">
+  <div class="container pt-2">
+    <div class="row justify-content-center pt-5 pb-0 pb-md-5">
+      <div class="col-md-12 text-center">
+        <h2 class="title-2 text-center mb-5 pt-0 pt-md-5 pb-5" data-aos="fade-up" data-aos-duration="1000">Speakers</h2>
+      </div>
+
+      {% for speaker in speakers %}
+        <div class="col-md-5 mt-5 pb-5 pt-5 mt-4">
+          <a href="./{{ speaker.name | slugify }}/" style="text-decoration: none; color: inherit;">
+            <div class="speaker-laybox bg-white text-center">
+              <img src="/image/speakers/{{ speaker.name | slugify}}.jpg" onerror="this.src='/2024/image/Group%204790.svg'"
+                class="img-fluid w-80" width="240" alt="{{ speaker.name }}">
+              <h2 class="speakerheading-boxed pt-4 text-uppercase">{{ speaker.name }}</h2>
+              <p class="speakerpara-boxed pb-3">{{ speaker.title }}</p>
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+
+    </div>
+  </div>
+  <div class="trainbg">
+    <div class="bg-move"></div>
+  </div>
+</section>

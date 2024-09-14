@@ -1,0 +1,15 @@
+<section class="speaker-page pb-0 pb-md-5 pt-4 p-4" id="speaker">
+    <div class="container">
+        <div class="speaker text-center bg-speaker p-4">
+            <div class="speaker-photo">
+                <img src="/image/speakers/{{ speaker.name | slugify}}.jpg" onerror="this.src='/2024/image/Group%204790.svg'" width="400" />
+            </div>
+            <div class="speaker-details">
+                <h1 class="speakerheading title-2 mb-2">{{speaker.name}}</h1>
+                <h4>{{speaker.title}}</h4>
+                <p class="">{{speaker.talkTitle}}</p>
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
