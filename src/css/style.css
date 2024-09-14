@@ -1498,18 +1498,15 @@ path {
 
 /* speakers-page */
 
-.speakers{
-  display: grid;
-  grid-template-columns: auto auto;
-  grid-column-gap: 2em;
-  grid-row-gap: 2em;
-  justify-items: center;
-  align-items: center;
+.speakers-page{
+}
 
+.speakers-page .speaker-laybox{
+  height: 100%;
 }
 
 @media screen and (max-width: 768px){
-  .speakers{
+  .speakers-page{
     display: flex;
     flex-wrap: wrap;
     width: 100%;
@@ -1519,7 +1516,6 @@ path {
 }
 
 /* individual speaker page styles */
-
 .speaker-page{
 }
 
