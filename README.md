@@ -53,8 +53,8 @@ sudo make prod
   <tr>
     <td align="center"><a href="https://github.com/TeeWrath"><img src="https://avatars.githubusercontent.com/u/117584718?v=4" width="100px" alt="Subroto Banerjee"/><br /><sub><b>Subroto Banerjee</b></sub></a></td>
     <td align="center"><a href="https://github.com/kybrdbnd"><img src="https://avatars.githubusercontent.com/u/10006381?v=4" width="100px" alt="Pranav Puri"/><br /><sub><b>Pranav Puri</b></sub></a></td>
-    <td align="center"><a href="https://github.com/bhavin192"><img src="https://avatars.githubusercontent.com/u/5154532?v=4" width="100px" alt="Bhavin Gandhi"/><br /><sub><b>Bhavin Gandhi</b></sub></a></td>
     <td align="center"><a href="https://github.com/palnabarun"><img src="https://avatars.githubusercontent.com/u/10010419?v=4" width="100px" alt="Nabarun Pal"/><br /><sub><b>Nabarun Pal</b></sub></a></td>
+    <td align="center"><a href="https://github.com/bhavin192"><img src="https://avatars.githubusercontent.com/u/5154532?v=4" width="100px" alt="Bhavin Gandhi"/><br /><sub><b>Bhavin Gandhi</b></sub></a></td>
     <td align="center"><a href="https://github.com/priyanshu-247"><img src="https://avatars.githubusercontent.com/u/50795140?v=4" width="100px" alt="Priyanshu"/><br /><sub><b>Priyanshu</b></sub></a></td>
     <td align="center"><a href="https://github.com/abhishekmishragithub"><img src="https://avatars.githubusercontent.com/u/38150419?v=4" width="100px" alt="Abhishek"/><br /><sub><b>Abhishek</b></sub></a></td>
   </tr>
