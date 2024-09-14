@@ -59,6 +59,7 @@ sudo make prod
     <td align="center"><a href="https://github.com/Schefflera-Arboricola"><img src="https://avatars.githubusercontent.com/u/91629733?v=4" width="100px" alt="Aditi Juneja"/><br /><sub><b>Aditi Juneja</b></sub></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/palnabarun"><img src="https://avatars.githubusercontent.com/u/10010419?v=4" width="100px" alt="Nabarun Pal"/><br /><sub><b>Nabarun Pal</b></sub></a></td>
     <td align="center"><a href="https://github.com/wavicles"><img src="https://avatars.githubusercontent.com/u/7612306?v=4" width="100px" alt="Praveen (Gnovi)"/><br /><sub><b>Praveen (Gnovi)</b></sub></a></td>
     <td align="center"><a href="https://github.com/soumendrak"><img src="https://avatars.githubusercontent.com/u/10120538?v=4" width="100px" alt="Soumendra kumar sahoo"/><br /><sub><b>Soumendra kumar sahoo</b></sub></a></td>
   </tr>
