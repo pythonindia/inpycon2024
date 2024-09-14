@@ -1413,7 +1413,14 @@ path {
   border-bottom: 1px solid #f3f3f3;
   justify-content: center;
   display: flex;
+  display: -webkit-flex;
   list-style: none;
+  gap: 2em;
+}
+
+.schedule-tabs-menu li{
+  display: flex;
+  display: -webkit-flex;
 }
 
 .schedule-tab-link {
