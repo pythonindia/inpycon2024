@@ -23,13 +23,13 @@ npm install @11ty/eleventy
 
 - Run the website locally
 ```bash
-npx @11ty/eleventy --serve --port=8080
+make dev-server
 ```
 
 ## Production Deployment
 
 ```sh
-sudo npm run build-prod
+sudo make prod
 ```
 
 **Venue**
