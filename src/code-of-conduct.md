@@ -9,8 +9,6 @@ We value the participation of every member of the Python community and want all 
 
 To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at PyCon India are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
-  
-
 Short Version
 -------------
 
@@ -61,7 +59,7 @@ Thank you for helping to make PyCon India a welcoming, friendly event for all.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "PyCon India Volunteer" badges.
 
-Or send an email to [report@in.pycon.org](mailto:report@in.pycon.org)
+Or send an email to [coc@in.pycon.org](mailto:coc@in.pycon.org)
 
 Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
