@@ -4,6 +4,7 @@
     "title": "September 20th | Friday",
     "description": "Workshop",
     "type": "workshop",
+    "trackLabels": ["Track 1", "Track 2", "Track 3", "Open Spaces"],
     "schedule": [
       {
         "start_time": "08:30",
@@ -20,12 +21,12 @@
         "end_time": "13:00",
         "tracks": [
           {
-              "link": "https://in.pycon.org/cfp/2024/proposals/chat-with-tables-developing-qa-system-on-tabular-data-using-code-generative-llms~e31wM/",
+            "link": "https://in.pycon.org/cfp/2024/proposals/chat-with-tables-developing-qa-system-on-tabular-data-using-code-generative-llms~e31wM/",
             "speaker": "Abhijeet Kumar",
             "title": "Chat with Tables: Developing Q&A system on Tabular data using Code Generative LLMs (AI and Machine Learning)"
           },
           {
-              "link": "https://in.pycon.org/cfp/2024/proposals/python-powered-algorithmic-trading-from-theory-to-practice~dNk5L/",
+            "link": "https://in.pycon.org/cfp/2024/proposals/python-powered-algorithmic-trading-from-theory-to-practice~dNk5L/",
             "speaker": "Mohit Khandelwal",
             "title": "Python-Powered Algorithmic Trading: From Theory to Practice (Other)"
           },
@@ -51,17 +52,17 @@
         "end_time": "17:00",
         "tracks": [
           {
-              "link": "https://in.pycon.org/cfp/2024/proposals/introduction-to-data-driven-ai-applications-and-multi-modal-search~axk8n/",
+            "link": "https://in.pycon.org/cfp/2024/proposals/introduction-to-data-driven-ai-applications-and-multi-modal-search~axk8n/",
             "speaker": "Ramya Oruganti",
             "title": "Introduction to data-driven AI applications and multi-modal search (AI and Machine Learning)"
           },
           {
-              "link": "https://in.pycon.org/cfp/2024/proposals/hands-on-exercises-to-experience-how-compiler-technology-can-be-useful-to-speedup-data-processing-in-python~aOYLG/",
+            "link": "https://in.pycon.org/cfp/2024/proposals/hands-on-exercises-to-experience-how-compiler-technology-can-be-useful-to-speedup-data-processing-in-python~aOYLG/",
             "speaker": "Sourav Saha",
             "title": "Hands-on exercises to experience how compiler technology can be useful to speedup data processing in python (Platform Engg.)"
           },
           {
-              "link": "https://in.pycon.org/cfp/2024/proposals/from-zero-to-backend-hero-creating-full-featured-apps-with-fastapi~aADQz/",
+            "link": "https://in.pycon.org/cfp/2024/proposals/from-zero-to-backend-hero-creating-full-featured-apps-with-fastapi~aADQz/",
             "speaker": "Vivek Keshore",
             "title": "From Zero to Backend Hero: Creating Full-Featured Apps with FastAPI (Web Applications)"
           }
@@ -74,13 +75,11 @@
     "title": "September 21st | Saturday",
     "description": "CONFERENCE DAY 1",
     "type": "conference",
+    "trackLabels": ["Track 1", "Track 2", "Track 3", "Open Spaces"],
     "schedule": [
       {
         "start_time": "07:30",
         "end_time": "09:00",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Registrations / Breakfast"
@@ -90,9 +89,6 @@
       {
         "start_time": "09:00",
         "end_time": "09:15",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Opening Address"
@@ -102,21 +98,16 @@
       {
         "start_time": "09:30",
         "end_time": "10:30",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
-            "title": "Keynote: Kovid Goyal"
+            "title": "Keynote: Kovid Goyal",
+            "type": "keynote"
           }
         ]
       },
       {
         "start_time": "10:30",
         "end_time": "11:00",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Tea Break"
@@ -147,9 +138,6 @@
       {
         "start_time": "11:40",
         "end_time": "12:10",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "TUIs Simplified: The Transformation of TUIs into User-Friendly Tools",
@@ -167,9 +155,6 @@
       {
         "start_time": "12:20",
         "end_time": "12:50",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Practical Guide to Celery in Production",
@@ -200,9 +185,6 @@
       {
         "start_time": "14:00",
         "end_time": "14:40",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Lightning Talks"
@@ -212,9 +194,6 @@
       {
         "start_time": "14:45",
         "end_time": "15:15",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Finding actor look-alikes with multi-modal LLMs",
@@ -259,9 +238,6 @@
       {
         "start_time": "15:55",
         "end_time": "16:20",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "High Tea"
@@ -271,9 +247,6 @@
       {
         "start_time": "16:20",
         "end_time": "16:50",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Supercharge your Python code with the match statement",
@@ -291,21 +264,16 @@
       {
         "start_time": "17:00",
         "end_time": "18:00",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
-            "title": "Keynote: Usha Rengaraju"
+            "title": "Keynote: Usha Rengaraju",
+            "type": "keynote"
           }
         ]
       },
       {
         "start_time": "18:00",
         "end_time": "18:15",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Closing Address"
@@ -319,13 +287,11 @@
     "title": "September 22nd | Sunday",
     "description": "CONFERENCE DAY 2",
     "type": "conference",
+    "trackLabels": ["Track 1", "Track 2", "Track 3", "Open Spaces"],
     "schedule": [
       {
         "start_time": "08:00",
         "end_time": "09:00",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Registrations / Breakfast"
@@ -335,9 +301,6 @@
       {
         "start_time": "09:00",
         "end_time": "09:15",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Opening Address"
@@ -347,21 +310,16 @@
       {
         "start_time": "09:30",
         "end_time": "10:30",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
-            "title": "Keynote: Mars Lee"
+            "title": "Keynote: Mars Lee",
+            "type": "keynote"
           }
         ]
       },
       {
         "start_time": "10:30",
         "end_time": "11:00",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Tea Break"
@@ -401,9 +359,6 @@
       {
         "start_time": "11:40",
         "end_time": "12:10",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "QuickGrpc - grpc 101 tailored towards rest devs and showcase of quickgrpc framework",
@@ -422,9 +377,6 @@
       {
         "start_time": "12:20",
         "end_time": "12:50",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Beyond the Bot: Overcoming Pitfalls in Building Customer-Facing Chatbots",
@@ -442,9 +394,6 @@
       {
         "start_time": "12:50",
         "end_time": "14:00",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Lunch"
@@ -454,9 +403,6 @@
       {
         "start_time": "14:00",
         "end_time": "14:40",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Lightning Talks"
@@ -466,9 +412,6 @@
       {
         "start_time": "14:45",
         "end_time": "15:15",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Panel Discussion on Inclusive Leadership: Stories of Empowerment and Impact"
@@ -486,9 +429,6 @@
       {
         "start_time": "15:25",
         "end_time": "15:55",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Panel Discussion on Python Local User Groups in India: Keeping the Lights On"
@@ -505,9 +445,6 @@
       {
         "start_time": "15:55",
         "end_time": "16:20",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "High Tea"
@@ -517,9 +454,6 @@
       {
         "start_time": "16:20",
         "end_time": "16:50",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Asynchronous Programming for Scalable Machine Learning Pipelines in Python",
@@ -538,21 +472,16 @@
       {
         "start_time": "17:00",
         "end_time": "18:00",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
-            "title": "Keynote: James Powell"
+            "title": "Keynote: James Powell",
+            "type": "keynote"
           }
         ]
       },
       {
         "start_time": "18:00",
         "end_time": "18:15",
-        "os": "",
-        "bof1": "",
-        "hallway1": "",
         "tracks": [
           {
             "title": "Closing Address"
