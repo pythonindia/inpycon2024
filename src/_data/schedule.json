@@ -25,14 +25,14 @@
             "title": "Chat with Tables: Developing Q&A system on Tabular data using Code Generative LLMs (AI and Machine Learning)"
           },
           {
-              "link": "https://in.pycon.org/cfp/2024/proposals/creating-low-cost-sensor-dataloggers-with-python-and-microcontrollers~e1wYj/",
-            "speaker": "Jithin",
-            "title": "Creating Low Cost Sensor dataloggers with Python and Microcontrollers (Hardware)"
-          },
-          {
               "link": "https://in.pycon.org/cfp/2024/proposals/python-powered-algorithmic-trading-from-theory-to-practice~dNk5L/",
             "speaker": "Mohit Khandelwal",
             "title": "Python-Powered Algorithmic Trading: From Theory to Practice (Other)"
+          },
+          {
+              "link": "https://in.pycon.org/cfp/2024/proposals/creating-low-cost-sensor-dataloggers-with-python-and-microcontrollers~e1wYj/",
+            "speaker": "Jithin BP",
+            "title": "Creating Low Cost Sensor dataloggers with Python and Microcontrollers (Hardware)"
           }
         ]
       },
