@@ -730,6 +730,11 @@ thead th {
   align-items: center !important;
   justify-content: center;
 }
+
+.plus-box:hover {
+  outline: 1px solid #fa6f49;
+  outline-offset: 1px;
+}
 .tick-btn {
   padding: 20px 50px;
   background: #fff;
@@ -1317,8 +1322,7 @@ path {
 .img-fluid {
   transition: all 0.5s ease-in-out;
 }
-
-.img-fluid:hover {
+.speaker-img:hover {
   transform: scale(1.075);
 }
 
