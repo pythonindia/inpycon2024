@@ -6,7 +6,9 @@
     "pronouns": "She",
     "tagline": "MS (by Research) from IIT Mandi | DL Enthusiast",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/preethi-srinivasan-3a221915/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/preethi-srinivasan-3a221915/"
+    }
   },
   {
     "name": "Shruti Dhavalikar",
@@ -15,7 +17,9 @@
     "pronouns": "She/Her",
     "tagline": "Data Science Enthusiast | Translating Data into Business Insights",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/shruti-dhavalikar-83514615a/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/shruti-dhavalikar-83514615a/"
+    }
   },
   {
     "name": "Gagandeep Singh",
@@ -24,7 +28,11 @@
     "pronouns": "He/Him",
     "tagline": "SWE II at Quansight Labs | GSoC Fellow & Compiler Dev",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/czgdp1807/\nhttps://x.com/czgdp1807\nhttps://www.instagram.com/singh.gagandeep.1807/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/czgdp1807/",
+      "twitter": "https://x.com/czgdp1807",
+      "instagram": "https://www.instagram.com/singh.gagandeep.1807/"
+    }
   },
   {
     "name": "Ishan Koradia",
@@ -33,7 +41,9 @@
     "pronouns": "He/Him",
     "tagline": "Software Engineer at Dalgo | Passionate about Social Impact",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/ishan-koradia/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/ishan-koradia/"
+    }
   },
   {
     "name": "Devi A S L",
@@ -42,7 +52,9 @@
     "pronouns": "She/Her",
     "tagline": "Fractional CxO at Tech4Dev | Ex-Atlassian & Razorpay | Tech for Social Impact",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/asldevi"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/asldevi"
+    }
   },
   {
     "name": "Agriya Khetarpal",
@@ -51,7 +63,10 @@
     "pronouns": "he/him",
     "tagline": "Software Engineer at Quansight | Packaging Scientific Python Libraries",
     "talkCategory": "Talk",
-    "socials": "LinkedIn: https://linkedin.com/in/agriyakhetarpal\nTwitter: https://twitter.com/agriyakhetarpal"
+    "socials": {
+      "linkedin": "LinkedIn: https://linkedin.com/in/agriyakhetarpal",
+      "twitter": "Twitter: https://twitter.com/agriyakhetarpal"
+    }
   },
   {
     "name": "Anand S",
@@ -60,7 +75,10 @@
     "pronouns": "He/Him",
     "tagline": "LLM Psychologist at Straive | Calvin & Hobbes Fan",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/sanand0\nhttps://twitter.com/sanand0"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/sanand0",
+      "twitter": "https://twitter.com/sanand0"
+    }
   },
   {
     "name": "Gautam Jajoo",
@@ -69,7 +87,13 @@
     "pronouns": "He/Him",
     "tagline": "Researcher at Microsoft Research | AI & Open Source Enthusiast",
     "talkCategory": "Talk",
-    "socials": "https://gautamjajoo.github.io/\nhttps://www.linkedin.com/in/gautamjajoo/\nhttps://x.com/gautam_jajoo"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/gautamjajoo/",
+      "twitter": "https://x.com/gautam_jajoo",
+      "other": [
+        "https://gautamjajoo.github.io/"
+      ]
+    }
   },
   {
     "name": "Mahesh Mahadevan",
@@ -78,7 +102,9 @@
     "pronouns": "He/Him",
     "tagline": "DevOps & Engineering Lead at Avoma | Innovating in SaaS & Intelligence",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/mahesh-m-8439b13b/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/mahesh-m-8439b13b/"
+    }
   },
   {
     "name": "Sayan Pal",
@@ -87,7 +113,11 @@
     "pronouns": "He/Him",
     "tagline": "Senior Software Engineer | Backend & Data Platform",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/isayanpal\nhttps://x.com/_sayan_pal\nhttps://www.instagram.com/_sayan_pal/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/isayanpal",
+      "twitter": "https://x.com/_sayan_pal",
+      "instagram": "https://www.instagram.com/_sayan_pal/"
+    }
   },
   {
     "name": "Sasidhar Donaparthi",
@@ -96,7 +126,13 @@
     "pronouns": "He",
     "tagline": "Data Scientist | 25+ years in IT & Python Enthusiast",
     "talkCategory": "Talk",
-    "socials": "X - @sdonapar\nLinkedin - https://www.linkedin.com/in/sasidonaparthi/\ninstagram - https://www.instagram.com/sdonapar/"
+    "socials": {
+      "linkedin": "Linkedin - https://www.linkedin.com/in/sasidonaparthi/",
+      "instagram": "instagram - https://www.instagram.com/sdonapar/",
+      "other": [
+        "X - @sdonapar"
+      ]
+    }
   },
   {
     "name": "Mrinal Raj",
@@ -105,7 +141,12 @@
     "pronouns": "He/Him",
     "tagline": "Python Developer at Cisco | Expert in Automation & Hardware",
     "talkCategory": "Talk",
-    "socials": "LinkedIn: https://www.linkedin.com/in/mrinal-raj/\n\nDGplug blogs: https://blogs.dgplug.org/mrinalraj/\n\nTwitter: https://x.com/reach_mrinal"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/mrinal-raj/",
+      "twitter": "https://x.com/reach_mrinal",
+      "other": [https://blogs.dgplug.org/mrinalraj/",
+      ]
+    }
   },
   {
     "name": "Simran Jain",
@@ -114,7 +155,9 @@
     "pronouns": "She/Her",
     "tagline": "Software Engineer at Bloomberg | Software Design Enthusiast",
     "talkCategory": "Talk",
-    "socials": "http://www.linkedin.com/in/simran-jain-5205baa9"
+    "socials": {
+      "linkedin": "http://www.linkedin.com/in/simran-jain-5205baa9"
+    }
   },
   {
     "name": "Animesh Dutta",
@@ -123,7 +166,9 @@
     "pronouns": "He/Him",
     "tagline": "Senior Software Engineer | ML Frameworks & System Efficiency",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/animesh145"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/animesh145"
+    }
   },
   {
     "name": "Kunal Bhattacharya",
@@ -132,7 +177,10 @@
     "pronouns": "He/Him",
     "tagline": "Platforms Engineer at PepsiCo | Open Source Contributor",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/kunaljubce\nhttps://x.com/kunaljubce"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/kunaljubce",
+      "twitter": "https://x.com/kunaljubce"
+    }
   },
   {
     "name": "Nivetha V",
@@ -141,7 +189,10 @@
     "pronouns": "She/Her",
     "tagline": "Network Automation Engineer at Adyen | Tech Aficionado",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/nivetha-venkatramanan-862b236b\nhttps://www.instagram.com/nivethavenkatramanan/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/nivetha-venkatramanan-862b236b",
+      "instagram": "https://www.instagram.com/nivethavenkatramanan/"
+    }
   },
   {
     "name": "Saikumar Dandla",
@@ -150,7 +201,9 @@
     "pronouns": "He",
     "tagline": "AI Research Analyst/Engineer II at Amazon | Ex-DRDO AI Researcher",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/saidsp19/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/saidsp19/"
+    }
   },
   {
     "name": "Siddharta Govindaraj",
@@ -159,7 +212,10 @@
     "pronouns": "He/Him",
     "tagline": "Writer at Playful Python | Author of \"Test-Driven Python Development",
     "talkCategory": "Talk",
-    "socials": "https://in.linkedin.com/in/siddharta\nhttps://mobile.twitter.com/playfulpython"
+    "socials": {
+      "linkedin": "https://in.linkedin.com/in/siddharta",
+      "twitter": "https://mobile.twitter.com/playfulpython"
+    }
   },
   {
     "name": "Akshit Tyagi",
@@ -168,7 +224,11 @@
     "pronouns": "He/Him",
     "tagline": "Undergrad at JIIT Noida | OSDC | Open Source Contributor",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/akshit-tyagi-7407b4177/\nhttps://x.com/flynnzler\nhttps://www.instagram.com/akshit_tyagi42/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/akshit-tyagi-7407b4177/",
+      "twitter": "https://x.com/flynnzler",
+      "instagram": "https://www.instagram.com/akshit_tyagi42/"
+    }
   },
   {
     "name": "Jaidev Deshpande",
@@ -177,7 +237,11 @@
     "pronouns": "He/Him",
     "tagline": "Data Scientist & ML Educator | Tech @ Gramener",
     "talkCategory": "Talk",
-    "socials": "https://linkedin.com/in/jaidevd\nhttps://x.com/jaidevd\nhttps://instagram.com/jaidevd"
+    "socials": {
+      "linkedin": "https://linkedin.com/in/jaidevd",
+      "twitter": "https://x.com/jaidevd",
+      "instagram": "https://instagram.com/jaidevd"
+    }
   },
   {
     "name": "Kavya Mohan",
@@ -186,7 +250,10 @@
     "pronouns": "She/Her",
     "tagline": "Data Scientist, 5C Network | AI for Medical Image Diagnostics",
     "talkCategory": "Talk",
-    "socials": "https://www.instagram.com/__kavya.m?igsh=OGN5cXh5MXZqd2Jh\nhttps://www.linkedin.com/in/kavya-mohan-22833a1aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/kavya-mohan-22833a1aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "instagram": "https://www.instagram.com/__kavya.m?igsh=OGN5cXh5MXZqd2Jh"
+    }
   },
   {
     "name": "Naveen K",
@@ -195,7 +262,9 @@
     "pronouns": "He",
     "tagline": "Principal Data Scientist, 5C Network | AI in Healthcare",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/naveen-kumarasamy/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/naveen-kumarasamy/"
+    }
   },
   {
     "name": "Akhil Teja",
@@ -204,7 +273,9 @@
     "pronouns": "He",
     "tagline": "Machine Learning & Data Engineer | Open Source Contributor",
     "talkCategory": "Talk",
-    "socials": "https://x.com/akhildevelops"
+    "socials": {
+      "twitter": "https://x.com/akhildevelops"
+    }
   },
   {
     "name": "Yashasvi Misra",
@@ -213,7 +284,10 @@
     "pronouns": "She/Her",
     "tagline": "Data Engineer at AB InBev | ML Expert & Diversity Advocate",
     "talkCategory": "Talk",
-    "socials": "Linkedin: https://www.linkedin.com/in/misrayashasvi/\nTwitter: https://twitter.com/MisraYashasvi"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/misrayashasvi/",
+      "twitter": "https://twitter.com/MisraYashasvi"
+    }
   },
   {
     "name": "Bhavani Ravi",
@@ -222,7 +296,11 @@
     "pronouns": "She/Her",
     "tagline": "Founder of TheLearningDev | Independent Software Consultant",
     "talkCategory": "Talk",
-    "socials": "https://x.com/BhavaniRavi_\nhttps://linkedin.com/in/bhavanicodes\nhttps://instagram.com/bhavanicodes"
+    "socials": {
+      "linkedin": "https://linkedin.com/in/bhavanicodes",
+      "twitter": "https://x.com/BhavaniRavi_",
+      "instagram": "https://instagram.com/bhavanicodes"
+    }
   },
   {
     "name": "Abhik Sarkar",
@@ -231,7 +309,14 @@
     "pronouns": "He/Him",
     "tagline": "Head of ML at Cloudastructure | Expert in Computer Vision & Optimization",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/abhiksark/\nhttps://x.com/abhiksark\nhttps://www.instagram.com/abhiksark/\nhttps://www.abhik.xyz/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/abhiksark/",
+      "twitter": "https://x.com/abhiksark",
+      "instagram": "https://www.instagram.com/abhiksark/",
+      "other": [
+        "https://www.abhik.xyz/"
+      ]
+    }
   },
   {
     "name": "Vijay Kumar B",
@@ -240,7 +325,10 @@
     "pronouns": "He/Him",
     "tagline": "Head of Engineering at Zilogic | Co-organizer of Chennaipy",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/bravegnu/\nhttps://x.com/bravegnu/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/bravegnu/",
+      "twitter": "https://x.com/bravegnu/"
+    }
   },
   {
     "name": "Tapan Avasthi",
@@ -249,7 +337,9 @@
     "pronouns": "He",
     "tagline": "Seasoned Software Engineer | Diagnostic Expert, Distributed Systems",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/tapanavasthi/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/tapanavasthi/"
+    }
   },
   {
     "name": "Milan Shet",
@@ -258,7 +348,10 @@
     "pronouns": "She/Her",
     "tagline": "Sr. Tech Lead at Applied Materials | Python, Image Processing & ML Expert",
     "talkCategory": "Talk",
-    "socials": "LinkedIn: https://www.linkedin.com/in/milan-shet     \nInstagram: https://www.instagram.com/milshetlensed?igsh=MWR5YzlzcTQ0OHRxNA=="
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/milan-shet     ",
+      "instagram": "https://www.instagram.com/milshetlensed?igsh=MWR5YzlzcTQ0OHRxNA=="
+    }
   },
   {
     "name": "Niloth",
@@ -267,7 +360,8 @@
     "pronouns": "He/Him",
     "tagline": "Zulip Developer | Pythonista | BITSian",
     "talkCategory": "Talk",
-    "socials": "NA"
+    "socials": {
+    }
   },
   {
     "name": "Ashutosh Pednekar",
@@ -276,7 +370,8 @@
     "pronouns": "He/Him",
     "tagline": "Software Architect | Cloud Native Platform Specialist",
     "talkCategory": "Talk",
-    "socials": "ashupednekar"
+    "socials": {
+    }
   },
   {
     "name": "Chaitanya Chinni",
@@ -285,7 +380,9 @@
     "pronouns": "He/Him",
     "tagline": "CTO of YNOS Venture Engine | Co-Creator of StartupGPT | FOSS Contributor",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/chinnichaitanya/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/chinnichaitanya/"
+    }
   },
   {
     "name": "Ramya Oruganti",
@@ -294,7 +391,10 @@
     "pronouns": "She/Her",
     "tagline": "Principal Product Manager at Microsoft | Specializes in Functions & Containers",
     "talkCategory": "Workshop",
-    "socials": "https://www.linkedin.com/in/ramya-oruganti-b786452b/\nhttps://x.com/ramyaoncloud"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/ramya-oruganti-b786452b/",
+      "twitter": "https://x.com/ramyaoncloud"
+    }
   },
   {
     "name": "Abhijeet Kumar",
@@ -303,7 +403,9 @@
     "pronouns": "He/Him",
     "tagline": "Director of Data Science at Fidelity Investments | Expert in Advanced Analytics & ML",
     "talkCategory": "Workshop",
-    "socials": "https://www.linkedin.com/in/abhijeet-kumar-1aa8b0138"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/abhijeet-kumar-1aa8b0138"
+    }
   },
   {
     "name": "Jithin",
@@ -312,7 +414,10 @@
     "pronouns": "He/him",
     "tagline": "",
     "talkCategory": "Workshop",
-    "socials": "https://x.com/jithinbp_\nhttps://www.instagram.com/jithin_bp/"
+    "socials": {
+      "twitter": "https://x.com/jithinbp_",
+      "instagram": "https://www.instagram.com/jithin_bp/"
+    }
   },
   {
     "name": "Mohit Khandelwal",
@@ -321,7 +426,9 @@
     "pronouns": "He/Him",
     "tagline": "Senior Software Engineer at Bitgo | Python & JavaScript Specialist",
     "talkCategory": "Workshop",
-    "socials": "https://www.linkedin.com/in/mohitkh7/; https://twitter.com/mohitkh7; https://www.instagram.com/_mohitkh7_/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/mohitkh7/; https://twitter.com/mohitkh7; https://www.instagram.com/_mohitkh7_/"
+    }
   },
   {
     "name": "Sourav Saha",
@@ -330,7 +437,10 @@
     "pronouns": "He/Him",
     "tagline": "Sr. Research Engineer at NEC | Expert in HPC & Data Science",
     "talkCategory": "Workshop",
-    "socials": "http://linkedin.com/in/sourav-ソウラブ-saha-サハ-a5750259\nhttps://x.com/souravsaha97589"
+    "socials": {
+      "linkedin": "http://linkedin.com/in/sourav-ソウラブ-saha-サハ-a5750259",
+      "twitter": "https://x.com/souravsaha97589"
+    }
   },
   {
     "name": "Vivek Keshore",
@@ -339,7 +449,10 @@
     "pronouns": "He/Him",
     "tagline": "Lead Python Developer at SenecaGlobal | Enjoys Sharing Knowledge",
     "talkCategory": "Workshop",
-    "socials": "https://www.linkedin.com/in/vivek-keshore/\nhttps://x.com/VivekKeshore"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/vivek-keshore/",
+      "twitter": "https://x.com/VivekKeshore"
+    }
   },
   {
     "name": "Anuj Menta",
@@ -348,6 +461,10 @@
     "pronouns": "He/Him",
     "tagline": "Staff Software Engineer | Loves the 0 to 1 of Building Products",
     "talkCategory": "Talk",
-    "socials": "https://www.linkedin.com/in/anujmenta/\nhttps://x.com/anujmenta\nhttps://www.instagram.com/anujmenta/"
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/anujmenta/",
+      "twitter": "https://x.com/anujmenta",
+      "instagram": "https://www.instagram.com/anujmenta/"
+    }
   }
 ]
