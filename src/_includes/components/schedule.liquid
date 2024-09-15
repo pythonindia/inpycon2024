@@ -41,7 +41,7 @@
                     <i class="fa fa-link"></i>
                 {% endif %}
                 {% if session.tracks[0].type == "keynote" %}
-                  <h5 class="card-header bg-warning">
+                  <h5 class="card-header bg-warning text-light">
                     Keynote
                   </h5>
                 {% endif %}
@@ -68,10 +68,10 @@
                       </h5>
                     {% endif %}
                     <div class="card-body">
+                      <span class="badge bg-warning mt-2 mb-2">{{trackLabels[forloop.index0]}}</span>
                       <h5 class="card-title">{{track.title}}</h5>
                       <h6 class="card-subtitle mt-4 mb-2 text-muted fs-5">
                           {{session.start_time}} - {{session.end_time}}</h6>
-                      </span>
                     </div>
                     {% if track.link %}
                       </a>
