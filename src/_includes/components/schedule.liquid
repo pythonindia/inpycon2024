@@ -2,7 +2,7 @@
   <div class="container pt-5">
     <div class="row pt-5 pb-5 justify-content-center">
       <div class="col-md-12">
-        <h2 class="title-1 text-center mb-5" data-aos="fade-up" data-aos-duration="1000">Schedule</h2>
+        <h1 class="title-1 h2 text-center mb-5" data-aos="fade-up" data-aos-duration="1000">Schedule</h1>
         <ul class="schedule-tabs-menu nav nav-pills" role="tablist" id="pills-tab">
         {% for day in schedule %}
           <li class="nav-item" role="tab">
@@ -16,7 +16,7 @@
             aria-controls="pills-{{ day.id }}"
             aria-selected="{% if day.id == 'sep21' %}true{% else %}false{% endif %}">
                 <div class="subtitle schedule-tab">{{ day.description | capitalize }}</div>
-                <div class="schedule-tab-link-text schedule-tab">{{ day.title }}</div>
+                <h2 class="schedule-tab-link-text schedule-tab">{{ day.title }}</h2>
             </button>
           </li>
         {% endfor %}
@@ -41,13 +41,13 @@
                     <i class="fa fa-link"></i>
                 {% endif %}
                 {% if session.tracks[0].type == "keynote" %}
-                  <h5 class="card-header bg-warning text-light">
+                  <span class="card-header bg-keynote text-light">
                     Keynote
-                  </h5>
+                  </span>
                 {% endif %}
                   <div class="card-body">
-                    <h5 class="card-title">{{session.tracks[0].title}}</h5>
-                    <h6 class="card-subtitle mt-2 mb-2 text-muted fs-5">{{session.start_time}} - {{session.end_time}}</h6>
+                    <h3 class="h5 card-title">{{session.tracks[0].title}}</h3>
+                    <p class="h6 card-subtitle mt-2 mb-2 text-muted fs-5">{{session.start_time}} - {{session.end_time}}</p>
                   </div>
                 {% if track.link %}
                   </a>
@@ -57,22 +57,33 @@
                 <div class="schedule__row"
                   style="grid-column: 1/5; grid-template-columns: repeat({{session.tracks.length}}, 1fr)">
                   {% for track in session.tracks %}
-                  <div class="schedule__card card" style="text-align: left;">
+                  <div class="schedule__card card card-{{trackLabels[forloop.index0] | slugify}}" style="text-align: left;">
                      {% comment %} conditional anchor tag {% endcomment %}
                     {% if track.link %}
                       <a href="{{ track.link }}" class="text-reset text-decoration-none stretched-link" target="_blank" rel="noopener noreffer">
                     {% endif %}
                     {% if session.tracks[0].type == "keynote" %}
-                      <h5 class="card-header bg-warning">
+                      <span class="card-header bg-warning">
                         Keynote
-                      </h5>
+                      </span>
                     {% endif %}
-                    <div class="card-body">
-                      <span class="badge bg-warning mt-2 mb-2">{{trackLabels[forloop.index0]}}</span>
-                      <h5 class="card-title">{{track.title}}</h5>
-                      <h6 class="card-subtitle mt-4 mb-2 text-muted fs-5">
-                          {{session.start_time}} - {{session.end_time}}</h6>
-                    </div>
+                    <article class="card-body">
+                      <div class="card-meta mt-2 mb-4 d-flex align-items-center justify-content-between">
+                        <span class="h6 card-subtitle text-muted fs-5">{{session.start_time}} - {{session.end_time}}</span>
+                        <span class="badge">{{trackLabels[forloop.index0]}}</span>
+                      </div>
+                      <h3 class="h5 card-title">{{track.title}}</h3>
+                      <div class="schedule-speaker-container">
+                      {% assign session_speakers = speakers | where: 'talkTitle', track.title %}
+                      {% for speaker in session_speakers %}
+                        <div class="speaker mt-4">
+                          <img src="/image/speakers/{{ speaker.name | slugify}}.jpg" onerror="this.onerror=null;this.src='/image/Group%204790.svg';this.style.objectFit='contain';"
+                class="speaker-img " width="240" alt="" loading="lazy">
+                          {{ speaker.name }}
+                        </div>
+                      {% endfor %}
+                      </div>
+                    </article>
                     {% if track.link %}
                       </a>
                     {% endif %}
