@@ -4,7 +4,7 @@
   <div class="container pt-2">
     <div class="row justify-content-center pt-5 pb-0 pb-md-5 gap-2">
       <div class="col-md-12 text-center">
-        <h2 class="title-2 text-center mb-5 pt-0 pt-md-5 pb-5" data-aos="fade-up" data-aos-duration="1000">Speakers</h2>
+        <h1 class="h2 title-2 text-center mb-5 pt-0 pt-md-5 pb-5" data-aos="fade-up" data-aos-duration="1000">Speakers</h1>
       </div>
 
       {% for speaker in speakers %}
@@ -12,7 +12,7 @@
           <a href="./{{ speaker.name | slugify }}/" style="text-decoration: none; color: inherit;">
             <div class="speaker-laybox bg-white text-center">
               <img src="/image/speakers/{{ speaker.name | slugify}}.jpg" onerror="this.onerror=null;this.src='/image/Group%204790.svg';this.style.objectFit='contain';"
-                class="img-fluid w-80" width="240" alt="{{ speaker.name }}" loading="lazy">
+                class="img-fluid speaker-img w-80" width="240" alt="{{ speaker.name }}" loading="lazy">
               <h2 class="pt-4 text-uppercase lead fs-5 fw-normal">{{ speaker.name }}</h2>
               <p class="speakerpara-boxed pb-3 mt-4 fs-6 text-body">{{ speaker.tagline }}</p>
             </div>

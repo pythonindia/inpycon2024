@@ -57,13 +57,41 @@ header {
   top: 0px;
 }
 
-a:focus {
-  border: 1px solid #ff724b !important;
-  outline: 1px solid #ff724b !important;
+button {
+  border: 0;
+  background: none;
+  font: inherit;
+  color: inherit;
+  overflow: visible;
+}
+
+a:focus,
+button:focus {
+  outline: 2px solid #ee6945 !important;
+  outline-offset: 2px;
+}
+a.block-link {
+  display: inline-block;
 }
 .no-focus:focus {
   border: none !important;
   outline: none !important;
+}
+.skip-link {
+  background-color: #b7ded7;
+  color: #180404;
+  padding: 10px;
+  display: block;
+  text-align: center;
+}
+.skip-link:not(:focus):not(:active) {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
 }
 #pills-tab .nav-item button:focus {
   border: 2px solid #ee6945;
@@ -139,7 +167,7 @@ header .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .show > .nav-link:hover {
-  color: #fe724c !important;
+  color: #DF3101 !important;
 }
 header .navbar-expand-lg .navbar-nav .nav-link {
   padding: 0 30px !important;
@@ -595,8 +623,7 @@ thead th {
   padding: 20px 20px 0 20px !important;
   background: #fff url("../image/key-bg-2.png") no-repeat !important;
   background-position: bottom center !important;
-  min-height: 208px !important;
-  height: 380px;
+  min-height: 380px !important;
 }
 .speaker-laybox:hover {
   background: #fff url("../image/key-bg.png") no-repeat !important;
@@ -613,8 +640,9 @@ thead th {
   object-fit: cover;
 }
 .speakerheading-boxed {
-  font-size: 15px;
+  font-size: clamp(1.125rem, 0.8207rem + 1.5217vw, 2rem);
   font-weight: 600;
+  color: #25627e;
 }
 .speakerpara-boxed {
   font-size: 14px;
@@ -701,6 +729,11 @@ thead th {
   display: flex;
   align-items: center !important;
   justify-content: center;
+}
+
+.plus-box:hover {
+  outline: 1px solid #fa6f49;
+  outline-offset: 1px;
 }
 .tick-btn {
   padding: 20px 50px;
@@ -1189,7 +1222,7 @@ path {
     padding: 20px 5px 0 5px !important;
   }
   .speakerpara-boxed {
-    padding: 0 15px !important;
+    padding: 0 15px;
   }
   .tab-box .nav .nav-link {
     padding: 12px 28px !important;
@@ -1289,9 +1322,8 @@ path {
 .img-fluid {
   transition: all 0.5s ease-in-out;
 }
-
-.img-fluid:hover {
-  transform: scale(1.25);
+.speaker-img:hover {
+  transform: scale(1.075);
 }
 
 /* Team */
@@ -1316,7 +1348,7 @@ path {
   text-align: center;
   font-size: 3.5em;
   color: #3c758c;
-  
+
 }
 .team .card {
   box-shadow: 0 0 2.4em rgba(25, 0, 58, 0.1);
@@ -1355,7 +1387,8 @@ path {
   min-width: 180px;
   margin: auto;
   display: flex;
-  justify-content: space-between;
+  gap: 28px;
+  justify-content: center;
 }
 .team .card a {
   text-decoration: none;
@@ -1544,6 +1577,24 @@ path {
   }
   .speaker-page .speaker img{
     width: 300px;
+  }
+}
+
+/* Remove all animations and transitions for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce),
+       (update: slow) {
+  *,
+  *:hover,
+  *:focus,
+  *:focus-visible,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+    transform: none !important;
+    scale: 1 !important;
   }
 }
 

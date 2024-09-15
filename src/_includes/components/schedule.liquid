@@ -7,73 +7,71 @@
           data-aos="fade-up"
           data-aos-duration="1000">Schedule</h2>
         <ul class="schedule-tabs-menu nav nav-pills" role="tablist" id="pills-tab">
-          {% for day in schedule %}
-        <li class="nav-item" role="tab">
-          <a
-          class="schedule-tab-link pt-2 {% if day.id == 'sep21' %}active{% endif %}"
-          id="pills-{{ day.id }}-tab"
-          data-bs-toggle="pill"
-          data-bs-target="#pills-{{ day.id }}"
-          type="button"
-          role="tab"
-          aria-controls="pills-{{ day.id }}"
-          aria-selected="{% if day.id == 'sep21' %}true{% else %}false{% endif %}">
-              <div class="subtitle schedule-tab">{{ day.description | capitalize }}</div>
-              <div class="schedule-tab-link-text schedule-tab">{{ day.title }}</div>
-          </a>
-        </li>
-      {% endfor %}
-
+        {% for day in schedule %}
+          <li class="nav-item" role="tab">
+            <button
+            class="schedule-tab-link pt-2 {% if day.id == 'sep21' %}active{% endif %}"
+            id="pills-{{ day.id }}-tab"
+            data-bs-toggle="pill"
+            data-bs-target="#pills-{{ day.id }}"
+            type="button"
+            role="tab"
+            aria-controls="pills-{{ day.id }}"
+            aria-selected="{% if day.id == 'sep21' %}true{% else %}false{% endif %}">
+                <div class="subtitle schedule-tab">{{ day.description | capitalize }}</div>
+                <div class="schedule-tab-link-text schedule-tab">{{ day.title }}</div>
+            </button>
+          </li>
+        {% endfor %}
         </ul>
-          <div class="tab-content" id="pills-tabContent">
-            {% for day in schedule %}
-            {% assign eventType = day.type %}
-              <div
-                class="tab-pane fade {% if day.id == 'sep21' %}show active{% endif %}"
-                id="pills-{{ day.id }}"
-                role="tabpanel"
-                aria-labelledby="pills-{{ day.id }}-tab">
-                <ul class="list pt-4 pb-4 mt-2" style="display: grid; grid-template-columns: repeat(4, 1fr); list-style:none; justify-items: center; font-size: 1.2em; background-color: rgba(237, 40, 30, 0.2); font-weight: 400;">
-                  <li>Track 1</li>  
-                  <li>Track 2</li>  
-                  <li>Track 3</li>  
-                  <li>Open Spaces</li>  
-                </ul>
-                <!-- Schedule Table for the Day -->
-                <div class="tab-con pt-5 mt-3">
-                  <div class="schedule schedule-container">
-                  {% for session in day.schedule %}
-                      {% if session.tracks.length == 1 %}
-                          <div class="schedule__card card" style="grid-column: 1 / 5;">
-                            <div class="card-body">
-                                <h5 class="card-title">{{session.tracks[0].title}}</h5>
-                                <h6 class="card-subtitle mb-2 text-muted">{{session.start_time}} - {{session.end_time}}</h6>
-                                {% if track.link %}
-                                  <a href={{session.tracks[0].link}} class="card-link">Talk details <span class="fa fa-arrow-right"></span></a>
-                                {% endif %}
-                            </div>
-                          </div>
-                      {% else %}
-                      <div class="schedule__row" style="grid-column: 1/5; grid-template-columns: repeat({{session.tracks.length}}, 1fr)">
-                        {% for track in session.tracks %}
-                              <div class="schedule__card card" style="text-align: left;">
-                                <div class="card-body">
-                                  <h5 class="card-title">{{track.title}}</h5>
-                                  <h6 class="card-subtitle mb-2 text-muted">{{session.start_time}} - {{session.end_time}}</h6>
-                                  {% if track.link %}
-                                    <a href={{track.link}} target="_blank" rel="noopener noreffer" class="card-link">Talk details</a>
-                                  {% endif %}
-                                  </div>
-                                </div>
-                        {% endfor %}
-                      </div>
-                      {% endif %}
-                    {% endfor %}
+        <div class="tab-content" id="pills-tabContent">
+          {% for day in schedule %}
+          {% assign eventType = day.type %}
+            <div
+              class="tab-pane fade {% if day.id == 'sep21' %}show active{% endif %}"
+              id="pills-{{ day.id }}"
+              role="tabpanel"
+              aria-labelledby="pills-{{ day.id }}-tab">
+              <ul class="list pt-4 pb-4 mt-2" style="display: grid; grid-template-columns: repeat(4, 1fr); list-style:none; justify-items: center; font-size: 1.2em; background-color: rgba(237, 40, 30, 0.2); font-weight: 400;">
+                <li>Track 1</li>
+                <li>Track 2</li>
+                <li>Track 3</li>
+                <li>Open Spaces</li>
+              </ul>
+              <!-- Schedule Table for the Day -->
+              <div class="tab-con pt-5 mt-3">
+                <div class="schedule schedule-container">
+                {% for session in day.schedule %}
+                  {% if session.tracks.length == 1 %}
+                  <div class="schedule__card card" style="grid-column: 1 / 5;">
+                    <div class="card-body">
+                        <h5 class="card-title">{{session.tracks[0].title}}</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">{{session.start_time}} - {{session.end_time}}</h6>
+                        {% if track.link %}
+                          <a href={{session.tracks[0].link}} class="card-link">Talk details <span class="fa fa-arrow-right"></span></a>
+                        {% endif %}
                     </div>
+                  </div>
+                  {% else %}
+                  <div class="schedule__row" style="grid-column: 1/5; grid-template-columns: repeat({{session.tracks.length}}, 1fr)">
+                    {% for track in session.tracks %}
+                          <div class="schedule__card card" style="text-align: left;">
+                            <div class="card-body">
+                              <h5 class="card-title">{{track.title}}</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">{{session.start_time}} - {{session.end_time}}</h6>
+                              {% if track.link %}
+                                <a href={{track.link}} target="_blank" rel="noopener noreffer" class="card-link">Talk details</a>
+                              {% endif %}
+                              </div>
+                            </div>
+                    {% endfor %}
+                  </div>
+                  {% endif %}
+                {% endfor %}
                 </div>
               </div>
-            {% endfor %}
-          </div>
+            </div>
+          {% endfor %}
         </div>
       </div>
     </div>
