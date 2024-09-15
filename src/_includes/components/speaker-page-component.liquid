@@ -8,7 +8,24 @@
             <div class="speaker-details">
                 <h1 class="speakerheading title-3 mb-2">{{speaker.name}}</h1>
                 <h4 class="fs-5 mt-2 mb-2 text-muted">{{speaker.tagline}}</h4>
-                <p class="fs-5 pt-4 text-start mb-2 mt-2 fw-bold">About</p>
+                <div class="speaker-socials mt-4">
+                {% for social in speaker.socials %}
+                    <a href="{{social[1]}}" 
+                    class="text-decoration-none text-reset d-inline-block me-3" 
+                    target="_blank" 
+                    rel="noopener noreffer" 
+                    title="social link for {{social[0]}} - {{social[1]}}">
+                        <span class="">
+                            {% if social[0] != "other" %}
+                                <i class="fa-brands fa-{{social[0]}} fs-2"></i>
+                            {% comment %} {% else %}
+                                <i class="fa fa-link fs-2"></i> {% endcomment %}
+                            {% endif %}
+                        </span>
+                    </a>
+                {% endfor %}
+                </div>
+                <p class="fs-5 pt-2 text-start mb-2 mt-2 fw-bold">About</p>
                 <p class="fs-4 lead ">
                     {{speaker.bio}}
                 </p>
