@@ -623,8 +623,7 @@ thead th {
   padding: 20px 20px 0 20px !important;
   background: #fff url("../image/key-bg-2.png") no-repeat !important;
   background-position: bottom center !important;
-  min-height: 208px !important;
-  height: 380px;
+  min-height: 380px !important;
 }
 .speaker-laybox:hover {
   background: #fff url("../image/key-bg.png") no-repeat !important;
@@ -641,8 +640,9 @@ thead th {
   object-fit: cover;
 }
 .speakerheading-boxed {
-  font-size: 15px;
+  font-size: clamp(1.125rem, 0.8207rem + 1.5217vw, 2rem);
   font-weight: 600;
+  color: #25627e;
 }
 .speakerpara-boxed {
   font-size: 14px;
@@ -1217,7 +1217,7 @@ path {
     padding: 20px 5px 0 5px !important;
   }
   .speakerpara-boxed {
-    padding: 0 15px !important;
+    padding: 0 15px;
   }
   .tab-box .nav .nav-link {
     padding: 12px 28px !important;
