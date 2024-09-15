@@ -45,13 +45,13 @@
                     Keynote
                   </h5>
                 {% endif %}
-                <div class="card-body">
-                  <h5 class="card-title">{{session.tracks[0].title}}</h5>
+                  <div class="card-body">
+                    <h5 class="card-title">{{session.tracks[0].title}}</h5>
                     <h6 class="card-subtitle mt-2 mb-2 text-muted fs-5">{{session.start_time}} - {{session.end_time}}</h6>
                   </div>
-                  {% if track.link %}
+                {% if track.link %}
                   </a>
-                  {% endif %}
+                {% endif %}
                 </div>
                 {% else %}
                 <div class="schedule__row"
@@ -60,7 +60,7 @@
                   <div class="schedule__card card" style="text-align: left;">
                      {% comment %} conditional anchor tag {% endcomment %}
                     {% if track.link %}
-                      <a href="{{session.tracks[0].link}}" class="text-reset text-decoration-none stretched-link" target="_blank" rel="noopener noreffer">
+                      <a href="{{ track.link }}" class="text-reset text-decoration-none stretched-link" target="_blank" rel="noopener noreffer">
                     {% endif %}
                     {% if session.tracks[0].type == "keynote" %}
                       <h5 class="card-header bg-warning">
