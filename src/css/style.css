@@ -1383,7 +1383,8 @@ path {
   min-width: 180px;
   margin: auto;
   display: flex;
-  justify-content: space-between;
+  gap: 28px;
+  justify-content: center;
 }
 .team .card a {
   text-decoration: none;

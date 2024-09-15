@@ -15,11 +15,11 @@
                         <h3>{{ member.name }}</h3>
                         <p>{{ member.intro  }}</p>
                         <div class="icons">
-                            {% if member.x.length > 0 %}<a href="{{ member.x }}"><i class="fa fa-brands fa-x-twitter"></i></a>{% endif %}
-                            {% if member.linkedin.length > 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-brands fa-linkedin-in"></i></a>{% endif %}
-                            {% if member.mastodon.length > 0 %}<a href="{{ member.mastodon }}"><i class="fa fa-brands fa-mastodon"></i></a>{% endif %}
-                            {% if member.instagram.length > 0 %}<a href="{{ member.instagram }}"><i class="fa fa-brands fa-instagram"></i></a></li>{% endif %}
-                            {% if member.website.length > 0 %}<a href="{{ member.website }}"><i class="fa fa-solid fa-globe"></i></a>{% endif %}
+                            {% if member.x.length > 0 %}<a href="{{ member.x }}" aria-label="Twitter"><i class="fa fa-brands fa-x-twitter"></i></a>{% endif %}
+                            {% if member.linkedin.length > 0 %}<a href="{{ member.linkedin }}" aria-label="Linkedin"><i class="fa fa-brands fa-linkedin-in"></i></a>{% endif %}
+                            {% if member.mastodon.length > 0 %}<a href="{{ member.mastodon }}" aria-label="Mastodon"><i class="fa fa-brands fa-mastodon"></i></a>{% endif %}
+                            {% if member.instagram.length > 0 %}<a href="{{ member.instagram }}" aria-label="Instagram"><i class="fa fa-brands fa-instagram"></i></a></li>{% endif %}
+                            {% if member.website.length > 0 %}<a href="{{ member.website }}" aria-label="Website"><i class="fa fa-solid fa-globe"></i></a>{% endif %}
                         </div>
                     </div>
                 </div>
