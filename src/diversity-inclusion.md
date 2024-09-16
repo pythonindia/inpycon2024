@@ -3,8 +3,6 @@ layout: content.liquid
 title: Diversity & Inclusion
 ---
 
-Diversity & Inclusion
-
 # PyCon India 2024: Fostering Diversity and Inclusion
 
 *This page will be regularly updated with new information and resources. We invite you to visit it frequently to stay updated on our accessibility initiatives.*
