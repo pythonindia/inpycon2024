@@ -7,13 +7,13 @@
             </div>
             <div class="speaker-details">
                 <h1 class="speakerheading title-3 mb-2">{{speaker.name}}</h1>
-                <h4 class="fs-5 mt-2 mb-2 text-muted">{{speaker.tagline}}</h4>
+                <p class="h4 fs-5 mt-2 mb-2 text-muted">{{speaker.tagline}}</p>
                 <div class="speaker-socials mt-4">
                 {% for social in speaker.socials %}
-                    <a href="{{social[1]}}" 
-                    class="text-decoration-none text-reset d-inline-block me-3" 
-                    target="_blank" 
-                    rel="noopener noreffer" 
+                    <a href="{{social[1]}}"
+                    class="text-decoration-none text-reset d-inline-block me-3"
+                    target="_blank"
+                    rel="noopener noreffer"
                     title="social link for {{social[0]}} - {{social[1]}}">
                         <span class="">
                             {% if social[0] != "other" %}
@@ -29,8 +29,8 @@
                 <p class="fs-4 lead ">
                     {{speaker.bio}}
                 </p>
-                <h5 class="fs-3 mt-2 pt-2 text-start p-8"><span
-                        class="p-4 badge bg-warning text-dark text-wrap lh-base">{{speaker.talkTitle}}</span></h5>
+                <div class="h5 fs-3 mt-2 pt-2 text-start p-8"><span
+                        class="p-4 badge bg-warning text-dark text-wrap lh-base">{{speaker.talkTitle}}</span></div>
 
             </div>
         </div>
