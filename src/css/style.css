@@ -1042,6 +1042,9 @@ path {
     width: 100% !important;
     text-align: center !important;
   }
+  .navbar-collapse ul li.dropdown .dropdown-toggle {
+    margin: 0 auto;
+  }
   .horizontal-scrolling-items__item ul li p {
     font-size: 70px !important;
   }
