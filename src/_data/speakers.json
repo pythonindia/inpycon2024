@@ -465,5 +465,59 @@
       "twitter": "https://x.com/anujmenta",
       "instagram": "https://www.instagram.com/anujmenta/"
     }
+  },
+  {
+    "name": "Pradeek J",
+    "talkTitle": "How HappyFox uses Python and LLMs to develop enterprise software at scale",
+    "bio": "Pradeek started his journey at HappyFox  around 12 years ago and now leads the Engineering team in building multiple B2B SaaS products. He is passionate about building great products and tech that's fun to build and delights customers.",
+    "pronouns": "He/Him",
+    "tagline": "Chief Technology Officer, HappyFox",
+    "talkCategory": "Talk",
+    "socials": {}
+  },
+  {
+    "name": "Shoaib Ahmed",
+    "talkTitle": "AI deployments - No Regressions. No Regrets.",
+    "bio": "Shoaib is a Senior Software Engineer at Abnormal Security, where he has been contributing for the past year and a half. He is an integral part of the Inbound Data Team, responsible for developing the integration platform that pulls data from various SaaS platforms like Microsoft, Slack, Okta, and Zoom. Before joining Abnormal Security, Shoaib co-founded a company in the productivity space, dedicated to helping individuals gain better control of their time. He successfully ran this company for two years before deciding to move on. Prior to his entrepreneurial venture, Shoaib gained valuable experience working in Industrial IoT during his various roles at General Electric. Outside of work, Shoaib enjoys photography and playing badminton. He is also the proud father of two cats.",
+    "pronouns": "He/Him",
+    "tagline": "Senior Software Engineer",
+    "talkCategory": "Talk",
+    "socials": {}
+  },
+  {
+    "name": "Harikrishnan Subramanian",
+    "talkTitle": "AI deployments - No Regressions. No Regrets.",
+    "bio": "HariKrishnan Subramanian is a seasoned engineering leader with over a decade of experience. He currently works as a Senior Engineer at Abnormal Security, where he leads the Testing Automation Platform building tools like Automated Canary Analysis, test data simulators for safer and faster deployments. Previously, he led team at Unacademy and contributed to startups in logistics, e-commerce, and marketing automation. With deep expertise in Python, cloud infrastructure, and system architecture, HariKrishnan also actively writes technical blogs and contributes to open-source projects. He is passionate about mentoring teams and building scalable backend solutions.",
+    "pronouns": "He/Him",
+    "tagline": "Senior Software Engineer",
+    "talkCategory": "Talk",
+    "socials": {}
+  },
+  {
+    "name": "Nadheesh Jihan",
+    "talkTitle": "From Code to Production: Building Scalable GenAI Applications",
+    "bio": "Nadheesh Jihan is a Technical Lead at the WSO2 AI Team, where he has been instrumental for over six years.  With a solid background in Machine Learning (ML), Artificial Intelligence (AI), and Generative AI (GenAI), Nadheesh focuses on designing and building production-ready AI systems. He has extensive experience using Python to create scalable applications and is skilled at leveraging Python's ecosystem for effective AI solutions.",
+    "pronouns": "He/Him",
+    "tagline": "Technical Lead, WSO2",
+    "talkCategory": "Talk",
+    "socials": {}
+  },
+  {
+    "name": "Aakash Kaushik",
+    "talkTitle": "Tune Assistant makes LLMs Smarter",
+    "bio": "Aakash Kaushik is a software engineer with expertise in generative AI, machine learning systems, and infrastructure deployment solutions at tune. He also contributes to open-source projects and has published research on mlpack 4 in the Journal of Open Source Software.",
+    "pronouns": "He/Him",
+    "tagline": "Software Engineer 3",
+    "talkCategory": "Talk",
+    "socials": {}
+  },
+  {
+    "name": "Priya Sridharan",
+    "talkTitle": "Tune Assistant makes LLMs Smarter",
+    "bio": "Priya Sridharan is a Software Engineer at Tune AI, specializing in backend development with gRPC and Go. She brings experience in MLOps and developer experience management, Priya's background includes research in IoT and ML applications, encompassing facial recognition systems and IoT implementations for activity tracking.",
+    "pronouns": "He/Him",
+    "tagline": "Software Engineer 2",
+    "talkCategory": "Talk",
+    "socials": {}
   }
 ]
