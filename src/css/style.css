@@ -1467,7 +1467,6 @@ path {
   border: none;
   background-color: rgba(0, 0, 0, 0);
   border-bottom: 4px solid rgba(0, 0, 0, 0);
-  padding-bottom: 20px;
   padding-left: 38px;
   padding-right: 38px;
   font-weight: 500;
@@ -1492,7 +1491,6 @@ path {
   color: #1a1a1a;
   background-color: #c7ece5;
   border-bottom: 4px solid #205d7a;
-  padding-bottom: 20px;
   transition: color .3s;
 }
 
@@ -1578,13 +1576,28 @@ path {
 
 
 @media only screen and (max-width: 768px){
+  .schedule-tabs-menu{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+  }
+  .schedule-tabs-menu .nav-item{
+    display: block;
+  }
+  .schedule-tab-link{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .subtitle.schedule-tab {
+    font-size: 12px;
+  }
+  .schedule-tab-link-text {
+    font-size: 16px;
+  }
   .schedule.schedule-container .schedule__row{
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-  }
-  .schedule.schedule-container .schedule__card{
-    text-align: center !important;
   }
 }
 

@@ -1,8 +1,9 @@
 [
   {
     "id": "sep20",
-    "title": "September 20th | Friday",
-    "description": "Workshop",
+    "title": "Sept. 20th",
+    "day": "Friday",
+    "description": "Workshop Day",
     "type": "workshop",
     "trackLabels": ["Track 1", "Track 2", "Track 3", "Open Spaces"],
     "schedule": [
@@ -72,7 +73,8 @@
   },
   {
     "id": "sep21",
-    "title": "September 21st | Saturday",
+    "title": "Sept. 21st",
+    "day": "Saturday",
     "description": "CONFERENCE DAY 1",
     "type": "conference",
     "trackLabels": ["Track 1", "Track 2", "Track 3", "Open Spaces"],
@@ -284,7 +286,8 @@
   },
   {
     "id": "sep22",
-    "title": "September 22nd | Sunday",
+    "title": "Sept. 22nd",
+    "day": "Sunday",
     "description": "CONFERENCE DAY 2",
     "type": "conference",
     "trackLabels": ["Track 1", "Track 2", "Track 3", "Open Spaces"],

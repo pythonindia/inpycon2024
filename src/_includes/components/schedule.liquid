@@ -1,6 +1,6 @@
-<section class="schedule pb-0 pb-md-5 pt-2" id="schedule">
-  <div class="container pt-5">
-    <div class="row pt-5 pb-5 justify-content-center">
+<section class="schedule pb-0 pb-md-5 pb-sm-3 pt-2" id="schedule">
+  <div class="container pt-md-5 pt-3">
+    <div class="row pt-md-5 pb-md-5 pt-2 pb-4 justify-content-center">
       <div class="col-md-12">
         <h1 class="title-1 h2 text-center mb-5" data-aos="fade-up" data-aos-duration="1000">Schedule</h1>
         <ul class="schedule-tabs-menu nav nav-pills" role="tablist" id="pills-tab">
@@ -15,20 +15,22 @@
             role="tab"
             aria-controls="pills-{{ day.id }}"
             aria-selected="{% if day.id == 'sep21' %}true{% else %}false{% endif %}">
-                <div class="subtitle schedule-tab">{{ day.description | capitalize }}</div>
+                <div class="subtitle schedule-tab d-none d-md-block">{{ day.description | capitalize }}</div>
                 <h2 class="schedule-tab-link-text schedule-tab">{{ day.title }}</h2>
+                <div class="subtitle schedule-tab">{{ day.day }}</div>
             </button>
           </li>
         {% endfor %}
         </ul>
         <div class="tab-content" id="pills-tabContent">
           {% for day in schedule %}
-          {% assign eventType = day.type %}
-          {% assign trackLabels = day.trackLabels %}
-          <div class="tab-pane fade {% if day.id == 'sep21' %}show active{% endif %}" id="pills-{{ day.id }}"
+            {% assign eventType = day.type %}
+            {% assign trackLabels = day.trackLabels %}
+            <div class="tab-pane fade {% if day.id == 'sep21' %}show active{% endif %}" id="pills-{{ day.id }}"
             role="tabpanel" aria-labelledby="pills-{{ day.id }}-tab">
             <!-- Schedule Table for the Day -->
-            <div class="tab-con pt-5 mt-3">
+            <h6 class="mt-4 d-block d-sm-none">{{day.description}}</h6>
+            <div class="tab-con pt-md-4 pt-2 mt-2">
               <div class="schedule schedule-container">
                 {% for session in day.schedule %}
                 {% if session.tracks.length == 1 %}
@@ -60,7 +62,7 @@
                   <div class="schedule__card card card-{{trackLabels[forloop.index0] | slugify}}" style="text-align: left;">
                      {% comment %} conditional anchor tag {% endcomment %}
                     {% if track.link %}
-                      <a href="{{ track.link }}" class="text-reset text-decoration-none stretched-link" target="_blank" rel="noopener noreffer">
+                      <a href="{{ track.link }}" class="d-flex text-reset text-decoration-none stretched-link" target="_blank" rel="noopener noreffer">
                     {% endif %}
                     {% if session.tracks[0].type == "keynote" %}
                       <span class="card-header bg-warning">
@@ -69,7 +71,7 @@
                     {% endif %}
                     <article class="card-body">
                       <div class="card-meta mt-2 mb-4 d-flex align-items-center justify-content-between">
-                        <span class="h6 card-subtitle text-muted fs-5">{{session.start_time}} - {{session.end_time}}</span>
+                        <span class="h6 card-subtitle text-muted fs-5"><i class="fa fa-clock"></i>{{session.start_time}} - {{session.end_time}}</span>
                         <span class="badge">{{trackLabels[forloop.index0]}}</span>
                       </div>
                       <h3 class="h5 card-title">{{track.title}}</h3>
@@ -78,8 +80,10 @@
                       {% for speaker in session_speakers %}
                         <div class="speaker mt-4">
                           <img src="/image/speakers/{{ speaker.name | slugify}}.jpg" onerror="this.onerror=null;this.src='/image/Group%204790.svg';this.style.objectFit='contain';"
-                class="speaker-img " width="240" alt="" loading="lazy">
-                          {{ speaker.name }}
+                class="speaker-img me-2" width="240" alt="" loading="lazy">
+                          <span>
+                            {{ speaker.name }}
+                          </span>
                         </div>
                       {% endfor %}
                       </div>
