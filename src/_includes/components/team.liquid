@@ -1,14 +1,14 @@
 <!-- team -->
 <section class="team" id="team">
     <div class="container">
-        <div class="row align-items-center p-2 p-md-0">
-            <div class="col-md-12 pt-5 pt-md-0 pb-5">
-                <h2 class="title-2 text-center pb-5" data-aos="fade-up" data-aos-duration="1000">The Team</h2>
-            </div>
+        <details class="row align-items-center p-2 p-md-0" open>
+            <summary class="col-md-12 pt-5 pt-md-0 pb-5 mb-5">
+                <h2 class="title-2 text-center" data-aos="fade-up" data-aos-duration="1000">{{ heading }}</h2>
+            </summary>
             <div class="row">
             {% for member in team %}
                 <div class="column">
-                    <div class="card">
+                    <div class="card h-100">
                         <div class="img-container">
                         <img src="{{ member.image }}" alt="{{ member.name }}" />
                         </div>
@@ -25,14 +25,6 @@
                 </div>
             {% endfor %}
             </div>
-        </div>
-        <div class="row justify-content-center pt-5 pb-5 mt-md-5">
-            {% comment %} <div class="col-lg-3  col-md-5 col-12 mb-5 mb-md-0 text-center text-md">
-                <div class="ticket-btnlay"><a href="#">Become a Volunteer</a> </div>
-            </div> {% endcomment %}
-            <div class="col-lg-3 col-md-5 col-12 mb-5 mb-md-0 text-center text-md">
-                <div class="ticket-btnlay"><a href="https://pyconindia.zulipchat.com/" target="_blank" rel="noopener noreferrer">Join PyCon India Zulip</a></div>
-            </div>
-        </div>
+        </details>
     </div>
 </section>
