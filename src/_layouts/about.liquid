@@ -20,12 +20,8 @@ title: About PyCon India 2024
 {% render "components/team.liquid", team: team, heading: "Team" %}
 {% endif %}
 
-{% if mentors %}
-{% render "components/team.liquid", team: mentors, heading: "Mentors" %}
-{% endif %}
-
-{% if reviewers %}
-{% render "components/team.liquid", team: reviewers, heading: "Reviewers" %}
+{% if mentorsreviewers %}
+{% render "components/team.liquid", team: mentorsreviewers, heading: "Mentors & Reviewers" %}
 {% endif %}
 
 <div class="team row justify-content-center pt-5 pb-5 ">
