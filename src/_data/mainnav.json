@@ -1,0 +1,102 @@
+[
+    {
+        "name": "About",
+        "type": "dropdown",
+        "innerLinks": [
+            {
+                "name": "Our Team",
+                "link": "/about/"
+            },
+            {
+                "name": "FAQ",
+                "link": "/faq/"
+            },
+            {
+                "name": "Health & Safety",
+                "link": "/health-safety-guidelines/"
+            },
+            {
+                "name": "Scholarships",
+                "link": "/scholarship/"
+            },
+            {
+                "name": "Diversity & Inclusions",
+                "link": ""
+            },
+            {
+                "name": "Jobs Board",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "name": "Schedule",
+        "link": "/schedule/"
+    },
+    {
+        "name": "Venue",
+        "type": "dropdown",
+        "innerLinks": [
+            {
+                "name": "About Venue",
+                "link": ""
+            },
+            {
+                "name": "About Bengaluru",
+                "link": "/bengaluru/"
+            },
+            {
+                "name": "Accessibility",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "name": "Program",
+        "type": "dropdown",
+        "innerLinks": [
+            {
+                "name": "Program Guide",
+                "link": ""
+            },
+            {
+                "name": "Speakers",
+                "link": "/speakers/"
+            },
+            {
+                "name": "Lightning Talk",
+                "link": ""
+            },
+            {
+                "name": "BoF & Posters",
+                "link": ""
+            },
+            {
+                "name": "Devsprint",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "name": "Sponsors",
+        "link": "/#sponsors"
+    },
+    {
+        "name": "CoC",
+        "type": "dropdown",
+        "innerLinks": [
+            {
+                "name": "Code of Conduct policy",
+                "link": "/code-of-conduct/"
+            },
+            {
+                "name": "Reporting Guide",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "name": "Blog",
+        "link": "https://in.pycon.org/blog/"
+    }
+]
