@@ -64,11 +64,15 @@
                 "link": "/speakers/"
             },
             {
-                "name": "Lightning Talk",
-                "link": ""
+                "name": "Lightning Talks",
+                "link": "/lightning-talks/"
             },
             {
                 "name": "BoF & Posters",
+                "link": ""
+            },
+            {
+                "name": "Open Spaces",
                 "link": ""
             },
             {
