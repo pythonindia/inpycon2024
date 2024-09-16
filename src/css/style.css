@@ -1337,11 +1337,12 @@ path {
   display: flex;
   flex-wrap: wrap;
   text-align: center;
+  align-items: stretch;
 }
 .team .column {
   width: 100%;
-  padding: 0.5em 0;
   margin: 1rem 0;
+  flex: 1 1 50%;
 }
 .team h1 {
   width: 100%;
@@ -1352,7 +1353,7 @@ path {
 }
 .team .card {
   box-shadow: 0 0 2.4em rgba(25, 0, 58, 0.1);
-  padding: 3.5em 1em;
+  padding: 1em;
   border-radius: 0.6em;
   color: #3c758c;
   cursor: pointer;
@@ -1378,8 +1379,6 @@ path {
 }
 .team .card p {
   font-weight: 300;
-  /* text-transform: uppercase; */
-  margin: 0.5em 0 2em 0;
   letter-spacing: 2px;
 }
 .team .icons {
@@ -1398,14 +1397,13 @@ path {
 .team .card:hover {
   /* background: linear-gradient(#ee6945, #fc8260); */
   /* color: #3c758c; */
-  scale: 1.1;
-  border-color: #ee6945;
+  scale: 1.02;
 }
 .team .card:hover img {
   filter: none;
 }
 .team .card:hover .img-container {
-  transform: scale(1.5);
+  transform: scale(1.2);
 }
 @media screen and (min-width: 768px) {
   .team section {
@@ -1413,16 +1411,10 @@ path {
   }
 }
 @media screen and (min-width: 992px) {
-  .team section {
-    padding: 1em;
-  }
-  .team .card {
-    padding: 5em 1em;
-  }
   .team .column {
-    flex: 0 0 33.33%;
+    flex: 1 1 24%;
     max-width: 33.33%;
-    padding: 0 1em;
+    padding: 0 0.75em;
   }
 }
 
