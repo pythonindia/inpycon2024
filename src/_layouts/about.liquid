@@ -16,4 +16,23 @@ title: About PyCon India 2024
     </div>
 </section>
 
-{% include "components/team.liquid" %}
+{% if team %}
+{% render "components/team.liquid", team: team, heading: "Team" %}
+{% endif %}
+
+{% if mentors %}
+{% render "components/team.liquid", team: mentors, heading: "Mentors" %}
+{% endif %}
+
+{% if reviewers %}
+{% render "components/team.liquid", team: reviewers, heading: "Reviewers" %}
+{% endif %}
+
+<div class="team row justify-content-center pt-5 pb-5 ">
+    {% comment %} <div class="col-lg-3  col-md-5 col-12 mb-5 mb-md-0 text-center text-md">
+        <div class="ticket-btnlay"><a href="#">Become a Volunteer</a> </div>
+    </div> {% endcomment %}
+    <div class="col-lg-3 col-md-5 col-12 mb-5 mb-md-0 text-center text-md">
+        <div class="ticket-btnlay"><a href="https://pyconindia.zulipchat.com/" target="_blank" rel="noopener noreferrer">Join PyCon India Zulip</a></div>
+    </div>
+</div>

@@ -1333,6 +1333,24 @@ path {
   background-color: #eff9f7;
 }
 
+.team details summary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+}
+.team details summary::after {
+  content: "expand";
+  font-size: 1.5rem;
+  background-color: #b8dfd8;
+  color: #0e5170;
+  padding: 0.25em 0.5em;
+  border-radius: 8px;
+}
+.team details[open] summary::after {
+  content: "collapse";
+}
+
 .team .row {
   display: flex;
   flex-wrap: wrap;
@@ -1376,6 +1394,7 @@ path {
 }
 .team .card h3 {
   font-weight: 500;
+  font-size: 1.5rem;
 }
 .team .card p {
   font-weight: 300;
