@@ -93,10 +93,6 @@ a.block-link {
   white-space: nowrap;
   width: 1px;
 }
-#pills-tab .nav-item button:focus {
-  border: 2px solid #ee6945;
-  outline: none !important;
-}
 .marquee-bg .container-fluid {
   overflow: hidden;
 }
@@ -1428,6 +1424,10 @@ path {
 
 /* schedule page styles */
 
+.schedule .bg-warning{
+  background-color: #ff724b !important;
+}
+
 .subtitle {
   color: #fff;
   letter-spacing: .16em;
@@ -1446,7 +1446,6 @@ path {
 }
 
 .schedule-tabs-menu{
-  border-bottom: 1px solid #f3f3f3;
   justify-content: center;
   display: flex;
   display: -webkit-flex;
@@ -1457,14 +1456,17 @@ path {
 .schedule-tabs-menu li{
   display: flex;
   display: -webkit-flex;
+  border: 1px solid #d1d5db;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px #DDD;
 }
 
 .schedule-tab-link {
   color: #4e4e4e;
   text-align: center;
+  border: none;
   background-color: rgba(0, 0, 0, 0);
   border-bottom: 4px solid rgba(0, 0, 0, 0);
-  padding-bottom: 20px;
   padding-left: 38px;
   padding-right: 38px;
   font-weight: 500;
@@ -1477,19 +1479,18 @@ path {
 .schedule-tab-link-text{
   color: #1a1a1a;
   letter-spacing: -.01em;
-  font-size: 24px;
+  font-size: 1.4em;
   line-height: 1.063em;
 }
 
 .schedule-tab-link:hover {
-  border-bottom-color: #ff724b;
+  border-bottom-color: #205d7a;
 }
 
 .schedule-tab-link.active {
   color: #1a1a1a;
-  background-color: rgba(255, 114, 75, 0.2);
-  border-bottom: 4px solid #ff724b;
-  padding-bottom: 20px;
+  background-color: #c7ece5;
+  border-bottom: 4px solid #205d7a;
   transition: color .3s;
 }
 
@@ -1521,14 +1522,82 @@ path {
   box-shadow: 0 1px 3px rgba(50, 53, 130, .08);
 }
 
+.schedule.schedule-container .card-subtitle {
+  color: #55636f !important;
+}
+
+.schedule.schedule-container .card-header {
+  font-weight: 700;
+}
+
+.schedule.schedule-container .badge {
+  font-size: 0.9em;
+}
+
+.schedule.schedule-container .bg-keynote,
+.schedule.schedule-container .card-track-1 .badge {
+  background-color: #25627e;
+}
+
+.schedule.schedule-container .card-track-1 {
+  border-top: 2px solid #25627e;
+}
+
+.schedule.schedule-container .card-track-2 {
+  border-top: 2px solid #e4623f;
+}
+
+.schedule.schedule-container .card-track-2 .badge {
+  background-color: #e4623f;
+}
+
+.schedule.schedule-container .card-track-3 {
+  border-top: 2px solid #318174;
+}
+
+.schedule.schedule-container .card-track-3 .badge {
+  background-color: #318174;
+}
+
+.schedule.schedule-container .card-open-spaces {
+  border-top: 2px solid #dd688a;
+}
+
+.schedule.schedule-container .card-open-spaces .badge {
+  background-color: #dd688a;
+}
+
+.schedule.schedule-container .schedule-speaker-container .speaker-img {
+  max-width: 48px;
+  border-radius: 8px;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
+
 @media only screen and (max-width: 768px){
+  .schedule-tabs-menu{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+  }
+  .schedule-tabs-menu .nav-item{
+    display: block;
+  }
+  .schedule-tab-link{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .subtitle.schedule-tab {
+    font-size: 12px;
+  }
+  .schedule-tab-link-text {
+    font-size: 16px;
+  }
   .schedule.schedule-container .schedule__row{
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-  }
-  .schedule.schedule-container .schedule__card{
-    text-align: center !important;
   }
 }
 

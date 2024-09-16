@@ -1,11 +1,8 @@
-<section class="schedule pb-0 pb-md-5 pt-2" id="schedule"></section>
-  <div class="container pt-5">
-    <div class="row pt-5 pb-5 justify-content-center">
+<section class="schedule pb-0 pb-md-5 pb-sm-3 pt-2" id="schedule">
+  <div class="container pt-md-5 pt-3">
+    <div class="row pt-md-5 pb-md-5 pt-2 pb-4 justify-content-center">
       <div class="col-md-12">
-        <h2
-          class="title-1 text-center mb-5"
-          data-aos="fade-up"
-          data-aos-duration="1000">Schedule</h2>
+        <h1 class="title-1 h2 text-center mb-5" data-aos="fade-up" data-aos-duration="1000">Schedule</h1>
         <ul class="schedule-tabs-menu nav nav-pills" role="tablist" id="pills-tab">
         {% for day in schedule %}
           <li class="nav-item" role="tab">
@@ -18,59 +15,90 @@
             role="tab"
             aria-controls="pills-{{ day.id }}"
             aria-selected="{% if day.id == 'sep21' %}true{% else %}false{% endif %}">
-                <div class="subtitle schedule-tab">{{ day.description | capitalize }}</div>
-                <div class="schedule-tab-link-text schedule-tab">{{ day.title }}</div>
+                <div class="subtitle schedule-tab d-none d-md-block">{{ day.description | capitalize }}</div>
+                <h2 class="schedule-tab-link-text schedule-tab">{{ day.title }}</h2>
+                <div class="subtitle schedule-tab">{{ day.day }}</div>
             </button>
           </li>
         {% endfor %}
         </ul>
         <div class="tab-content" id="pills-tabContent">
           {% for day in schedule %}
-          {% assign eventType = day.type %}
-            <div
-              class="tab-pane fade {% if day.id == 'sep21' %}show active{% endif %}"
-              id="pills-{{ day.id }}"
-              role="tabpanel"
-              aria-labelledby="pills-{{ day.id }}-tab">
-              <ul class="list pt-4 pb-4 mt-2" style="display: grid; grid-template-columns: repeat(4, 1fr); list-style:none; justify-items: center; font-size: 1.2em; background-color: rgba(237, 40, 30, 0.2); font-weight: 400;">
-                <li>Track 1</li>
-                <li>Track 2</li>
-                <li>Track 3</li>
-                <li>Open Spaces</li>
-              </ul>
-              <!-- Schedule Table for the Day -->
-              <div class="tab-con pt-5 mt-3">
-                <div class="schedule schedule-container">
+            {% assign eventType = day.type %}
+            {% assign trackLabels = day.trackLabels %}
+            <div class="tab-pane fade {% if day.id == 'sep21' %}show active{% endif %}" id="pills-{{ day.id }}"
+            role="tabpanel" aria-labelledby="pills-{{ day.id }}-tab">
+            <!-- Schedule Table for the Day -->
+            <h3 class="h6 mt-4 d-block d-sm-none">{{day.description}}</h3>
+            <div class="tab-con pt-md-4 pt-2 mt-2">
+              <div class="schedule schedule-container">
                 {% for session in day.schedule %}
-                  {% if session.tracks.length == 1 %}
-                  <div class="schedule__card card" style="grid-column: 1 / 5;">
-                    <div class="card-body">
-                        <h5 class="card-title">{{session.tracks[0].title}}</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">{{session.start_time}} - {{session.end_time}}</h6>
-                        {% if track.link %}
-                          <a href={{session.tracks[0].link}} class="card-link">Talk details <span class="fa fa-arrow-right"></span></a>
-                        {% endif %}
-                    </div>
+                {% if session.tracks.length == 1 %}
+
+                <div class="schedule__card card" style="grid-column: 1 / 5;">
+                {% comment %} conditional anchor tag {% endcomment %}
+                {% if track.link %}
+                  <a href="{{session.tracks[0].link}}" class="text-reset text-decoration-none stretched-link"
+                  target="_blank" rel="noopener noreferrer">
+                    <i class="fa fa-link"></i>
+                {% endif %}
+                {% if session.tracks[0].type == "keynote" %}
+                  <span class="card-header bg-keynote text-light">
+                    Keynote
+                  </span>
+                {% endif %}
+                  <div class="card-body">
+                    <h3 class="h5 card-title">{{session.tracks[0].title}}</h3>
+                    <p class="h6 card-subtitle mt-2 mb-2 text-muted fs-5">{{session.start_time}} - {{session.end_time}}</p>
                   </div>
-                  {% else %}
-                  <div class="schedule__row" style="grid-column: 1/5; grid-template-columns: repeat({{session.tracks.length}}, 1fr)">
-                    {% for track in session.tracks %}
-                          <div class="schedule__card card" style="text-align: left;">
-                            <div class="card-body">
-                              <h5 class="card-title">{{track.title}}</h5>
-                              <h6 class="card-subtitle mb-2 text-muted">{{session.start_time}} - {{session.end_time}}</h6>
-                              {% if track.link %}
-                                <a href={{track.link}} target="_blank" rel="noopener noreffer" class="card-link">Talk details</a>
-                              {% endif %}
-                              </div>
-                            </div>
-                    {% endfor %}
-                  </div>
-                  {% endif %}
-                {% endfor %}
+                {% if track.link %}
+                  </a>
+                {% endif %}
                 </div>
+                {% else %}
+                <div class="schedule__row"
+                  style="grid-column: 1/5; grid-template-columns: repeat({{session.tracks.length}}, 1fr)">
+                  {% for track in session.tracks %}
+                  <div class="schedule__card card card-{{trackLabels[forloop.index0] | slugify}}" style="text-align: left;">
+                     {% comment %} conditional anchor tag {% endcomment %}
+                    {% if track.link %}
+                      <a href="{{ track.link }}" class="d-flex text-reset text-decoration-none stretched-link h-100" target="_blank" rel="noopener noreffer">
+                    {% endif %}
+                    {% if session.tracks[0].type == "keynote" %}
+                      <span class="card-header bg-warning">
+                        Keynote
+                      </span>
+                    {% endif %}
+                    <article class="card-body">
+                      <div class="card-meta mt-2 mb-4 d-flex align-items-center justify-content-between">
+                        <span class="h6 card-subtitle text-muted fs-5">{{session.start_time}} - {{session.end_time}}</span>
+                        <span class="badge">{{trackLabels[forloop.index0]}}</span>
+                      </div>
+                      <h3 class="h5 card-title">{{track.title}}</h3>
+                      <div class="schedule-speaker-container d-flex flex-wrap gap-3">
+                      {% assign session_speakers = speakers | where: 'talkTitle', track.title %}
+                      {% for speaker in session_speakers %}
+                        <div class="speaker mt-4">
+                          <img src="/image/speakers/{{ speaker.name | slugify}}.jpg" onerror="this.onerror=null;this.src='/image/Group%204790.svg';this.style.objectFit='contain';"
+                class="speaker-img me-2" width="240" alt="" loading="lazy">
+                          <span>
+                            {{ speaker.name }}
+                          </span>
+                        </div>
+                      {% endfor %}
+                      </div>
+                    </article>
+                    {% if track.link %}
+                      </a>
+                    {% endif %}
+                  </div>
+                  {% endfor %}
+                </div>
+                {% endif %}
+                {% endfor %}
               </div>
             </div>
+          </div>
           {% endfor %}
         </div>
       </div>
