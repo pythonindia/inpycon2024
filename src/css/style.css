@@ -1686,3 +1686,23 @@ path {
   }
 }
 
+.gmap {
+  width: 450px;
+	height: 450px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	overflow:hidden;
+	position:relative;
+}
+
+.address {
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #222;
+}
+
+.explore-venue {
+  font-size: 20px;
+  color: #222;
+}
