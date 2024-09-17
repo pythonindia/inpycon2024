@@ -49,12 +49,13 @@ We are happy to host the PyLadies Lunch at PyCon India 2024, a special event for
 
 Your participation and support are crucial in making PyCon India 2024 a truly inclusive event. Here are some ways you can get involved:
 
-### Become a Mentor
-Share your knowledge and experience with others by becoming a mentor. This program is designed to support all members of our community, whether they're speaking or submitting a workshop for the first time or are seasoned speakers looking for feedback. Through this mentorship initiative, mentors can review slides, provide tips on presenting, and help guide participants to deliver successful talks and workshops at PyCon India 2024.
+### Mentorship Program
 
-We usually reach out to industry professionals and experts who have delivered multiple talks and workshops at various conferences, covering all the proposal categories mentioned in our Call for Proposals (CFP). These categories include Python in Platform Engineering, Artificial Intelligence and Machine Learning, Python on Hardware, Community, Core Python, Python in Education and Research, Python in Web and Applications, and more. Based on these categories, we identify suitable mentors and schedule sessions to support speakers who need guidance.
+Our mentorship program was designed to support all members of our community, whether they were speaking or submitting a workshop for the first time or seasoned speakers looking for feedback. This year, we successfully provided mentorship to many speakers, helping them refine their slides, improve their presentation skills, and deliver impactful talks and workshops at PyCon India 2024.
 
-If you're interested in becoming a mentor in the future, you can reach out to us by filling out the mentorship form with your experience and details. Our mentorship team reviews these applications and onboards individuals who can contribute to building a supportive learning environment for our community. This process helps ensure that each speaker has the tools and confidence needed to make their presentations a success.
+We reached out to industry professionals and experts who have delivered multiple talks and workshops at various conferences, covering the proposal categories mentioned in our Call for Proposals (CFP). These categories included Python in Platform Engineering, Artificial Intelligence and Machine Learning, Python on Hardware, Community, Core Python, Python in Education and Research, Python in Web and Applications, and more. Based on these categories, we identified suitable mentors and scheduled sessions to support speakers in need of guidance.
+
+If you’re interested in becoming a mentor in the future, keep an eye out for our next call for mentors. You can apply by filling out the mentorship form with your experience and details. Our mentorship team carefully reviews these applications to onboard individuals who can help build a supportive learning environment for our community, ensuring that every speaker has the tools and confidence needed to succeed.
 
 ### Volunteers
 Help us make PyCon India 2024 an event where everyone feels welcome and included. Volunteering is a great way to give back to the community and make a positive impact.
