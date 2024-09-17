@@ -68,4 +68,4 @@ We invite you to be a part of PyCon India 2024, where diversity is celebrated, a
 
 Let's make PyCon India 2024 a memorable and inspiring experience for all. Join us in building a community that truly reflects the diverse world we live in.
 
-For more details about our diversity and inclusion initiatives or to apply for scholarships, visit [PyCon India 2024](https://in.pycon.org/2024/). Let's create a space where every Pythonista can thrive!
+For more details about our diversity and inclusion initiatives, visit PyCon India 2024. We are proud to have provided scholarships to many individuals this year, supporting a community where every Pythonista can grow, connect, and inspire others!
