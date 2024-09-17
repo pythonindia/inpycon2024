@@ -79,8 +79,10 @@
                       {% assign session_speakers = speakers | where: 'talkTitle', track.title %}
                       {% for speaker in session_speakers %}
                         <div class="speaker mt-4">
-                          <img src="/image/speakers/{{ speaker.name | slugify}}.jpg" onerror="this.onerror=null;this.src='/image/Group%204790.svg';this.style.objectFit='contain';"
-                class="speaker-img me-2" width="240" alt="" loading="lazy">
+                          {% if speaker.name.length > 0 %}
+                          <img src="/image/speakers/{{ speaker.name | slugify}}.jpg" onerror="this.onerror=null;this.src='/image/id.png';this.style.objectFit='contain';"
+                class="speaker-img me-2" width="240" alt="" loading="lazy" />
+                          {% endif %}
                           <span>
                             {{ speaker.name }}
                           </span>
