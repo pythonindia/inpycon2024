@@ -48,6 +48,9 @@
                   </span>
                 {% endif %}
                   <div class="card-body">
+                    {% if session.tracks[0].image %}
+                    <img src="{{session.tracks[0].image}}" onerror="this.onerror=null;this.style.objectFit='contain';" class="speaker-img" width="48" alt="" loading="lazy" />
+                    {% endif %}
                     <h3 class="h5 card-title">{{session.tracks[0].title}}</h3>
                     <p class="h6 card-subtitle mt-2 mb-2 text-muted fs-5">{{session.start_time}} - {{session.end_time}}</p>
                   </div>

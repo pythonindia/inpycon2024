@@ -103,6 +103,7 @@
         "tracks": [
           {
             "title": "Kovid Goyal",
+            "image": "/image/keynotes/kovid.jpg",
             "type": "keynote"
           }
         ]
@@ -269,6 +270,7 @@
         "tracks": [
           {
             "title": "Usha Rengaraju",
+            "image": "/image/keynotes/usha.jpeg",
             "type": "keynote"
           }
         ]
@@ -316,6 +318,7 @@
         "tracks": [
           {
             "title": "Mars Lee",
+            "image": "/image/keynotes/mars.png",
             "type": "keynote"
           }
         ]
@@ -479,6 +482,7 @@
         "tracks": [
           {
             "title": "James Powell",
+            "image": "/image/keynotes/james.jpg",
             "type": "keynote"
           }
         ]
