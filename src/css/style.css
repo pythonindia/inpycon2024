@@ -613,6 +613,10 @@ thead th {
   padding: 15px 20% 0 20% !important;
   font-size: 15px;
 }
+.speaker-item {
+  flex: 1 1 23%;
+  min-width: 240px;
+}
 .speaker-laybox {
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   border-radius: 15px !important;
@@ -630,10 +634,11 @@ thead th {
   background-color: #ffbeac !important;
 }
 .speaker-laybox img {
-  height: 340px;
+  height: 240px;
   margin-top: -29% !important;
   border-radius: 10px !important;
   object-fit: cover;
+  aspect-ratio: 1;
 }
 .speakerheading-boxed {
   font-size: clamp(1.125rem, 0.8207rem + 1.5217vw, 2rem);
