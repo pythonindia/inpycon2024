@@ -19,7 +19,7 @@ At PyCon India 2024, we are committed to creating an environment that encourages
 
 To ensure that PyCon India 2024 is a welcoming experience for all, we are implementing several initiatives:
 
-### Diversity Scholarships
+### Scholarships
 We will provide scholarships to individuals from underrepresented groups who might otherwise face financial barriers to attending PyCon India. This includes support for conference registration, travel, and accommodation for students and others.  
 [Learn more about our scholarships](https://in.pycon.org/2024/scholarship/)
 
