@@ -1700,9 +1700,11 @@ path {
   box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.8);
 }
 
-.keynote-speaker img{
+.keynote-speaker img {
   border: none;
   width: 80px;
   height: auto;
   cursor: pointer;
+  aspect-ratio: 1;
+  object-fit: cover;
 }
