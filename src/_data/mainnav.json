@@ -21,7 +21,7 @@
             },
             {
                 "name": "Diversity & Inclusions",
-                "link": ""
+                "link": "/diversity-inclusion/"
             },
             {
                 "name": "Jobs Board",
@@ -48,6 +48,10 @@
             {
                 "name": "Accessibility",
                 "link": ""
+            },
+            {
+                "name": "Exhibitor Guide",
+                "link": "/exhibitor-guide/"
             }
         ]
     },
@@ -64,8 +68,8 @@
                 "link": "/speakers/"
             },
             {
-                "name": "Lightning Talk",
-                "link": ""
+                "name": "Lightning Talks",
+                "link": "/lightning-talks/"
             },
             {
                 "name": "Open Spaces & BoFs",
@@ -73,6 +77,10 @@
             },
             {
                 "name": "Posters",
+                "link": ""
+            },
+            {
+                "name": "Open Spaces",
                 "link": ""
             },
             {
