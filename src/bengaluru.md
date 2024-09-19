@@ -18,27 +18,6 @@ For those opting for train travel, Indian Railways offer services to Bengaluru f
 
 For more comprehensive travel information and options, please refer to the [Bengaluru Wiki Page](https://wikitravel.org/en/Bengaluru#Get_in).
 
-Going to the Conference Venue - NIMHANS Convention Center
----------
-
-The conference will be held at NIMHANS Convention Center, Bengaluru. Here are the different ways to reach the venue:
-
-**Via Namma Metro**
-- **From Green Line**: Disembark at South End Circle. From the metro station, you can either walk or take a short taxi ride to reach NIMHANS Convention Centre.
-- **From Red Line**: Disembark at LalBagh. From the metro station, you can either walk or take a short taxi ride to reach NIMHANS Convention Centre.
-
-For a list of stations on the Bengaluru Metro Green line, you can refer to [Wikipedia](https://en.wikipedia.org/wiki/Green_Line_(Namma_Metro)).
-
-For a list of stations on the Bengaluru Metro Red line, you can refer to [Wikipedia](https://en.wikipedia.org/wiki/Red_Line_(Namma_Metro)).
-
-
-**Via Bus**
-- KIA-5D, get off at Jayanagar bus stand and NIMHANS is a few blocks away.
-- KIA-7 to Kormangala Water Tank which is 8 mins away from NIMHANS.
-
-We're excited to welcome you to PyCon India 2024 and hope you have a fantastic experience in Bengaluru! If you have any further inquiries or need assistance, feel free to contact us at [contact@in.pycon.org](mailto:contact@in.pycon.org).
-
-
 Accommodation
 -------
 **Assistance for Attendees**

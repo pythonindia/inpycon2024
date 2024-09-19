@@ -39,7 +39,7 @@
         "innerLinks": [
             {
                 "name": "About Venue",
-                "link": ""
+                "link": "/venue/"
             },
             {
                 "name": "About Bengaluru",
@@ -72,7 +72,11 @@
                 "link": "/lightning-talks/"
             },
             {
-                "name": "BoF & Posters",
+                "name": "Open Spaces & BoFs",
+                "link": ""
+            },
+            {
+                "name": "Posters",
                 "link": ""
             },
             {
