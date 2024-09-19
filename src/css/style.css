@@ -1441,7 +1441,7 @@ path {
 @media screen and (min-width: 992px) {
   .team .column {
     flex: 1 1 24%;
-    max-width: 33.33%;
+    max-width: 25%;
     padding: 0 0.75em;
   }
 }
@@ -1670,6 +1670,11 @@ path {
   }
   .speaker-page .speaker img{
     width: 300px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .speaker-item {
+    max-width: 25%;
   }
 }
 
