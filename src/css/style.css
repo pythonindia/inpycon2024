@@ -1056,7 +1056,7 @@ path {
   .footer-top {
     height: 46px !important;
   }
-  .title-2 {
+  .title-2:not(.venue-title) {
     height: 80px !important;
   }
   .nav-item {
@@ -1687,13 +1687,27 @@ path {
 }
 
 .gmap {
-  width: 450px;
 	height: 450px;
-	-moz-border-radius: 50%;
-	-webkit-border-radius: 50%;
-	border-radius: 50%;
+	-moz-border-radius: 1rem;
+	-webkit-border-radius: 1rem;
+	border-radius: 1rem;
 	overflow:hidden;
 	position:relative;
+  padding: 0;
+  border: 1px solid #0000001f;
+}
+
+.gmap > iframe {
+  width: 100%
+}
+
+img.venue-layout {
+  max-width: 100%;
+  height: auto;
+}
+
+.venue .postcard {
+  flex-wrap: wrap;
 }
 
 .address {
@@ -1828,11 +1842,6 @@ path {
   .postcard .postcard__tagbox {
     justify-content: start;
   }
-  .postcard .postcard__img {
-    max-width: 300px;
-    max-height: 100%;
-    transition: transform 0.3s ease;
-  }
   .postcard .postcard__text {
     padding: 3rem;
     width: 100%;
@@ -1865,6 +1874,9 @@ path {
   }
 }
 @media screen and (min-width: 1024px) {
+  .venue .postcard {
+    flex-wrap: nowrap;
+  }
   .postcard__text {
     padding: 2rem 3.5rem;
   }
@@ -1876,6 +1888,11 @@ path {
     top: -20%;
     height: 130%;
     width: 55px;
+  }
+  .postcard .postcard__img {
+    max-width: 300px;
+    max-height: 100%;
+    transition: transform 0.3s ease;
   }
 
   .postcard.dark .postcard__text:before {
