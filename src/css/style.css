@@ -640,6 +640,11 @@ thead th {
   object-fit: cover;
   aspect-ratio: 1;
 }
+
+.keynote-speaker-card .speaker-laybox img {
+  height: 340px;
+  aspect-ratio: auto;
+}
 .speakerheading-boxed {
   font-size: clamp(1.125rem, 0.8207rem + 1.5217vw, 2rem);
   font-weight: 600;
