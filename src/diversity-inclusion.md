@@ -23,9 +23,12 @@ To ensure that PyCon India 2024 is a welcoming experience for all, we are implem
 We will provide scholarships to individuals from underrepresented groups who might otherwise face financial barriers to attending PyCon India. This includes support for conference registration, travel, and accommodation for students and others.  
 [Learn more about our scholarships](https://in.pycon.org/2024/scholarship/)
 
-### Accessible Venue
-We have chosen a venue that is accessible for all, including those with mobility impairments. We are committed to making PyCon India 2024 a comfortable and enjoyable experience for everyone.  
-[Venue Information](https://in.pycon.org/2024/bengaluru/)
+### Accessiblility
+We recognize accessibility as an important part of making the conference more inclusive. Even though it's not perfect, we have tried to take certain steps towards making the conference more accessible.
+
+- **Accessible Venue:** We have chosen a venue that is accessible for all, including those with mobility impairments. We are committed to making PyCon India 2024 a comfortable and enjoyable experience for everyone. [Venue Information](https://in.pycon.org/2024/venue/)
+- **Talks:** We have guided our speakers on how to deliver more accessible and inclusive talks. Though the talks won't have live-captioning, we will try our best to provide closed-captioning when the recorded talks are uploaded.
+- **Website:** We have aimed to make our website [Web Content Accessibility Guidelines 2.2](https://www.w3.org/TR/WCAG22/) compliant, making it accessible using various assistive technologies. If you noticed any errors, please [create an issue](https://github.com/pythonindia/inpycon2024/issues/new) regarding the same, and we will try our best to resolve it.
 
 ### Inclusive Content
 Our speaker lineup will reflect a wide range of perspectives and expertise. We encourage talk proposals from individuals across all experience levels and backgrounds, ensuring a diverse set of topics that cater to the interests of our community.
