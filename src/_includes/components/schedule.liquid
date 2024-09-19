@@ -48,6 +48,11 @@
                   </span>
                 {% endif %}
                   <div class="card-body">
+                    {% if session.tracks[0].image %}
+                      <div class="keynote-speaker">
+                        <img src="{{session.tracks[0].image}}" onerror="this.onerror=null;this.style.objectFit='contain';" class="speaker-img" width="48" alt="" loading="lazy" />
+                      </div>
+                    {% endif %}
                     <h3 class="h5 card-title">{{session.tracks[0].title}}</h3>
                     <p class="h6 card-subtitle mt-2 mb-2 text-muted fs-5">{{session.start_time}} - {{session.end_time}}</p>
                   </div>
@@ -79,8 +84,8 @@
                       {% assign session_speakers = speakers | where: 'talkTitle', track.title %}
                       {% for speaker in session_speakers %}
                         <div class="speaker mt-4">
-                          <img src="/image/speakers/{{ speaker.name | slugify}}.jpg" onerror="this.onerror=null;this.src='/image/Group%204790.svg';this.style.objectFit='contain';"
-                class="speaker-img me-2" width="240" alt="" loading="lazy">
+                          <img src="/image/speakers/{{ speaker.name | slugify}}.jpg" onerror="this.onerror=null;this.src='/image/id.png';this.style.objectFit='contain';"
+                class="speaker-img me-2" width="240" alt="" loading="lazy" />
                           <span>
                             {{ speaker.name }}
                           </span>

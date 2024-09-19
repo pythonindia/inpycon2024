@@ -2001,4 +2001,26 @@ path {
   .yellow:nth-child(2n)::before {
     background-image: linear-gradient(80deg, rgba(189, 187, 73, 0.1), transparent 50%);
   }
+
+.keynote-speaker {
+  width: 80px;
+  height: 80px;
+  margin: 0px auto;
+  position: relative;
+  border-radius: 10%;
+  overflow: hidden;
+  border-top: 1px solid #111;
+  border-bottom: 1px solid #fff;
+  background: #fff;
+  -webkit-box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.8);
+  box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.8);
+}
+
+.keynote-speaker img {
+  border: none;
+  width: 80px;
+  height: auto;
+  cursor: pointer;
+  aspect-ratio: 1;
+  object-fit: cover;
 }
