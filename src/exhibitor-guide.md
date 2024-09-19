@@ -30,13 +30,13 @@ title: PyCon India 2024 Exhibitor's Guide
 - **Venue:** [NIMHANS Convention Centre, Bengaluru](https://maps.app.goo.gl/d1pH6D5JEUgm9HyD9)
 - **Important Dates for Exhibitors:**
   - **Exhibitor Move-In:** 
-    - Friday, 20th September 2024: 18:00 hrs
-    - Saturday, 21st September 2024: 7:00 hrs
+    - Friday, 20th September 2024: 09:00 AM to 06:00 PM
+    - Saturday, 21st September 2024: 7:00 AM to 06:00 PM
   - **Exhibition Timings:**
-    - Saturday, 21st September: 09:00 hrs to 18:00 hrs
-    - Sunday, 22nd September: 09:00 hrs to 18:00 hrs
+    - Saturday, 21st September: 09:00 AM to 06:00 PM
+    - Sunday, 22nd September: 09:00 AM to 06:00 PM
   - **Dismantling:**
-    - Dismantling will start at 18:45 hrs on Sunday, 22nd September and must be completed by 20:00 hrs.
+    - Dismantling will start at 06:45 PM on Sunday, 22nd September and must be completed by 08:00 PM.
 
 > **Note:** The organizers reserve the right to change the information available in this guide. Please visit [https://in.pycon.org](https://in.pycon.org) for updates.
 
@@ -112,7 +112,7 @@ title: PyCon India 2024 Exhibitor's Guide
   - Maintain a professional presence in all demonstrations.
   - Ensure noise levels are kept to a minimum to avoid disturbing others.
 - **Access Control:**
-    - No outsiders without a conference pass are allowed inside the premises. If you need to bring extra people for logistics support, please contact the sponsorship workgroup or your point of contact (POC). Extra people may need to have a conference pass.
+    - No outsiders without a conference pass are allowed inside the premises.
     - Anyone without a valid ticket by the time of the opening address will be required to leave the premises.**
 
 - **Aisle Space:** Do not place items such as extra monitors or tables outside the booth that may obstruct hallways.
@@ -122,21 +122,6 @@ title: PyCon India 2024 Exhibitor's Guide
 - **Alcohol:** Alcohol is prohibited in booths at all times.
 - **Security:** PyCon India provides perimeter security, but each exhibitor is responsible for their own booth security.
 - **Photography and Recording:**: Obtain consent before taking pictures or recording videos of individuals or groups. Respect attendees' privacy and personal space.
-
-
-
----
-
-### 6. Schedule
-- **Move-In:** 
-  - Friday, 20th September 2024: 18:00 hrs
-- **Exhibition Timings:**
-  - Saturday, 21st September: 07:00 hrs to 18:30 hrs
-  - Sunday, 22nd September: 07:00 hrs to 18:30 hrs
-- **Move-Out:**
-  - Sunday, 22nd September: Starts at 19:00 hrs and must be completed by 20:30 hrs.
-
-> **Note:** Early dismantling is not allowed.
 
 ---
 
