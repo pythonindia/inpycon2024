@@ -10,7 +10,7 @@ During DevSprints, mentors/contributors of OSS projects guide participants throu
 
 ## When and Where?
 
-DevSprints for this edition of PyCon India will also be conducted at Google Office, Bengaluru.
+DevSprints for this edition of PyCon India will be conducted at Google Office, Bengaluru, on September 23rd, 2024 from 9 a.m. to 5 p.m.
 
 **Venue:**<br/>
 Google Bangalore—Kyoto Campus<br/>
