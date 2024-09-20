@@ -1,4 +1,10 @@
-Open Spaces
+---
+layout: content.liquid
+title: Open Spaces 
+---
+
+
+# Open Spaces
 -----------
 
 Open Spaces are self-organizing meetup-like events which happen in parallel with the main conference, held in dedicated **rooms on Level 1** of the Venue on the Conference Day 1 (21/09/2024).
