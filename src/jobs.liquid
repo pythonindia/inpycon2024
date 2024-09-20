@@ -5,6 +5,7 @@ layout: content.liquid
 <section class="container pt-md-4 pb-md-2" id="job-board">
   <h1 class="text-center">Job Board</h1>
   <div class="jobs-container">
+  {% if jobs.length > 0 %}
     {% for job in jobs %}
       <div class="col-12 d-flex mb-lg-0 mb-4 mt-4 p-2">
         <div class="jobcard card shadow p-4 rounded-md">
@@ -47,5 +48,10 @@ layout: content.liquid
         </div>
       </div>
     {% endfor %} 
+  {% else %}
+    <div class="fallback h-60" style="height:50vh;">
+    <p class="text-center">No jobs at the moment, come back and check in a few houts</p>
+    </div>
+  {% endif %}
   </div>
 </section>
