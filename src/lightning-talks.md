@@ -34,8 +34,6 @@ Slides are optional but encouraged!
 
 ## Lightning Talks at PyCon India 2024
 
-Please refer to the schedule for Lightning Talk slots. Registration opens on the day of the conference, and due to the likely high number of registrations, a selection process will determine which talks are accepted. You will be notified if your talk is selected.
-
 Please refer to the schedule for Lightning Talk slots. Registration will open on the day of the conference, and we will share a Google Form for submitting Lightning Talk proposals. Slots will be assigned on a first-come, first-served basis due to limited availability. You will be notified if your talk is selected.
 
 This has been inspired by:
