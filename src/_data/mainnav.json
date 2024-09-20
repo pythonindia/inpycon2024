@@ -8,6 +8,10 @@
                 "link": "/about/"
             },
             {
+                "name": "Mentors & Reviewers",
+                "link": "/mentors-reviewers/"
+            },
+            {
                 "name": "FAQ",
                 "link": "/faq/"
             },
