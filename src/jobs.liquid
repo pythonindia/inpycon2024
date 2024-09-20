@@ -3,9 +3,8 @@ layout: content.liquid
 ---
 
 <section class="container pt-md-4 pb-md-2" id="job-board">
-  <h1 class="text-center h1">Job Board</h1>
-  <p class="text-center fs-5 py-2">Submit your job posting <a href="https://forms.gle/tmZW88X944kDokwR9"> here </a></p>
-  <ul class="jobs-container" role="list">
+  <h1 class="text-center">Job Board</h1>
+  <div class="jobs-container">
   {% if jobs.length > 0 %}
     {% for job in jobs %}
       <li class="col-12 d-flex mb-lg-0 mb-4 mt-4 p-2" role="listitem">
@@ -50,7 +49,7 @@ layout: content.liquid
     {% endfor %} 
   {% else %}
     <div class="fallback h-60" style="height:50vh;">
-    <p class="text-center">No jobs at the moment, come back and check in a few hours...</p>
+    <p class="text-center">No jobs at the moment, come back and check in a few houts</p>
     </div>
   {% endif %}
   </div>
