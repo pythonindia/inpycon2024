@@ -1,0 +1,51 @@
+---
+layout: content.liquid
+---
+
+<section class="container pt-md-4 pb-md-2" id="job-board">
+  <h1 class="text-center">Job Board</h1>
+  <div class="jobs-container">
+    {% for job in jobs %}
+      <div class="col-12 d-flex mb-lg-0 mb-4 mt-4 p-2">
+        <div class="jobcard card shadow p-4 rounded-md">
+          <li class="d-flex flex-column">
+              <h4 class="text-dark">{{job.jobTitle}}</h4>
+          </li>
+
+          <li class="d-flex flex-column">
+            <a href="{{job.companyWebsite}}" class="talk-link">
+              <h5>{{job.companyName}}</h5>
+            </a>
+          </li>
+          <li class="d-flex flex-column">
+            <p class="yellow-text">
+              <span>{{job.jobType}}</span>
+              •
+              <span>{{job.jobLocation}}</span>
+            </p>
+          </li>
+          <p class="jobCard__description" style="text-align:left;">
+              {{job.jobDescription | truncate: 480}}
+          </p>
+
+          <div class="jobcard__links">
+            <a href="{{job.jobApplicationLink}}" target="_blank" class="
+                pycon-primary
+                white-hovertext
+                text-decoration-none
+                fw-bold
+              ">Apply &nbsp;<i class="fas fa-arrow-circle-right"></i></a>
+            &nbsp; &nbsp; &nbsp;
+            {% comment %} <a href="mailto: {{job.email}}" class="
+                pycon-primary
+                white-hovertext
+                text-decoration-none
+                fw-bold
+              ">Email &nbsp;<i class="fas fa-envelope"></i></a> {% endcomment %}
+          </div>
+
+        </div>
+      </div>
+    {% endfor %} 
+  </div>
+</section>
