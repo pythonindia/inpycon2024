@@ -3,29 +3,27 @@ layout: content.liquid
 ---
 
 <section class="container pt-md-4 pb-md-2" id="job-board">
-  <h1 class="text-center h1">Job Board</h1>
-  <p class="text-center fs-5 py-2">Submit your job posting <a href="https://forms.gle/tmZW88X944kDokwR9"> here </a></p>
-  <ul class="jobs-container" role="list">
-  {% if jobs.length > 0 %}
+  <h1 class="text-center">Job Board</h1>
+  <div class="jobs-container">
     {% for job in jobs %}
-      <li class="col-12 d-flex mb-lg-0 mb-4 mt-4 p-2" role="listitem">
+      <div class="col-12 d-flex mb-lg-0 mb-4 mt-4 p-2">
         <div class="jobcard card shadow p-4 rounded-md">
-          <div class="d-flex flex-column">
-              <h2 class="text-dark">{{job.jobTitle}}</h2>
-          </div>
+          <li class="d-flex flex-column">
+              <h4 class="text-dark">{{job.jobTitle}}</h4>
+          </li>
 
-          <div class="d-flex flex-column">
+          <li class="d-flex flex-column">
             <a href="{{job.companyWebsite}}" class="talk-link">
-              <h2 class="h5">{{job.companyName}}</h2>
+              <h5>{{job.companyName}}</h5>
             </a>
-          </div>
-          <div class="d-flex flex-column">
+          </li>
+          <li class="d-flex flex-column">
             <p class="yellow-text">
               <span>{{job.jobType}}</span>
               •
               <span>{{job.jobLocation}}</span>
             </p>
-          </div>
+          </li>
           <p class="jobCard__description" style="text-align:left;">
               {{job.jobDescription | truncate: 480}}
           </p>
@@ -45,13 +43,9 @@ layout: content.liquid
                 fw-bold
               ">Email &nbsp;<i class="fas fa-envelope"></i></a> {% endcomment %}
           </div>
+
         </div>
-      </li>
+      </div>
     {% endfor %} 
-  {% else %}
-    <div class="fallback h-60" style="height:50vh;">
-    <p class="text-center">No jobs at the moment, come back and check in a few hours...</p>
-    </div>
-  {% endif %}
   </div>
 </section>
