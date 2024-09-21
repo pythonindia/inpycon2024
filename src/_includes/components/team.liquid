@@ -1,30 +1,26 @@
 <!-- team -->
 <section class="team" id="team">
     <div class="container">
-        <details class="row align-items-center p-2 p-md-0" open>
-            <summary class="col-md-12 pt-5 pt-md-0 pb-5 mb-5">
-                <h2 class="title-2 text-center" data-aos="fade-up" data-aos-duration="1000">{{ heading }}</h2>
-            </summary>
-            <div class="row">
-            {% for member in team %}
-                <div class="column">
-                    <div class="card h-100">
-                        <div class="img-container">
-                        <img src="{{ member.image }}" alt="{{ member.name }}" />
-                        </div>
-                        <h3>{{ member.name }}</h3>
-                        <p>{{ member.intro  }}</p>
-                        <div class="icons">
-                            {% if member.x.length > 0 %}<a href="{{ member.x }}" aria-label="Twitter"><i class="fa fa-brands fa-x-twitter"></i></a>{% endif %}
-                            {% if member.linkedin.length > 0 %}<a href="{{ member.linkedin }}" aria-label="Linkedin"><i class="fa fa-brands fa-linkedin-in"></i></a>{% endif %}
-                            {% if member.mastodon.length > 0 %}<a href="{{ member.mastodon }}" aria-label="Mastodon"><i class="fa fa-brands fa-mastodon"></i></a>{% endif %}
-                            {% if member.instagram.length > 0 %}<a href="{{ member.instagram }}" aria-label="Instagram"><i class="fa fa-brands fa-instagram"></i></a></li>{% endif %}
-                            {% if member.website.length > 0 %}<a href="{{ member.website }}" aria-label="Website"><i class="fa fa-solid fa-globe"></i></a>{% endif %}
-                        </div>
+        <h2 class="title-2 text-center" data-aos="fade-up" data-aos-duration="1000">{{ heading }}</h2>
+        <div class="row">
+        {% for member in team %}
+            <div class="column">
+                <div class="card h-100">
+                    <div class="img-container">
+                    <img src="{{ member.image }}" alt="{{ member.name }}" />
+                    </div>
+                    <h3>{{ member.name }}</h3>
+                    <p>{{ member.intro  }}</p>
+                    <div class="icons">
+                        {% if member.x.length > 0 %}<a href="{{ member.x }}" aria-label="Twitter"><i class="fa fa-brands fa-x-twitter"></i></a>{% endif %}
+                        {% if member.linkedin.length > 0 %}<a href="{{ member.linkedin }}" aria-label="Linkedin"><i class="fa fa-brands fa-linkedin-in"></i></a>{% endif %}
+                        {% if member.mastodon.length > 0 %}<a href="{{ member.mastodon }}" aria-label="Mastodon"><i class="fa fa-brands fa-mastodon"></i></a>{% endif %}
+                        {% if member.instagram.length > 0 %}<a href="{{ member.instagram }}" aria-label="Instagram"><i class="fa fa-brands fa-instagram"></i></a></li>{% endif %}
+                        {% if member.website.length > 0 %}<a href="{{ member.website }}" aria-label="Website"><i class="fa fa-solid fa-globe"></i></a>{% endif %}
                     </div>
                 </div>
-            {% endfor %}
             </div>
-        </details>
+        {% endfor %}
+        </div>
     </div>
 </section>
