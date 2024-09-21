@@ -1,3 +1,4 @@
+{% assign currentDay = 'sep22' %}
 <section class="schedule pb-0 pb-md-5 pb-sm-3 pt-2" id="schedule">
   <div class="container pt-md-5 pt-3">
     <div class="row pt-md-5 pb-md-5 pt-2 pb-4 justify-content-center">
@@ -7,14 +8,14 @@
         {% for day in schedule %}
           <li class="nav-item" role="tab">
             <button
-            class="schedule-tab-link pt-2 {% if day.id == 'sep21' %}active{% endif %}"
+            class="schedule-tab-link pt-2 {% if day.id == currentDay %}active{% endif %}"
             id="pills-{{ day.id }}-tab"
             data-bs-toggle="pill"
             data-bs-target="#pills-{{ day.id }}"
             type="button"
             role="tab"
             aria-controls="pills-{{ day.id }}"
-            aria-selected="{% if day.id == 'sep21' %}true{% else %}false{% endif %}">
+            aria-selected="{% if day.id == currentDay %}true{% else %}false{% endif %}">
                 <div class="subtitle schedule-tab d-none d-md-block">{{ day.description | capitalize }}</div>
                 <h2 class="schedule-tab-link-text schedule-tab">{{ day.title }}</h2>
                 <div class="subtitle schedule-tab">{{ day.day }}</div>
@@ -26,7 +27,7 @@
           {% for day in schedule %}
             {% assign eventType = day.type %}
             {% assign trackLabels = day.trackLabels %}
-            <div class="tab-pane fade {% if day.id == 'sep21' %}show active{% endif %}" id="pills-{{ day.id }}"
+            <div class="tab-pane fade {% if day.id == currentDay %}show active{% endif %}" id="pills-{{ day.id }}"
             role="tabpanel" aria-labelledby="pills-{{ day.id }}-tab">
             <!-- Schedule Table for the Day -->
             <h3 class="h6 mt-4 d-block d-sm-none">{{day.description}}</h3>
