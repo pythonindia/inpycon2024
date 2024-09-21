@@ -4,7 +4,7 @@ layout: content.liquid
 
 <section class="container pt-md-4 pb-md-2" id="job-board">
   <h1 class="text-center">Job Board</h1>
-  <div class="jobs-container">
+  <ul class="jobs-container" role="list">
   {% if jobs.length > 0 %}
     {% for job in jobs %}
       <li class="col-12 d-flex mb-lg-0 mb-4 mt-4 p-2" role="listitem">
