@@ -4,11 +4,12 @@ layout: content.liquid
 
 <section class="container pt-md-4 pb-md-2" id="job-board">
   <h1 class="text-center h1">Job Board</h1>
-  <p class="text-center fs-5 py-2">Submit your job posting <a href="https://forms.gle/tmZW88X944kDokwR9"> here </a></p>
-  <ul class="jobs-container" role="list">
+  <p class="text-center fs-6 py-2">Submit your job posting <a href="https://forms.gle/tmZW88X944kDokwR9"> here </a></p>
+  <p class="text-center">Check out the <a href="/job-board-rules-and-guidelines/"> rules and guidelines </a></p>
   {% if jobs.length > 0 %}
+  <ul class="jobs-container" role="list">
     {% for job in jobs %}
-      <li class="col-12 d-flex mb-lg-0 mb-4 mt-4 p-2" role="listitem">
+      <li class="col-lg-4 col-12 d-flex mb-lg-0 mb-4 mt-4 p-2" role="listitem">
         <div class="jobcard card shadow p-4 rounded-md">
           <div class="d-flex flex-column">
               <h2 class="text-dark">{{job.jobTitle}}</h2>
@@ -48,10 +49,10 @@ layout: content.liquid
         </div>
       </li>
     {% endfor %} 
+  </ul>
   {% else %}
-    <div class="fallback h-60" style="height:50vh;">
-    <p class="text-center">No jobs at the moment, come back and check in a few hours...</p>
+    <div class="fallback h-60 mt-4" style="height:50vh;">
+    <p class="text-center fs-3 pt-4">No jobs at the moment, come back and check again in a few hours...</p>
     </div>
   {% endif %}
-  </div>
 </section>
