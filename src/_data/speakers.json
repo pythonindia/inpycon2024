@@ -108,7 +108,7 @@
   },
   {
     "name": "Sayan Pal",
-    "talkTitle": "Managing Python Environments for Jupyter Notebooks @ Uber",
+    "talkTitle": "Managing custom, reproducible Python virtual environments for PySpark and Jupyter Notebooks @ Uber",
     "bio": "Sayan is a senior software engineer at Uber, has nearly a decade of backend experience. From Kolkata, he enjoys platform development. He’s passionate about capital markets and tech, and in his free time, he travels, reads, and plays online chess.",
     "pronouns": "He/Him",
     "tagline": "Senior Software Engineer\nBackend & Data Platform",
@@ -303,7 +303,7 @@
   },
   {
     "name": "Abhik Sarkar",
-    "talkTitle": "Why Knowing Cython Helps in Understanding Python: A Deep Dive into Cython",
+    "talkTitle": "Why Knowing Cython Helps in Understanding Python: A Deep Dive into Cython & PVM",
     "bio": "Abhik Sarkar is the Head of Machine Learning at Cloudastructure, Inc., where he creates computer vision solutions for security. He’s driven to deeply understand and optimize every technical detail, from initial concept to final deployment.",
     "pronouns": "He/Him",
     "tagline": "Head of ML at Cloudastructure\nExpert in Computer Vision & Optimization",
@@ -331,7 +331,7 @@
   },
   {
     "name": "Tapan Avasthi",
-    "talkTitle": "Deep dive into Contextual Logging for Modern Python Applications",
+    "talkTitle": "Deep Dive into Contextual Logging for Modern Python Applications",
     "bio": "Tapan Avasthi is a seasoned software engineer with 10+ years of experience in backend technologies. He excels in engineering best practices and has led multiple high-impact projects, driven by his passion for building resilient systems.",
     "pronouns": "He",
     "tagline": "Seasoned Software Engineer\nDiagnostic Expert, Distributed Systems",
