@@ -17,16 +17,15 @@
     "website": "https://everythingpython.substack.com",
     "linkedin": "https://www.linkedin.com/in/abhiramr5459/",
     "mastodon": "",
-    "instagram": "",
-    "substack": ""
+    "instagram": ""
   },
   {
     "name": "Abhishek Kumar",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/mentors-reviewers/abhishek-kumar.jpg",
     "intro": "Mentor",
     "x": "",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/iabhi7/",
     "mastodon": "",
     "instagram": ""
   },
@@ -42,12 +41,12 @@
   },
   {
     "name": "Anant Shrivastava",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/mentors-reviewers/anant-shrivastava.jpg",
     "intro": "CFP Reviewer",
-    "x": "",
-    "website": "",
-    "linkedin": "",
-    "mastodon": "",
+    "x": "https://twitter.com/anantshri/",
+    "website": "https://anantshri.info/",
+    "linkedin": "https://www.linkedin.com/in/anantshri/",
+    "mastodon": "https://social.anantshri.info/@anant",
     "instagram": ""
   },
   {
@@ -62,21 +61,21 @@
   },
   {
     "name": "Archana Iyer",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/mentors-reviewers/archana-iyer.jpg",
     "intro": "CFP Reviewer",
-    "x": "",
-    "website": "",
-    "linkedin": "",
+    "x": "https://twitter.com/varchanaiyer_",
+    "website": "https://www.varchana.com/",
+    "linkedin": "https://www.linkedin.com/in/archana-iyer/",
     "mastodon": "",
     "instagram": ""
   },
   {
     "name": "Arko Sabui",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/mentors-reviewers/arko-sabui.jpg",
     "intro": "CFP Reviewer",
     "x": "",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/arko-sabui-a160b497/",
     "mastodon": "",
     "instagram": ""
   },
@@ -102,11 +101,11 @@
   },
   {
     "name": "Devi A S L",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/speakers/devi-a-s-l.jpg",
     "intro": "Mentor",
     "x": "",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/asldevi",
     "mastodon": "",
     "instagram": ""
   },
@@ -132,13 +131,13 @@
   },
   {
     "name": "Jaidev Deshpande",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/speakers/jaidev-deshpande.jpg",
     "intro": "Mentor",
-    "x": "",
+    "x": "https://x.com/jaidevd",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/in/jaidevd",
     "mastodon": "",
-    "instagram": ""
+    "instagram": "https://instagram.com/jaidevd"
   },
   {
     "name": "Kalyan Prasad",
@@ -192,11 +191,11 @@
   },
   {
     "name": "Praveen Patil",
-    "image": "/image/ZadraSol.webp",
+    "image": "https://avatars.githubusercontent.com/u/7612306?v=4",
     "intro": "CFP Reviewer",
     "x": "",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/praveen-patil-5771a631/",
     "mastodon": "",
     "instagram": ""
   },
@@ -242,41 +241,41 @@
   },
   {
     "name": "Sasidhar Donaparthi",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/speakers/sasidhar-donaparthi.jpg",
     "intro": "Mentor",
-    "x": "",
+    "x": "https://x.com/sdonapar",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/sasidonaparthi/",
     "mastodon": "",
-    "instagram": ""
+    "instagram": "https://www.instagram.com/sdonapar/"
   },
   {
-    "name": "Snehith",
-    "image": "/image/ZadraSol.webp",
+    "name": "Snehith Allamraju",
+    "image": "/image/mentors-reviewers/snehith-allamraju.jpg",
     "intro": "CFP Reviewer",
     "x": "",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/snehithallamraju/",
     "mastodon": "",
     "instagram": ""
   },
   {
     "name": "Sukanya Mandal",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/mentors-reviewers/sukanya-mandal.jpg",
     "intro": "CFP Reviewer",
     "x": "",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/sukanyamandal/",
     "mastodon": "",
     "instagram": ""
   },
   {
     "name": "Usha Rengaraju",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/keynotes/usha.jpeg",
     "intro": "CFP Reviewer",
     "x": "",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/usha-rengaraju-b570b7a2/",
     "mastodon": "",
     "instagram": ""
   }

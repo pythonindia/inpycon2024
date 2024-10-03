@@ -127,11 +127,9 @@
     "tagline": "Data Scientist\n25+ years in IT & Python Enthusiast",
     "talkCategory": "Talk",
     "socials": {
-      "linkedin": "Linkedin - https://www.linkedin.com/in/sasidonaparthi/",
-      "instagram": "instagram - https://www.instagram.com/sdonapar/",
-      "other": [
-        "X - @sdonapar"
-      ]
+      "linkedin": "https://www.linkedin.com/in/sasidonaparthi/",
+      "instagram": "https://www.instagram.com/sdonapar/",
+      "twitter": "https://x.com/sdonapar"
     }
   },
   {
