@@ -61,7 +61,7 @@
   },
   {
     "name": "Akashnil Roy",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/team/akashnil_roy.jpg",
     "intro": "Communication WG Lead",
     "x": "https://x.com/akashnil64",
     "website": "",
@@ -113,11 +113,11 @@
     "name": "Aravind Sekar",
     "image": "/image/ZadraSol.webp",
     "intro": "Design WG Lead",
-    "x": "",
+    "x": "https://x.com/iamaravindsekar",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/in/meet-aravindsekar",
     "mastodon": "",
-    "instagram": ""
+    "instagram": "https://www.instagram.com/iamaravindsekar/"
   },
   {
     "name": "Pratik Anurag",
@@ -141,13 +141,13 @@
   },
   {
     "name": "Rayan Das",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/team/rayan_das.png",
     "intro": "Finance WG Lead",
-    "x": "",
+    "x": "https://x.com/raydeeam",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/rayandas",
     "mastodon": "",
-    "instagram": ""
+    "instagram": "https://instagram.com/raydeeam"
   },
   {
     "name": "Kalyan Prasad",
@@ -170,14 +170,14 @@
     "instagram": ""
   },
   {
-    "name": "Vamsi",
-    "image": "/image/ZadraSol.webp",
+    "name": "Vamsi Krishna",
+    "image": "https://avatars.githubusercontent.com/u/11007620",
     "intro": "Technology Team",
-    "x": "",
-    "website": "",
-    "linkedin": "",
+    "x": "https://x.com/vamc_me",
+    "website": "https://vamc.dev",
+    "linkedin": "https://www.linkedin.com/in/vamsikrishnakolli/",
     "mastodon": "",
-    "instagram": ""
+    "instagram": "https://www.instagram.com/vamc.me/"
   },
   {
     "name": "Ritesh",
@@ -230,21 +230,21 @@
     "instagram": ""
   },
   {
-    "name": "Arjun",
-    "image": "/image/ZadraSol.webp",
+    "name": "Arjun Suresh",
+    "image": "/image/team/arjun_suresh.jpeg",
     "intro": "Design Team",
-    "x": "",
-    "website": "",
-    "linkedin": "",
+    "x": "https://x.com/whoperpetuity",
+    "website": "https://arjunsuresh.vercel.app/",
+    "linkedin": "https://www.linkedin.com/in/arjun-suresh108/",
     "mastodon": "",
-    "instagram": ""
+    "instagram": "https://www.instagram.com/ea_arjun/"
   },
   {
     "name": "Haris",
     "image": "/image/ZadraSol.webp",
     "intro": "Content Team",
-    "x": "",
-    "website": "",
+    "x": "https://x.com/harisibrahimkv",
+    "website": "https://sosaysharis.wordpress.com",
     "linkedin": "",
     "mastodon": "",
     "instagram": ""
@@ -261,7 +261,7 @@
   },
   {
     "name": "Pranav Puri",
-    "image": "/image/ZadraSol.webp",
+    "image": "https://1.gravatar.com/avatar/0b3b2061570593dca980190bb0ce26cdf82d731349894e01c404fb116475867e?size=256",
     "intro": "Logistics Team",
     "x": "twitter.com/kybrdbnd",
     "website": "",
@@ -281,13 +281,13 @@
   },
   {
     "name": "Arockiaraj Rayappan",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/team/arockiaraj.jpg",
     "intro": "CFP Team",
-    "x": "",
+    "x": "https://x.com/arockiaraj1994",
     "website": "",
-    "linkedin": "",
-    "mastodon": "",
-    "instagram": ""
+    "linkedin": "https://www.linkedin.com/in/arockiaraj-rayappan/",
+    "mastodon": "https://mastodon.social/@arockiaraj",
+    "instagram": "https://www.instagram.com/arockiaraj_rayappan/"
   },
   {
     "name": "Benison Abraham",
@@ -313,6 +313,16 @@
     "name": "Pavan",
     "image": "/image/ZadraSol.webp",
     "intro": "CFP Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Anuvrat",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
     "x": "",
     "website": "",
     "linkedin": "",
@@ -350,37 +360,37 @@
     "instagram": ""
   },
   {
-    "name": "Riya",
+    "name": "Riya Dutta",
     "image": "/image/ZadraSol.webp",
     "intro": "Communication Team",
     "x": "",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/riya-dutta-8a15aa134/",
     "mastodon": "",
-    "instagram": ""
+    "instagram": "https://www.instagram.com/_riya_dutta/"
   },
   {
-    "name": "Akshit",
+    "name": "Akshit Tyagi",
     "image": "/image/ZadraSol.webp",
     "intro": "Communication Team",
-    "x": "",
+    "x": "https://x.com/flynnzler",
     "website": "",
-    "linkedin": "",
-    "mastodon": "",
-    "instagram": ""
+    "linkedin": "https://www.linkedin.com/in/akshit-tyagi42",
+    "mastodon": "https://fosstodon.org/@exitflynn",
+    "instagram": "https://www.instagram.com/akshit_tyagi42"
   },
   {
-    "name": "Ashok",
-    "image": "/image/ZadraSol.webp",
+    "name": "Ashok Tankala",
+    "image": "/image/team/ashok.jpg",
     "intro": "Communication Team",
-    "x": "",
-    "website": "",
-    "linkedin": "",
+    "x": "https://x.com/ashok_tankala",
+    "website": "https://ashok.tanka.lanhttps://piptrends.com/",
+    "linkedin": "https://www.linkedin.com/in/ashoktankala/",
     "mastodon": "",
-    "instagram": ""
+    "instagram": "https://www.instagram.com/ashoktankala/"
   },
   {
-    "name": "Chandan",
+    "name": "Chandan Kumar",
     "image": "/image/ZadraSol.webp",
     "intro": "Code of Conduct Committee",
     "x": "",
@@ -390,14 +400,14 @@
     "instagram": ""
   },
   {
-    "name": "Samarpita",
-    "image": "/image/ZadraSol.webp",
+    "name": "Samarpita Saha",
+    "image": "/image/team/samarpita_saha.jpg",
     "intro": "Logistics Team",
     "x": "",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/samarpita-saha-4b20611a7/",
     "mastodon": "",
-    "instagram": ""
+    "instagram": "https://www.instagram.com/sam_samarpita_saha/profilecard/?igsh=dzY5cGJuanEya2w="
   },
   {
     "name": "Shilpi",
@@ -421,76 +431,46 @@
   },
   {
     "name": "Ashish Kumar Mishra",
-    "image": "/image/ZadraSol.webp",
-    "intro": "Volunteer Management Team",
-    "x": "",
-    "website": "",
-    "linkedin": "",
+    "image": "/image/team/ashish_mishra.jpeg",
+    "intro": "Volunteer Management WG Co-Lead",
+    "x": "https://x.com/ashish10677",
+    "website": "https://ashishkumarmishra.me",
+    "linkedin": "https://www.linkedin.com/in/ashish10677",
     "mastodon": "",
-    "instagram": ""
+    "instagram": "https://www.instagram.com/ashish10677"
   },
   {
     "name": "Anshuman",
     "image": "/image/ZadraSol.webp",
     "intro": "Event Ops",
+    "x": "https://x.com/ansh_meii",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/anshuman24/",
+    "mastodon": "",
+    "instagram": "https://www.instagram.com/anshuman.me/"
+  },
+  {
+    "name": "Anjuman",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
     "x": "",
     "website": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/anjuman-9b87511b8",
     "mastodon": "",
-    "instagram": ""
+    "instagram": "https://www.instagram.com/anm__107/profilecard/?igsh=dWQxNzZzdnBhNW05"
   },
   {
     "name": "Surbhi Kathuria",
-    "image": "/image/ZadraSol.webp",
+    "image": "/image/team/surbhi_kathuria.jpg",
     "intro": "Event Ops",
     "x": "",
     "website": "",
-    "linkedin": "",
+    "linkedin": "www.linkedin.com/in/surbhikathuria09",
     "mastodon": "",
-    "instagram": ""
-  },
-  {
-    "name": "Felix Stephen Anthuvan",
-    "image": "/image/ZadraSol.webp",
-    "intro": "Event Ops",
-    "x": "",
-    "website": "",
-    "linkedin": "",
-    "mastodon": "",
-    "instagram": ""
-  },
-  {
-    "name": "Tushar Sadhwani",
-    "image": "/image/ZadraSol.webp",
-    "intro": "Event Ops",
-    "x": "",
-    "website": "",
-    "linkedin": "",
-    "mastodon": "",
-    "instagram": ""
-  },
-  {
-    "name": "Paritosh Mishra",
-    "image": "/image/ZadraSol.webp",
-    "intro": "Event Ops",
-    "x": "",
-    "website": "",
-    "linkedin": "",
-    "mastodon": "",
-    "instagram": ""
+    "instagram": "https://www.instagram.com/surbhik09/?next=%2F&hl=en"
   },
   {
     "name": "Mahendra Yadav",
-    "image": "/image/ZadraSol.webp",
-    "intro": "Event Ops",
-    "x": "",
-    "website": "",
-    "linkedin": "",
-    "mastodon": "",
-    "instagram": ""
-  },
-  {
-    "name": "Alagu Prakalya",
     "image": "/image/ZadraSol.webp",
     "intro": "Event Ops",
     "x": "",
@@ -510,7 +490,167 @@
     "instagram": ""
   },
   {
-    "name": "Nilesh Kumar Patel",
+    "name": "Vedant Kakde",
+    "image": "https://avatars.githubusercontent.com/u/69970950",
+    "intro": "Event Ops",
+    "x": "https://x.com/vedantstwt",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/vedant-kakde",
+    "mastodon": "",
+    "instagram": "https://www.instagram.com/vedantkakde.tech"
+  },
+  {
+    "name": "Ganesh Hubale",
+    "image": "https://avatars.githubusercontent.com/u/25399590",
+    "intro": "Event Ops",
+    "x": "https://x.com/HubaleGanesh",
+    "website": "https://ganeshhubale.github.io/",
+    "linkedin": "https://www.linkedin.com/in/ganeshhubale",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Suraj Jadhav",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Hitesha",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Diversity Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Tiyasha Banerjee",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Isha Chaturvedi",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Keerthi Nataraj",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Diversity Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Sohom",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Logistics Team",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Bhuvnesh",
+    "image": "/image/team/bhuvnesh.jpg",
+    "intro": "Event Ops",
+    "x": "https://x.com/devilsautumn",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/devilsautumn/",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Tarun Kolli",
+    "image": "https://avatars.githubusercontent.com/u/180951541",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/tarun-kolli/",
+    "mastodon": "",
+    "instagram": "https://www.instagram.com/__tarun_kolli"
+  },
+  {
+    "name": "Rahul Jha",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "https://x.com/antisemantic",
+    "website": "https://rj722.com",
+    "linkedin": "https://www.linkedin.com/in/rj722/",
+    "mastodon": "",
+    "instagram": "https://instagram.com/handleofrahul"
+  },
+  {
+    "name": "Arthi Murali",
+    "image": "/image/team/arthi.jpg",
+    "intro": "Event Ops",
+    "x": "https://x.com/meetarthi/",
+    "website": "https://meetarthi.com/",
+    "linkedin": "https://www.linkedin.com/in/meetarthi/",
+    "mastodon": "",
+    "instagram": "https://www.instagram.com/arthi_ishita"
+  },
+  {
+    "name": "Gaurav",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Nikhil",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Mohit",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Dishant",
+    "image": "/image/ZadraSol.webp",
+    "intro": "Event Ops",
+    "x": "",
+    "website": "",
+    "linkedin": "",
+    "mastodon": "",
+    "instagram": ""
+  },
+  {
+    "name": "Ratan",
     "image": "/image/ZadraSol.webp",
     "intro": "Event Ops",
     "x": "",
