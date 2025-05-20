@@ -1,9 +1,9 @@
 ---
 layout: content.liquid
-title: Code Of Conduct
+title: Transparency Report
 ---
 
-# PyCon India 2024 – Transparency Report
+## About the Event
 
 - **Event Dates**: September 20–23, 2024
 - **Location**: NIMHANS Convention Centre, Bengaluru
